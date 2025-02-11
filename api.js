@@ -1,9 +1,16 @@
-try {const response = fetch('http://lukaserver.ddns.net:81/songs');}
-catch (err) {
-	console.log("Error");
-}
+const errorElement = document.getElementById('error');
 
+$.ajax({
+	url: "http://lukaserver.ddns.net:81/songs",
 
+	success: function(data) {
+	errorElement.style.display = 'none';
+	}
+,
+    error: function() {
+	errorElement.style.display = 'visible';
+	}
+})
 export async function getSongs() {
 	const response = await fetch('http://lukaserver.ddns.net:81/songs');
 	const songs = await response.json();

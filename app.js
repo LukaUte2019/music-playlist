@@ -1,11 +1,7 @@
 import { getSongs } from "./api.js";
 
 const tableBody = document.getElementById('table-body');
-const errorElement = document.getElementById('error');
 const input = document.getElementById('search');
-
-errorElement.style.display = 'none';
-
 let songsList = [];
 
 bindEventListeners();
@@ -17,7 +13,6 @@ getSongs().then((songs) => {
 
 function renderTableData(songs) {
 	tableBody.innerHTML = '';
-
 	songs.forEach((song) => {
 		const row = document.createElement('tr');
 
