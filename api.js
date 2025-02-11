@@ -1,3 +1,9 @@
+try {const response = fetch('http://lukaserver.ddns.net:81/songs');}
+catch (err) {
+	console.log("Error");
+}
+
+
 export async function getSongs() {
 	const response = await fetch('http://lukaserver.ddns.net:81/songs');
 	const songs = await response.json();

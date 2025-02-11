@@ -6,14 +6,10 @@ const input = document.getElementById('search');
 
 errorElement.style.display = 'none';
 
-function showError() {
-	errorElement.style.display = 'visible';
-}
 let songsList = [];
 
 bindEventListeners();
 getSongs().then((songs) => {
-	console.log(songs);
 
 	songsList = songs;
 	renderTableData(songs);
@@ -44,6 +40,10 @@ function renderTableData(songs) {
 		tableBody.append(row);
 	})
 }
+ try{} catch(err) {
+    message.innerHTML = "Input is " + err;
+  }
+
 
 function bindEventListeners() {
 	input.addEventListener('input', () => {
