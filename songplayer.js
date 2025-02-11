@@ -7,7 +7,7 @@ function playSong(songurl, songid) {
 	audioElement.src = songurl;
 
 	if (playPause.innerText == "Play") {
-		playPause.innerText = "Pause";
+		playPause.innerText = "Stop";
 		audioElement.play();
 	} else {
 		playPause.innerText = "Play";
