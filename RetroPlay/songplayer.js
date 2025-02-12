@@ -9,8 +9,10 @@ function playSong(songurl, songid) {
 	if (playPause.innerText == "Play") {
 		playPause.innerText = "Stop";
 		audioElement.play();
+		console.log(`Started playing audio stream: ${songurl}`)
 	} else {
 		playPause.innerText = "Play";
 		audioElement.pause();
+		console.log(`Paused audio stream: ${songurl}`)
 	}
 }
