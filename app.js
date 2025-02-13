@@ -1,40 +1,45 @@
 import { getSongs } from "./api.js";
 
 const tableBody = document.getElementById('table-body');
+const errorElement = document.getElementById('error');
 const input = document.getElementById('search');
 const select = document.getElementById('genre');
-const playListBtn = document.getElementById('page-playlist-btn');
-const musicListBtn = document.getElementById('page-music-btn');
+const restricted = document.getElementById('restricted');
+const playlistBtn = document.getElementById('page-playlist-btn');
+const musicBtn = document.getElementById('page-music-btn');
+const pagination = document.getElementById('pagination');
 
+errorElement.style.display = 'none';
 let songsList = [];
-let playList = [];
+let playlist = [];
 let isPlaylist = false;
 let songsPerPage = 10;
-let currentPage = 0;
+let currentPage = 1;
 
 bindEventListeners();
 getSongs().then((songs) => {
+	console.log(songs);
 
 	songsList = songs;
-	renderTableData(songs,false);
+	renderTableData(songs);
 	generateGenres();
 });
 
-function renderTableData(songs,isPlayist) {
+function renderTableData(songs) {
 	tableBody.innerHTML = '';
 
 	const startIndex = (currentPage - 1) * songsPerPage;
 	const endIndex = startIndex + songsPerPage;
-	const slicedSongs = songs.slice(startIndex, endIndex);
+	const slicedSongs = songs.slice(startIndex, endIndex)
 
-	songs.forEach((song) => {
+	slicedSongs.forEach((song) => {
 		const row = document.createElement('tr');
 
 		const idCell = document.createElement('td');
 		idCell.innerText = song.id;
 
 		const titleCell = document.createElement('td');
-		titleCell.innerHTML = `<a style="text-decoration: none; color:inherit;" "target="_blank";" href="javascript:playSong('${song.songurl}','${song.id}');">${song.songName}</a>`;
+		titleCell.innerHTML = `<a style="text-decoration: none; color:inherit;" "target="_blank";" href="javascript:playSong('${song.songurl}','${song.id}');">${song.songName}</a>`
 
 		const artistCell = document.createElement('td');
 		artistCell.innerHTML = `<a href="https://www.google.com/search?q=${song.artistName}" style="text-decoration: none; color:inherit;";">${song.artistName}</a>`;
@@ -42,58 +47,112 @@ function renderTableData(songs,isPlayist) {
 		const playCell = document.createElement('td');
 		playCell.innerHTML = `<a id="play-btn-${song.id}" style="text-decoration: none;" href="javascript:playSong('${song.songurl}','${song.id}');">Play</a>`;
 
+		const genreCell = document.createElement('td');
+		genreCell.innerText = song.genre;
+
+		const releaseCell = document.createElement('td');
+		releaseCell.innerText = song.year;
+
+		const bandCell = document.createElement('td');
+		bandCell.innerHTML = `<a href="https://www.google.com/search?q=${song.bandinfo.singer2} and ${song.bandinfo.singer2}" style="text-decoration: none; color:inherit;";">${song.bandinfo.singer1} and ${song.bandinfo.singer2}</a>`
+
+		const djcell = document.createElement('td');
+		djcell.innerHTML = `<a href="https://www.google.com/search?q=${song.bandinfo.person3}" style="text-decoration: none; color:inherit;";">${song.bandinfo.person3}</a>`
+
 		const actionsCell = document.createElement('td');
-		actionsCell.innerHTML = isPlayist?
-			`<button id="add-btn-${song.id}" class="btn btn-danger">Remove from playlist</button>`:
-            `<button id="add-btn-${song.id}" class="btn btn-primary">Add to playlist</button>`;
-		row.append(idCell, titleCell, artistCell, playCell, actionsCell);
+		actionsCell.innerHTML = isPlaylist ?
+			`<button id="remove-btn-${song.id}" class="btn btn-danger">Remove from playlist</button>` :
+			`<button id="add-btn-${song.id}" class="btn btn-primary">Add to playlist</button>`;
+
+		// if (isPlaylist) {
+		// 	actionsCell.innerHTML = `<button id="remove-btn-${song.id}" class="btn btn-danger">Remove from playlist</button>`
+		// } else {
+		// 	actionsCell.innerHTML = `<button id="add-btn-${song.id}" class="btn btn-primary">Add to playlist</button>`
+		// }
+
+		row.append(idCell, titleCell, artistCell, genreCell, bandCell, djcell, playCell, actionsCell);
 		tableBody.append(row);
-		const isSongInPlaylist = playList.find((playListSong) => playListSong.id === song.id);
-		if (isSongInPlaylist && isPlayist) {
+
+		const isSongInPlaylist = playlist.find((playlistSong) => playlistSong.id === song.id);
+		if (isSongInPlaylist && !isPlaylist) {
 			const addBtn = document.getElementById(`add-btn-${song.id}`);
 			addBtn.classList.add('disabled');
 		}
 	});
 
-	bindRowButtonEventListerners(slicedSongs);
+	bindRowButtonEventListeners(slicedSongs);
 	generatePagination(songs);
 }
- try{} catch(err) {
-    message.innerHTML = "Input is " + err;
-  }
-
 
 function bindEventListeners() {
 	input.addEventListener('input', () => {
 		filterSongs();
-	})
+	});
 
 	select.addEventListener('input', () => {
 		filterSongs();
-	})
+	});
 
-	playListBtn.addEventListener('click', () => {
-		renderTableData(playList, true);
-	})
+	restricted.addEventListener('input', () => {
+		filterSongs();
+	});
 
-	musicListBtn.addEventListener('click', () => {
-		renderTableData(songsList, false);
+	playlistBtn.addEventListener('click', () => {
+		isPlaylist = true;
+		renderTableData(playlist);
+	});
+
+	musicBtn.addEventListener('click', () => {
+		isPlaylist = false;
+		renderTableData(songsList);
 	})
 }
 
 function filterSongs() {
-	// this is filter by search
+	// console.log('CALLED FILTER');
+
+	// this is filter from input
 	const searchValue = input.value.trim().toLowerCase();
 
-	let filterSongs = songsList.map(song => song);
+	// get a copy of the songs list
+	let filteredSongs = isPlaylist ? [...playlist] : songsList.map(song => song);
+	// let filteredSongs = [...songsList];
 
-	const filteredSongs = songsList.filter((song) => {
-		return song.songName.toLowerCase().includes(searchValue) ||
-			song.artistName.toLowerCase().includes(searchValue);
+	// filter out songs in playlist
+	// filteredSongs = filteredSongs.filter((song) => {
+	// 	return !playlist.find((playlistSong) => playlistSong.id === song.id)
+	// })
+
+	if (searchValue) {
+		filteredSongs = filteredSongs.filter((song) => {
+			return song.songName.toLowerCase().includes(searchValue) ||
+				song.artistName.toLowerCase().includes(searchValue)
+		});
+	}
+
+	// this is filter by genre
+	const genreValue = select.value;
+	if (genreValue) {
+		filteredSongs = filteredSongs.filter((song) => {
+			if (genreValue === 'Select Genre') {
+				return true;
+			}
+			return song.genre === genreValue;
+		});
+	}
+
+	const isRestrictedChecked = restricted.checked;
+	filteredSongs = filteredSongs.filter((song) => {
+		if (!isRestrictedChecked) {
+			return song.restricted === 'None'
+		}
+
+		return true;
 	});
 
-
-	renderTableData(filteredSongs,false);
+	// console.log(restricted.checked)
+	// console.log(filteredSongs);
+	renderTableData(filteredSongs);
 }
 
 function generateGenres() {
@@ -106,9 +165,8 @@ function generateGenres() {
 	}, []);
 
 	console.log(genres)
-}
 
-const selectGenreOptions = document.createElement('option');
+	const selectGenreOptions = document.createElement('option');
 	selectGenreOptions.innerText = 'Select Genre';
 	select.append(selectGenreOptions);
 
@@ -116,52 +174,65 @@ const selectGenreOptions = document.createElement('option');
 		const optionElement = document.createElement('option');
 		optionElement.innerText = genre;
 		optionElement.setAttribute('value', genre);
-	})
 
-	function bindRowButtonEventListerners(song) {
+		select.append(optionElement);
+	})
+}
+
+function bindRowButtonEventListeners(songsList) {
+	if (!isPlaylist) {
 		songsList.forEach((song) => {
-			const addtoPlaylistButton = document.getElementById(`add-btn-${song.id}`);
-			addtoPlaylistButton.addEventListener('click', () => {
+			const addToPlaylistButton = document.getElementById(`add-btn-${song.id}`);
+			addToPlaylistButton.addEventListener('click', () => {
 				addSongToPlaylist(song);
 			})
-	})
+		})
+	} else {
+		songsList.forEach((song) => {
+			const removeFromPlaylistButton = document.getElementById(`remove-btn-${song.id}`);
+			removeFromPlaylistButton.addEventListener('click', () => {
+				removeSongFromPlaylist(song);
+			})
+		})
+	}
 }
 
 function addSongToPlaylist(song) {
-	playList.push(song);
-	filterSongs();
-	console.log(song);
+	playlist.push(song);
+	// console.log(playlist)
+	// filterSongs()
 	const addToPlaylistButton = document.getElementById(`add-btn-${song.id}`);
 	addToPlaylistButton.classList.add('disabled')
-
-
 }
 
 function removeSongFromPlaylist(song) {
-	playList = playList.filter((playListSong) => {
-		return playListSong.id !== song.id
+	playlist = playlist.filter((playlistSong) => {
+		return playlistSong.id !== song.id;
 	});
-} 
-renderTableData(playList, true);
+
+	renderTableData(playlist);
+}
 
 function generatePagination(songs) {
-	const totalPage = Math.ceil(songs.length / songsPerPage);
+	const totalPages = Math.ceil(songs.length / songsPerPage);
 
-	for(let i = 1; i <= totalPage; i++) {
+	pagination.innerHTML = '';
+
+	for (let i = 1; i <= totalPages; i++) {
 		const li = document.createElement('li');
 		li.innerHTML = `<a class="page-link ${i === 1 ? 'active' : ''}" id="page-link-${i}" href="#">${i}</a>`;
-
 		pagination.append(li);
-      li.addEventListener('click', () => {
-	  	currentPage = i;
-	  	renderTableData(songs);
 
-		  const activeElement = document.getElementsByClassName('page-link active');
-		  if (activeElement) {
-			  activeElement[0].classList.remove('active')
-		  }
+		li.addEventListener('click', () => {
+			const activeElement = document.getElementsByClassName('page-link active');
+			if (activeElement) {
+				activeElement[0].classList.remove('active')
+			}
+			currentPage = i;
+			renderTableData(songs);
 
-		document.getElementById(`page-link-${i}`).classList.add('active');
-	  })
+
+			document.getElementById(`page-link-${i}`).classList.add('active');
+		});
 	}
 }
