@@ -57,7 +57,7 @@ function renderTableData(songs) {
 		bandCell.innerHTML = `<div title="${song.bandinfo.singer1.description } and ${song.bandinfo.singer2.description}"><a href="https://www.google.com/search?q=${song.bandinfo.singer1.fulName} and ${song.bandinfo.singer2.fulName}" style="text-decoration: none; color:inherit;";">${song.bandinfo.NamesOfSingers}</a></div>`
   
         const wasonIDJShowCell = document.createElement('td');
-		wasonIDJShowCell.innerHTML = `<a href="https://www.google.com/search?q=${song.bandinfo.singer1.fulName}" style="text-decoration: none; color:inherit;";">${song.bandinfo.singer1.wasOnIDJShow}</a>`
+		wasonIDJShowCell.innerHTML = `<a href="https://www.google.com/search?q=${song.bandinfo.singer1.fulName} on IDJ Show" style="text-decoration: none; color:inherit;";">${song.bandinfo.singer1.wasOnIDJShow}</a>`
 
 		const djcell = document.createElement('td');
 		djcell.innerHTML = `<a href="https://www.google.com/search?q=${song.bandinfo.existentDJinBand}" style="text-decoration: none; color:inherit;";">${song.bandinfo.existentDJinBand}</a>`
@@ -129,7 +129,8 @@ function filterSongs() {
 	if (searchValue) {
 		filteredSongs = filteredSongs.filter((song) => {
 			return song.songName.toLowerCase().includes(searchValue) ||
-				song.artistName.toLowerCase().includes(searchValue)
+				song.artistName.toLowerCase().includes(searchValue) ||
+				song.bandinfo.NamesOfSingers.toLowerCase().includes(searchValue)
 		});
 	}
 
