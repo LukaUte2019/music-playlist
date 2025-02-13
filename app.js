@@ -54,7 +54,7 @@ function renderTableData(songs) {
 		releaseCell.innerText = song.year;
 
 		const bandCell = document.createElement('td');
-		bandCell.innerHTML = `<a href="https://www.google.com/search?q=${song.bandinfo.singer1.fulName} and ${song.bandinfo.singer2.fulName}" style="text-decoration: none; color:inherit;";">${song.bandinfo.NamesOfSingers}</a>`
+		bandCell.innerHTML = `<div title="${song.bandinfo.singer1.description } and ${song.bandinfo.singer2.description}"><a href="https://www.google.com/search?q=${song.bandinfo.singer1.fulName} and ${song.bandinfo.singer2.fulName}" style="text-decoration: none; color:inherit;";">${song.bandinfo.NamesOfSingers}</a></div>`
   
         const wasonIDJShowCell = document.createElement('td');
 		wasonIDJShowCell.innerHTML = `<a href="https://www.google.com/search?q=${song.bandinfo.singer1.fulName}" style="text-decoration: none; color:inherit;";">${song.bandinfo.singer1.wasOnIDJShow}</a>`
