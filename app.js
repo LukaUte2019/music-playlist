@@ -54,10 +54,13 @@ function renderTableData(songs) {
 		releaseCell.innerText = song.year;
 
 		const bandCell = document.createElement('td');
-		bandCell.innerHTML = `<a href="https://www.google.com/search?q=${song.bandinfo.singer2} and ${song.bandinfo.singer2}" style="text-decoration: none; color:inherit;";">${song.bandinfo.singer1} and ${song.bandinfo.singer2}</a>`
+		bandCell.innerHTML = `<a href="https://www.google.com/search?q=${song.bandinfo.singer1.fulName} and ${song.bandinfo.singer2.fulName}" style="text-decoration: none; color:inherit;";">${song.bandinfo.NamesOfSingers}</a>`
+  
+        const  wasonIDJShowCell = document.createElement('td');
+		wasonIDJShowCell.innerHTML = `<a href="https://www.google.com/search?q=${song.bandinfo.singer1.fulName}" style="text-decoration: none; color:inherit;";">${song.bandinfo.singer1.wasOnIDJShow}</a>`
 
 		const djcell = document.createElement('td');
-		djcell.innerHTML = `<a href="https://www.google.com/search?q=${song.bandinfo.person3}" style="text-decoration: none; color:inherit;";">${song.bandinfo.person3}</a>`
+		djcell.innerHTML = `<a href="https://www.google.com/search?q=${song.bandinfo.existentDJinBand}" style="text-decoration: none; color:inherit;";">${song.bandinfo.existentDJinBand}</a>`
 
 		const actionsCell = document.createElement('td');
 		actionsCell.innerHTML = isPlaylist ?
@@ -70,7 +73,7 @@ function renderTableData(songs) {
 		// 	actionsCell.innerHTML = `<button id="add-btn-${song.id}" class="btn btn-primary">Add to playlist</button>`
 		// }
 
-		row.append(idCell, titleCell, artistCell, genreCell, bandCell, djcell, playCell, actionsCell);
+		row.append(idCell, titleCell, artistCell, genreCell, bandCell, wasonIDJShowCell, djcell, playCell, actionsCell);
 		tableBody.append(row);
 
 		const isSongInPlaylist = playlist.find((playlistSong) => playlistSong.id === song.id);
@@ -144,7 +147,7 @@ function filterSongs() {
 	const isRestrictedChecked = restricted.checked;
 	filteredSongs = filteredSongs.filter((song) => {
 		if (!isRestrictedChecked) {
-			return song.restricted === 'None'
+			return song.genre === 'None'
 		}
 
 		return true;
