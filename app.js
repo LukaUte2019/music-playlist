@@ -149,8 +149,8 @@ function filterSongs() {
 
 	const isRestrictedChecked = restricted.checked;
 	filteredSongs = filteredSongs.filter((song) => {
-		if (!isRestrictedChecked) {
-			return song.genre === 'None'
+		if (isRestrictedChecked) {
+			return song.bandinfo.singer1.wasOnIDJShow === true;
 		}
 
 		return true;
