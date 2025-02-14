@@ -1,642 +1,6332 @@
 [
   {
     "id": "1",
-    "title": "The Real Slim Shady",
-    "artist": "Eminem",
-    "album": "The Marshall Mathers LP",
-    "genre": "Rap",
-    "duration": "4:44",
-    "restricted": "18+",
-    "releaseDate": "2000-05-23"
+    "artistansongmname": "ĐANA - ALARMANTNO",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "ĐANA",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "ĐANA",
+    "songName": "ALARMANTNO",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/%c4%90ANA%20-%20ALARMANTNO%20(OFFICIAL%20VIDEO).mp3"
   },
   {
     "id": "2",
-    "title": "Lose Yourself",
-    "artist": "Eminem",
-    "album": "8 Mile",
-    "genre": "Rap",
-    "duration": "5:20",
-    "restricted": "18+",
-    "releaseDate": "2002-10-28"
+    "artistansongmname": "Željko Joksimović - Drska ženo plava [Official Music Audio]",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Željko Joksimović",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Željko Joksimović",
+    "songName": "Drska ženo plava [Official Music Audio]",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/%c5%bdeljko%20Joksimovi%c4%87%20-%20Drska%20%c5%beeno%20plava%20%5bOfficial%20Music%20Audio%5d.mp3"
   },
   {
     "id": "3",
-    "title": "Stan",
-    "artist": "Eminem",
-    "album": "The Marshall Mathers LP",
-    "genre": "Rap",
-    "duration": "6:44",
-    "restricted": "18+",
-    "releaseDate": "2000-11-21"
+    "artistansongmname": "АК-47 - Russian Paradise (feat. Ноггано)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "АК",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": ". Ноггано)",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "АК",
+    "songName": "АК",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/%d0%90%d0%9a-47%20-%20Russian%20Paradise%20(feat.%20%d0%9d%d0%be%d0%b3%d0%b3%d0%b0%d0%bd%d0%be).mp3"
   },
   {
     "id": "4",
-    "title": "Without Me",
-    "artist": "Eminem",
-    "album": "The Eminem Show",
-    "genre": "Rap",
-    "duration": "4:50",
-    "restricted": "18+",
-    "releaseDate": "2002-05-14"
+    "artistansongmname": "ЛИТВИНЕНКО - Оп, мусорок",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "ЛИТВИНЕНКО",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "ЛИТВИНЕНКО",
+    "songName": "Оп, мусорок",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/%d0%9b%d0%98%d0%a2%d0%92%d0%98%d0%9d%d0%95%d0%9d%d0%9a%d0%9e%20-%20%d0%9e%d0%bf,%20%d0%bc%d1%83%d1%81%d0%be%d1%80%d0%be%d0%ba.mp3"
   },
   {
     "id": "5",
-    "title": "The Way I Am",
-    "artist": "Eminem",
-    "album": "The Marshall Mathers LP",
-    "genre": "Rap",
-    "duration": "4:50",
-    "restricted": "18+",
-    "releaseDate": "2000-09-07"
+    "artistansongmname": "Оркестър Камчия - Комбайна вършачка",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Оркестър Камчия",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Оркестър Камчия",
+    "songName": "Комбайна вършачка",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/%d0%9e%d1%80%d0%ba%d0%b5%d1%81%d1%82%d1%8a%d1%80%20%d0%9a%d0%b0%d0%bc%d1%87%d0%b8%d1%8f%20-%20%d0%9a%d0%be%d0%bc%d0%b1%d0%b0%d0%b9%d0%bd%d0%b0%20%d0%b2%d1%8a%d1%80%d1%88%d0%b0%d1%87%d0%ba%d0%b0.mp3"
   },
   {
     "id": "6",
-    "title": "My Name Is",
-    "artist": "Eminem",
-    "album": "The Slim Shady LP",
-    "genre": "Rap",
-    "duration": "4:28",
-    "restricted": "18+",
-    "releaseDate": "1999-01-25"
+    "artistansongmname": "2BONA X GAZDA PAJA - DISKOTEKA",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "2BONA X GAZDA PAJA",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": " GAZDA PAJA - DISKOTEKA (OFFICIAL VIDEO)",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "2BONA X GAZDA PAJA",
+    "songName": "DISKOTEKA",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/2BONA%20X%20GAZDA%20PAJA%20-%20DISKOTEKA%20(OFFICIAL%20VIDEO).mp3"
   },
   {
     "id": "7",
-    "title": "Mockingbird",
-    "artist": "Eminem",
-    "album": "Encore",
-    "genre": "Rap",
-    "duration": "4:11",
-    "restricted": "18+",
-    "releaseDate": "2005-04-25"
+    "artistansongmname": "2Bona & Antonia Gigovska - Nema Koj",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "2Bona & Antonia Gigovska",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": " Antonia Gigovska - Nema Koj (Official Video)",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "2Bona & Antonia Gigovska",
+    "songName": "Nema Koj",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/2Bona%20&%20Antonia%20Gigovska%20-%20Nema%20Koj%20(Official%20Video).mp3"
   },
   {
     "id": "8",
-    "title": "Cleanin' Out My Closet",
-    "artist": "Eminem",
-    "album": "The Eminem Show",
-    "genre": "Rap",
-    "duration": "4:57",
-    "restricted": "18+",
-    "releaseDate": "2002-09-17"
+    "artistansongmname": "2Bona & Tasko - Moet (Prod.By Ned Callin) OFFICIAL VIDEO",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "2Bona & Tasko",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": " Tasko - Moet (Prod.By Ned Callin) OFFICIAL VIDEO",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "2Bona & Tasko",
+    "songName": "Moet (Prod.By Ned Callin) OFFICIAL VIDEO",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/2Bona%20&%20Tasko%20-%20Moet%20(Prod.By%20Ned%20Callin)%20OFFICIAL%20VIDEO.mp3"
   },
   {
     "id": "9",
-    "title": "In Da Club",
-    "artist": "50 Cent",
-    "album": "Get Rich or Die Tryin'",
-    "genre": "Hip Hop",
-    "duration": "3:44",
-    "restricted": "18+",
-    "releaseDate": "2003-01-07"
+    "artistansongmname": "2Bona - Bela Nok (Prod.By Iwayo) OFFICIAL VIDEO",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "2Bona",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "2Bona",
+    "songName": "Bela Nok (Prod.By Iwayo) OFFICIAL VIDEO",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/2Bona%20-%20Bela%20Nok%20(Prod.By%20Iwayo)%20OFFICIAL%20VIDEO.mp3"
   },
   {
     "id": "10",
-    "title": "Candy Shop",
-    "artist": "50 Cent",
-    "album": "The Massacre",
-    "genre": "Hip Hop",
-    "duration": "3:29",
-    "restricted": "18+",
-    "releaseDate": "2005-02-15"
+    "artistansongmname": "2Bona - Candy",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "2Bona",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "2Bona",
+    "songName": "Candy",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/2Bona%20-%20Candy.mp3"
   },
   {
     "id": "11",
-    "title": "P.I.M.P.",
-    "artist": "50 Cent",
-    "album": "Get Rich or Die Tryin'",
-    "genre": "Hip Hop",
-    "duration": "4:09",
-    "restricted": "18+",
-    "releaseDate": "2003-08-12"
+    "artistansongmname": "2Pac - In The Air Tonight Ft. Phil Collins - TJLawProductions",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "2Pac",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "2Pac",
+    "songName": "2Pac",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/2Pac%20-%20In%20The%20Air%20Tonight%20Ft.%20Phil%20Collins%20-%20TJLawProductions.mp3"
   },
   {
     "id": "12",
-    "title": "21 Questions",
-    "artist": "50 Cent",
-    "album": "Get Rich or Die Tryin'",
-    "genre": "Hip Hop",
-    "duration": "3:44",
-    "restricted": "18+",
-    "releaseDate": "2003-05-06"
+    "artistansongmname": "2Pac - Picture Me Rollin' (ft. Danny Boy, CPO, Big Syke)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "2Pac",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": ". Danny Boy, CPO, Big Syke)",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "2Pac",
+    "songName": "Picture Me Rollin' (ft. Danny Boy, CPO, Big Syke)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/2Pac%20-%20Picture%20Me%20Rollin'%20(ft.%20Danny%20Boy,%20CPO,%20Big%20Syke).mp3"
   },
   {
     "id": "13",
-    "title": "Just A Lil Bit",
-    "artist": "50 Cent",
-    "album": "The Massacre",
-    "genre": "Hip Hop",
-    "duration": "3:58",
-    "restricted": "18+",
-    "releaseDate": "2005-05-10"
+    "artistansongmname": "2bona, Krisko - Gorilla",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "2bona, Krisko",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "2bona, Krisko",
+    "songName": "Gorilla",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/2bona,%20Krisko%20-%20Gorilla.mp3"
   },
   {
     "id": "14",
-    "title": "Disco Inferno",
-    "artist": "50 Cent",
-    "album": "The Massacre",
-    "genre": "Hip Hop",
-    "duration": "3:34",
-    "restricted": "18+",
-    "releaseDate": "2005-04-12"
+    "artistansongmname": "2bona - Mon Cheri (Bonbon) (Audio)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "2bona",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "2bona",
+    "songName": "Mon Cheri (Bonbon) (Audio)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/2bona%20-%20Mon%20Cheri%20(Bonbon)%20(Audio).mp3"
   },
   {
     "id": "15",
-    "title": "Wanksta",
-    "artist": "50 Cent",
-    "album": "Get Rich or Die Tryin'",
-    "genre": "Hip Hop",
-    "duration": "3:39",
-    "restricted": "18+",
-    "releaseDate": "2003-11-06"
+    "artistansongmname": "2bona - Not Sorry",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "2bona",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "2bona",
+    "songName": "Not Sorry",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/2bona%20-%20Not%20Sorry.mp3"
   },
   {
     "id": "16",
-    "title": "Candy Shop",
-    "artist": "50 Cent",
-    "album": "The Massacre",
-    "genre": "Hip Hop",
-    "duration": "3:29",
-    "restricted": "18+",
-    "releaseDate": "2005-02-15"
+    "artistansongmname": "50 Cent - Just A Lil Bit",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "50 Cent",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "50 Cent",
+    "songName": "Just A Lil Bit",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/50%20Cent%20-%20Just%20A%20Lil%20Bit.mp3"
   },
   {
     "id": "17",
-    "title": "Bohemian Rhapsody",
-    "artist": "Queen",
-    "album": "A Night at the Opera",
-    "genre": "Rock",
-    "duration": "5:55",
-    "restricted": "None",
-    "releaseDate": "1975-10-31"
+    "artistansongmname": "ALEKSANDAR & DAC - CRESHI OHRIDSKI (Official video)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "ALEKSANDAR & DAC",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": " DAC - CRESHI OHRIDSKI (Official video)",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "ALEKSANDAR & DAC",
+    "songName": "CRESHI OHRIDSKI (Official video)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/ALEKSANDAR%20&%20DAC%20-%20CRESHI%20OHRIDSKI%20(Official%20video).mp3"
   },
   {
     "id": "18",
-    "title": "Stairway to Heaven",
-    "artist": "Led Zeppelin",
-    "album": "Led Zeppelin IV",
-    "genre": "Rock",
-    "duration": "8:02",
-    "restricted": "None",
-    "releaseDate": "1971-11-08"
+    "artistansongmname": "Aca Lukas - KLOVN",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Aca Lukas",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Aca Lukas",
+    "songName": "KLOVN",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Aca%20Lukas%20-%20KLOVN%20(OFFICIAL%20VIDEO).mp3"
   },
   {
     "id": "19",
-    "title": "Hotel California",
-    "artist": "Eagles",
-    "album": "Hotel California",
-    "genre": "Rock",
-    "duration": "6:30",
-    "restricted": "None",
-    "releaseDate": "1977-02-22"
+    "artistansongmname": "Aco Pejovic - Oko mene sve - (De Me Skeftesai) - (Audio 2013) HD",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Aco Pejovic",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "esai) - (Audio 2013) HD",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Aco Pejovic",
+    "songName": "Aco Pejovic",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Aco%20Pejovic%20-%20Oko%20mene%20sve%20-%20(De%20Me%20Skeftesai)%20-%20(Audio%202013)%20HD.mp3"
   },
   {
     "id": "20",
-    "title": "Sweet Child O' Mine",
-    "artist": "Guns N' Roses",
-    "album": "Appetite for Destruction",
-    "genre": "Rock",
-    "duration": "5:56",
-    "restricted": "None",
-    "releaseDate": "1987-08-17"
+    "artistansongmname": "Aco Pejovic - Soba 501 (Official Video 2024)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Aco Pejovic",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Aco Pejovic",
+    "songName": "Soba 501 (Official Video 2024)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Aco%20Pejovic%20-%20Soba%20501%20(Official%20Video%202024).mp3"
   },
   {
     "id": "21",
-    "title": "Imagine",
-    "artist": "John Lennon",
-    "album": "Imagine",
-    "genre": "Rock",
-    "duration": "3:03",
-    "restricted": "None",
-    "releaseDate": "1971-10-11"
+    "artistansongmname": "Aco Pejovic - Sve ti dugujem - (Audio 2013) HD",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Aco Pejovic",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Aco Pejovic",
+    "songName": "Aco Pejovic",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Aco%20Pejovic%20-%20Sve%20ti%20dugujem%20-%20(Audio%202013)%20HD.mp3"
   },
   {
     "id": "22",
-    "title": "Smells Like Teen Spirit",
-    "artist": "Nirvana",
-    "album": "Nevermind",
-    "genre": "Grunge",
-    "duration": "5:01",
-    "restricted": "None",
-    "releaseDate": "1991-09-10"
+    "artistansongmname": "AiSh - Satisfya",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "AiSh",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "AiSh",
+    "songName": "Satisfya",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/AiSh%20-%20Satisfya.mp3"
   },
   {
     "id": "23",
-    "title": "Comfortably Numb",
-    "artist": "Pink Floyd",
-    "album": "The Wall",
-    "genre": "Rock",
-    "duration": "6:22",
-    "restricted": "None",
-    "releaseDate": "1979-11-30"
+    "artistansongmname": "Alexander Alar, Indie Elephant - Berberia",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Alexander Alar, Indie Elephant",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Alexander Alar, Indie Elephant",
+    "songName": "Berberia",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Alexander%20Alar,%20Indie%20Elephant%20-%20Berberia.mp3"
   },
   {
     "id": "24",
-    "title": "One",
-    "artist": "Metallica",
-    "album": "...And Justice for All",
-    "genre": "Heavy Metal",
-    "duration": "7:27",
-    "restricted": "None",
-    "releaseDate": "1989-08-25"
+    "artistansongmname": "Alexander Alar,Indie Elephant - Berberia",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Alexander Alar,Indie Elephant",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Alexander Alar,Indie Elephant",
+    "songName": "Berberia",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Alexander%20Alar,Indie%20Elephant%20-%20Berberia.mp3"
   },
   {
     "id": "25",
-    "title": "November Rain",
-    "artist": "Guns N' Roses",
-    "album": "Use Your Illusion I",
-    "genre": "Rock",
-    "duration": "8:57",
-    "restricted": "None",
-    "releaseDate": "1991-02-18"
+    "artistansongmname": "All The Way Up (feat. Infared)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "All The Way Up (feat. Infared)",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": ". Infared)",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "All The Way Up (feat. Infared)",
+    "songName": "All The Way Up (feat. Infared)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/All%20The%20Way%20Up%20(feat.%20Infared).mp3"
   },
   {
     "id": "26",
-    "title": "The Show Must Go On",
-    "artist": "Queen",
-    "album": "Innuendo",
-    "genre": "Rock",
-    "duration": "4:32",
-    "restricted": "None",
-    "releaseDate": "1991-10-14"
+    "artistansongmname": "Alle Farben, Parov Stelar feat. Lena Sue - Drum - Official Visualizer - Alle Farben",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Alle Farben, Parov Stelar feat. Lena Sue",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": ". Lena Sue - Drum - Official Visualizer - Alle Farben",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Alle Farben, Parov Stelar feat. Lena Sue",
+    "songName": "Alle Farben, Parov Stelar feat. Lena Sue",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Alle%20Farben,%20Parov%20Stelar%20feat.%20Lena%20Sue%20-%20Drum%20-%20Official%20Visualizer%20-%20Alle%20Farben.mp3"
   },
   {
     "id": "27",
-    "title": "Another One Bites the Dust",
-    "artist": "Queen",
-    "album": "The Game",
-    "genre": "Rock",
-    "duration": "3:35",
-    "restricted": "None",
-    "releaseDate": "1980-06-30"
+    "artistansongmname": "Alok & Bhaskar - FUEGO (Original Mix) - Alok",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Alok & Bhaskar",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": " Bhaskar - FUEGO (Original Mix) - Alok",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Alok & Bhaskar",
+    "songName": "Alok & Bhaskar",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Alok%20&%20Bhaskar%20-%20FUEGO%20(Original%20Mix)%20-%20Alok.mp3"
   },
   {
     "id": "28",
-    "title": "One More Time",
-    "artist": "Daft Punk",
-    "album": "Discovery",
-    "genre": "House",
-    "duration": "5:20",
-    "restricted": "None",
-    "releaseDate": "2000-11-30"
+    "artistansongmname": "Area - Site Moi Sliki (Regie Rules Rmx)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Area",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Area",
+    "songName": "Site Moi Sliki (Regie Rules Rmx)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Area%20-%20Site%20Moi%20Sliki%20(Regie%20Rules%20Rmx).mp3"
   },
   {
     "id": "29",
-    "title": "Yeah!",
-    "artist": "Usher",
-    "album": "Confessions",
-    "genre": "R&B",
-    "duration": "4:10",
-    "restricted": "None",
-    "releaseDate": "2004-01-27"
+    "artistansongmname": "Arms Around You (feat. Maluma & Swae Lee)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Arms Around You (feat. Maluma & Swae Lee)",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": " Swae Lee)",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Arms Around You (feat. Maluma & Swae Lee)",
+    "songName": "Arms Around You (feat. Maluma & Swae Lee)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Arms%20Around%20You%20(feat.%20Maluma%20&%20Swae%20Lee).mp3"
   },
   {
     "id": "30",
-    "title": "Get Busy",
-    "artist": "Sean Paul",
-    "album": "Dutty Rock",
-    "genre": "Reggae",
-    "duration": "3:31",
-    "restricted": "None",
-    "releaseDate": "2002-09-10"
+    "artistansongmname": "Axel Thesleff - Bad Karma - Trap Nation",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Axel Thesleff",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Axel Thesleff",
+    "songName": "Axel Thesleff",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Axel%20Thesleff%20-%20Bad%20Karma%20-%20Trap%20Nation.mp3"
   },
   {
     "id": "31",
-    "title": "In Da Club",
-    "artist": "50 Cent",
-    "album": "Get Rich or Die Tryin'",
-    "genre": "Hip Hop",
-    "duration": "3:44",
-    "restricted": "18+",
-    "releaseDate": "2003-01-07"
+    "artistansongmname": "Ayo & Teo - Last Forever",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Ayo & Teo",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": " Teo - Last Forever (Official Music Video)",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Ayo & Teo",
+    "songName": "Last Forever",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Ayo%20&%20Teo%20-%20Last%20Forever%20(Official%20Music%20Video).mp3"
   },
   {
     "id": "32",
-    "title": "Crazy in Love",
-    "artist": "Beyoncé",
-    "album": "Dangerously in Love",
-    "genre": "R&B",
-    "duration": "3:56",
-    "restricted": "None",
-    "releaseDate": "2003-05-18"
+    "artistansongmname": "Ayo & Teo - Rolex",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Ayo & Teo",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": " Teo - Rolex (Official Video)",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Ayo & Teo",
+    "songName": "Rolex",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Ayo%20&%20Teo%20-%20Rolex%20(Official%20Video).mp3"
   },
   {
     "id": "33",
-    "title": "Hey Ya!",
-    "artist": "OutKast",
-    "album": "Speakerboxxx/The Love Below",
-    "genre": "Hip Hop",
-    "duration": "3:55",
-    "restricted": "None",
-    "releaseDate": "2003-09-09"
+    "artistansongmname": "BAKA PRASE x VOYAGE - VVS",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "BAKA PRASE x VOYAGE",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "BAKA PRASE x VOYAGE",
+    "songName": "VVS",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/BAKA%20PRASE%20x%20VOYAGE%20-%20VVS%20(Official%20Music%20Video).mp3"
   },
   {
     "id": "34",
-    "title": "Hips Don't Lie",
-    "artist": "Shakira",
-    "album": "Oral Fixation, Vol. 2",
-    "genre": "Latin",
-    "duration": "3:38",
-    "restricted": "None",
-    "releaseDate": "2006-02-28"
+    "artistansongmname": "Baka Prase - Ona Ona",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Baka Prase",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Baka Prase",
+    "songName": "Ona Ona",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Baka%20Prase%20-%20Ona%20Ona.mp3"
   },
   {
     "id": "35",
-    "title": "Gold Digger",
-    "artist": "Kanye West",
-    "album": "Late Registration",
-    "genre": "Hip Hop",
-    "duration": "3:28",
-    "restricted": "None",
-    "releaseDate": "2005-07-05"
+    "artistansongmname": "Bass Station - 1,2,3 Go",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Bass Station",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Bass Station",
+    "songName": "1,2,3 Go",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Bass%20Station%20-%201,2,3%20Go.mp3"
   },
   {
     "id": "36",
-    "title": "Blowin' in the Wind",
-    "artist": "Bob Dylan",
-    "album": "The Freewheelin' Bob Dylan",
-    "genre": "Folk",
-    "duration": "2:48",
-    "restricted": "None",
-    "releaseDate": "1962-05-09"
+    "artistansongmname": "Bastion - Emil Vrati Se (Todoroff Remix)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Bastion",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Bastion",
+    "songName": "Emil Vrati Se (Todoroff Remix)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Bastion%20-%20Emil%20Vrati%20Se%20(Todoroff%20Remix).mp3"
   },
   {
     "id": "37",
-    "title": "Molitva",
-    "artist": "Marija Serifovic",
-    "album": "Molitva",
-    "genre": "Pop",
-    "duration": "3:03",
-    "restricted": "None",
-    "releaseDate": "2007-05-12"
+    "artistansongmname": "Bis X Blanco X Active X MizOrMac - Kennington Where It Started HarlemSpartans",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Bis X Blanco X Active X MizOrMac",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Bis X Blanco X Active X MizOrMac",
+    "songName": "Kennington Where It Started HarlemSpartans",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Bis%20X%20Blanco%20X%20Active%20X%20MizOrMac%20-%20Kennington%20Where%20It%20Started%20HarlemSpartans.mp3"
   },
   {
     "id": "38",
-    "title": "Fairytale",
-    "artist": "Alexander Rybak",
-    "album": "Fairytale",
-    "genre": "Pop",
-    "duration": "3:04",
-    "restricted": "None",
-    "releaseDate": "2009-05-16"
+    "artistansongmname": "Blasphem - Barber Shop",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Blasphem",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Blasphem",
+    "songName": "Barber Shop",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Blasphem%20-%20Barber%20Shop.mp3"
   },
   {
     "id": "39",
-    "title": "Satellite",
-    "artist": "Lena",
-    "album": "Satellite",
-    "genre": "Pop",
-    "duration": "2:54",
-    "restricted": "None",
-    "releaseDate": "2010-05-29"
-  },
-  {
-    "id": "40",
-    "title": "Running Scared",
-    "artist": "Ell & Nikki",
-    "album": "Running Scared",
-    "genre": "Pop",
-    "duration": "3:00",
-    "restricted": "None",
-    "releaseDate": "2011-05-14"
+    "artistansongmname": "Bona - Balkan (Prod.By Iwayo)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Bona",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Bona",
+    "songName": "Balkan (Prod.By Iwayo)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Bona%20-%20Balkan%20(Prod.By%20Iwayo).mp3"
   },
   {
     "id": "41",
-    "title": "Euphoria",
-    "artist": "Loreen",
-    "album": "Euphoria",
-    "genre": "Pop",
-    "duration": "3:01",
-    "restricted": "None",
-    "releaseDate": "2012-05-26"
+    "artistansongmname": "Brass Brothers - Balkan Mayhem (Official video)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Brass Brothers",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Brass Brothers",
+    "songName": "Balkan Mayhem (Official video)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Brass%20Brothers%20-%20Balkan%20Mayhem%20(Official%20video).mp3"
   },
   {
     "id": "42",
-    "title": "Only Teardrops",
-    "artist": "Emmelie de Forest",
-    "album": "Only Teardrops",
-    "genre": "Pop",
-    "duration": "3:03",
-    "restricted": "Pop",
-    "releaseDate": "2013-05-18"
+    "artistansongmname": "Brass Brothers - The Spark",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Brass Brothers",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Brass Brothers",
+    "songName": "The Spark",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Brass%20Brothers%20-%20The%20Spark.mp3"
   },
   {
     "id": "43",
-    "title": "Heroes",
-    "artist": "Måns Zelmerlöw",
-    "album": "Heroes",
-    "genre": "Swedish",
-    "duration": "3:11",
-    "restricted": "Pop",
-    "releaseDate": "2015-05-23"
+    "artistansongmname": "CVIJA - BRZINA",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "CVIJA",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "CVIJA",
+    "songName": "BRZINA",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/CVIJA%20-%20BRZINA%20(OFFICIAL%20VIDEO).mp3"
   },
   {
     "id": "44",
-    "title": "Molitva za Magdalenu",
-    "artist": "Oliver Dragojević",
-    "album": "Molitva za Magdalenu",
-    "genre": "Croatian",
-    "duration": "4:20",
-    "restricted": "Pop",
-    "releaseDate": "1997-01-01"
-  },
-  {
-    "id": "45",
-    "title": "Pismo moja",
-    "artist": "Hari Mata Hari",
-    "album": "Ja nemam nikoga",
-    "genre": "Bosnian",
-    "duration": "4:00",
-    "restricted": "Folk",
-    "releaseDate": "1985-01-01"
+    "artistansongmname": "CVIJA - POZIV",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "CVIJA",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "CVIJA",
+    "songName": "POZIV",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/CVIJA%20-%20POZIV%20(OFFICIAL%20VIDEO).mp3"
   },
   {
     "id": "46",
-    "title": "Lane moje",
-    "artist": "Željko Joksimović",
-    "album": "Lane moje",
+    "artistansongmname": "CVIJA X THCF - BRAZIL",
     "genre": "Serbian",
-    "duration": "3:02",
-    "restricted": "Folk",
-    "releaseDate": "2004-05-15"
+    "bandinfo": {
+      "existentDJinBand": "DJ Senka",
+      "singer1": {
+        "fulName": "Borko Vujičić",
+        "born": "1985",
+        "description": "Stefan Gligorijević i Borko Vujičić Bore, iz poznate beogradske rep grupe THCF, obradovali su mnogobrojne fanove odlukom da dvodecenijsku ...",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "Stefan Gligorijević",
+        "born": "1985",
+        "description": "Stefan Gligorijević i Borko Vujičić Bore, iz poznate beogradske rep grupe THCF, obradovali su mnogobrojne fanove odlukom da dvodecenijsku ...",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "Alexandar Zlatarov",
+        "born": " 27 years",
+        "description": "Aleksandar ZLATAROV (MKD). Wildwater Canoeing Canoe Slalom. MK Republic of North Macedonia. Age: 27 years. Federation: MACEDONIAN CANOE FEDERATION.",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": "Borko Vujičić,Stefan Gligorijević"
+    },
+    "artistName": "CVIJA X THCF",
+    "songName": "BRAZIL",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/CVIJA%20X%20THCF%20-%20BRAZIL%20(OFFICIAL%20VIDEO).mp3"
   },
   {
     "id": "47",
-    "title": "Lejla",
-    "artist": "Hari Mata Hari",
-    "album": "Lejla",
-    "genre": "Bosnian",
-    "duration": "3:03",
-    "restricted": "Folk",
-    "releaseDate": "2006-05-20"
+    "artistansongmname": "CYRIL - Stumblin' In (Official Audio) - Spinnin' Records",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "CYRIL",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "CYRIL",
+    "songName": "CYRIL",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/CYRIL%20-%20Stumblin'%20In%20(Official%20Audio)%20-%20Spinnin'%20Records.mp3"
   },
   {
     "id": "48",
-    "title": "Nije ljubav stvar",
-    "artist": "Željko Joksimović",
-    "album": "Nije ljubav stvar",
-    "genre": "Pop",
-    "duration": "3:03",
-    "restricted": "None",
-    "releaseDate": "2012-05-26"
+    "artistansongmname": "Capital T - 600PS",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Capital T",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Capital T",
+    "songName": "600PS",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Capital%20T%20-%20600PS.mp3"
   },
   {
     "id": "49",
-    "title": "Master Of Puppets",
-    "artist": "Metallica",
-    "album": "Master Of Puppets",
-    "genre": "Metal",
-    "duration": "8:36",
-    "restricted": "None",
-    "releaseDate": "1986-03-03"
+    "artistansongmname": "Carly Rae Jepsen - Call Me Maybe",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Carly Rae Jepsen",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Carly Rae Jepsen",
+    "songName": "Call Me Maybe",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Carly%20Rae%20Jepsen%20-%20Call%20Me%20Maybe.mp3"
   },
   {
     "id": "50",
-    "title": "Super Freak",
-    "artist": "Rick James",
-    "album": "Street Songs",
-    "genre": "Funk",
-    "duration": "3:25",
-    "restricted": "None",
-    "releaseDate": "1981-07-10"
+    "artistansongmname": "Ceza - Holocaust",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Ceza",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Ceza",
+    "songName": "Holocaust",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Ceza%20-%20Holocaust.mp3"
   },
   {
     "id": "51",
-    "title": "I Want You Back",
-    "artist": "The Jackson 5",
-    "album": "Diana Ross Presents The Jackson 5",
-    "genre": "Pop",
-    "duration": "3:00",
-    "restricted": "None",
-    "releaseDate": "1969-10-07"
+    "artistansongmname": "Chris Brown & Benny Benassi - Beautiful People (Official Video HD)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Chris Brown & Benny Benassi",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": " Benny Benassi - Beautiful People (Official Video HD)",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Chris Brown & Benny Benassi",
+    "songName": "Beautiful People (Official Video HD)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Chris%20Brown%20&%20Benny%20Benassi%20-%20Beautiful%20People%20(Official%20Video%20HD).mp3"
   },
   {
     "id": "52",
-    "title": "I Will Survive",
-    "artist": "Gloria Gaynor",
-    "album": "Love Tracks",
-    "genre": "Disco",
-    "duration": "3:18",
-    "restricted": "None",
-    "releaseDate": "1978-10-23"
+    "artistansongmname": "Chubby Checker - The Twist",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Chubby Checker",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Chubby Checker",
+    "songName": "The Twist",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Chubby%20Checker%20-%20The%20Twist%20(Official%20Music%20Video).mp3"
   },
   {
     "id": "53",
-    "title": "Billie Jean",
-    "artist": "Michael Jackson",
-    "album": "Thriller",
-    "genre": "Pop",
-    "duration": "4:54",
-    "restricted": "None",
-    "releaseDate": "1983-01-02"
+    "artistansongmname": "Coby - Leto je",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Coby",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Coby",
+    "songName": "Leto je",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Coby%20-%20Leto%20je.mp3"
   },
   {
     "id": "54",
-    "title": "I'm Coming Out",
-    "artist": "Diana Ross",
-    "album": "Diana",
-    "genre": "Disco",
-    "duration": "5:22",
-    "restricted": "None",
-    "releaseDate": "1980-05-22"
+    "artistansongmname": "DADO POLUMENTA - MASERATI",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "DADO POLUMENTA",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "DADO POLUMENTA",
+    "songName": "MASERATI",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/DADO%20POLUMENTA%20-%20MASERATI%20(OFFICIAL%20VIDEO).mp3"
   },
   {
     "id": "55",
-    "title": "I Feel Love",
-    "artist": "Donna Summer",
-    "album": "I Remember Yesterday",
-    "genre": "Disco",
-    "duration": "5:53",
-    "restricted": "None",
-    "releaseDate": "1977-05-13"
+    "artistansongmname": "DARA BUBAMARA x BIG ALI - CIAO AMORE 2010.",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "DARA BUBAMARA x BIG ALI",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "DARA BUBAMARA x BIG ALI",
+    "songName": "CIAO AMORE 2010.",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/DARA%20BUBAMARA%20x%20BIG%20ALI%20-%20CIAO%20AMORE%20(OFFICIAL%20VIDEO)%202010..mp3"
   },
   {
     "id": "56",
-    "title": "Le Freak",
-    "artist": "Chic",
-    "album": "C'est Chic",
-    "genre": "Disco",
-    "duration": "5:23",
-    "restricted": "None",
-    "releaseDate": "1978-09-21"
-  },
-  {
-    "id": "57",
-    "title": "Stayin' Alive",
-    "artist": "Bee Gees",
-    "album": "Saturday Night Fever",
-    "genre": "Disco",
-    "duration": "4:45",
-    "restricted": "None",
-    "releaseDate": "1977-12-12"
+    "artistansongmname": "DESINGERICA X PAJAK X ZERA - CCRNO",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "DESINGERICA X PAJAK X ZERA",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "DESINGERICA X PAJAK X ZERA",
+    "songName": "CCRNO",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/DESINGERICA%20X%20PAJAK%20X%20ZERA%20-%20CCRNO%20(OFFICIAL%20VIDEO).mp3"
   },
   {
     "id": "58",
-    "title": "Take Five",
-    "artist": "Dave Brubeck",
-    "album": "Time Out",
-    "genre": "Jazz",
-    "duration": "5:24",
-    "restricted": "None",
-    "releaseDate": "1959-09-14"
+    "artistansongmname": "DJEXON - SAKI",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "DJEXON",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "ON - SAKI (Official Video)",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "DJEXON",
+    "songName": "SAKI",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/DJEXON%20-%20SAKI%20(Official%20Video).mp3"
   },
   {
     "id": "59",
-    "title": "So What",
-    "artist": "Miles Davis",
-    "album": "Kind of Blue",
-    "genre": "Jazz",
-    "duration": "9:22",
-    "restricted": "None",
-    "releaseDate": "1959-08-17"
+    "artistansongmname": "DJEXON and KOJA feat. LACKU - KIDAM KAKO VOZIM",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "DJEXON and KOJA feat. LACKU",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": ". LACKU - KIDAM KAKO VOZIM (Official Video)",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "DJEXON and KOJA feat. LACKU",
+    "songName": "KIDAM KAKO VOZIM",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/DJEXON%20and%20KOJA%20feat.%20LACKU%20-%20KIDAM%20KAKO%20VOZIM%20(Official%20Video).mp3"
   },
   {
     "id": "60",
-    "title": "Take the 'A' Train",
-    "artist": "Duke Ellington",
-    "album": "Never No Lament: The Blanton-Webster Band",
-    "genre": "Jazz",
-    "duration": "2:54",
-    "restricted": "None",
-    "releaseDate": "1941-01-01"
+    "artistansongmname": "DJ Johnny remix always remember us this way by Lady Gaga",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "DJ Johnny remix always remember us this way by Lady Gaga",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "DJ Johnny remix always remember us this way by Lady Gaga",
+    "songName": "DJ Johnny remix always remember us this way by Lady Gaga",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/DJ%20Johnny%20remix%20always%20remember%20us%20this%20way%20by%20Lady%20Gaga.mp3"
   },
   {
     "id": "61",
-    "title": "Sing, Sing, Sing",
-    "artist": "Benny Goodman",
-    "album": "The Benny Goodman Story",
-    "genre": "Jazz",
-    "duration": "8:43",
-    "restricted": "None",
-    "releaseDate": "1936-01-01"
+    "artistansongmname": "DJ Khaled - I'm The One ft. Justin Bieber, Quavo, Chance the Rapper, Lil Wayne",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "DJ Khaled",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": ". Justin Bieber, Quavo, Chance the Rapper, Lil Wayne",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "DJ Khaled",
+    "songName": "I'm The One ft. Justin Bieber, Quavo, Chance the Rapper, Lil Wayne",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/DJ%20Khaled%20-%20I'm%20The%20One%20ft.%20Justin%20Bieber,%20Quavo,%20Chance%20the%20Rapper,%20Lil%20Wayne.mp3"
   },
   {
     "id": "62",
-    "title": "A Night in Tunisia",
-    "artist": "Dizzy Gillespie",
-    "album": "A Night in Tunisia",
-    "genre": "Jazz",
-    "duration": "3:06",
-    "restricted": "None",
-    "releaseDate": "1946-01-01"
+    "artistansongmname": "DJ Khaled - Wild Thoughts (feat. Rihanna, Bryson Tiller)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "DJ Khaled",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": ". Rihanna, Bryson Tiller)",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "DJ Khaled",
+    "songName": "Wild Thoughts (feat. Rihanna, Bryson Tiller)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/DJ%20Khaled%20-%20Wild%20Thoughts%20(feat.%20Rihanna,%20Bryson%20Tiller).mp3"
   },
   {
     "id": "63",
-    "title": "Take Five",
-    "artist": "Dave Brubeck",
-    "album": "Time Out",
-    "genre": "Jazz",
-    "duration": "5:24",
-    "restricted": "None",
-    "releaseDate": "1959-09-14"
+    "artistansongmname": "DNK - SAMO TAA ZNAE KAKO (official music video) ©2016",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "DNK",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "DNK",
+    "songName": "SAMO TAA ZNAE KAKO (official music video) ©2016",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/DNK%20-%20SAMO%20TAA%20ZNAE%20KAKO%20(official%20music%20video)%20%c2%a92016.mp3"
   },
   {
     "id": "64",
-    "title": "So What",
-    "artist": "Miles Davis",
-    "album": "Kind of Blue",
-    "genre": "Jazz",
-    "duration": "9:22",
-    "restricted": "None",
-    "releaseDate": "1959-08-17"
+    "artistansongmname": "DNK feat. Dzambo Agusev Orchestra - Ako Utre Me Nema (official music video ©2022)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "DNK feat. Dzambo Agusev Orchestra",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": ". Dzambo Agusev Orchestra - Ako Utre Me Nema (official music video ©2022)",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "DNK feat. Dzambo Agusev Orchestra",
+    "songName": "Ako Utre Me Nema (official music video ©2022)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/DNK%20feat.%20Dzambo%20Agusev%20Orchestra%20-%20Ako%20Utre%20Me%20Nema%20(official%20music%20video%20%c2%a92022).mp3"
+  },
+  {
+    "id": "65",
+    "artistansongmname": "DNK feat. Naum Petreski х Dzambo Agusev Orchestra - Zivote Brate (official music video 2024)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "DNK feat. Naum Petreski х Dzambo Agusev Orchestra",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": ". Naum Petreski х Dzambo Agusev Orchestra - Zivote Brate (official music video 2024)",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "DNK feat. Naum Petreski х Dzambo Agusev Orchestra",
+    "songName": "Zivote Brate (official music video 2024)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/DNK%20feat.%20Naum%20Petreski%20%d1%85%20Dzambo%20Agusev%20Orchestra%20-%20Zivote%20Brate%20(official%20music%20video%202024).mp3"
+  },
+  {
+    "id": "66",
+    "artistansongmname": "DNK feat. Thea - Amajlija (official music video ©2024)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "DNK feat. Thea",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": ". Thea - Amajlija (official music video ©2024)",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "DNK feat. Thea",
+    "songName": "Amajlija (official music video ©2024)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/DNK%20feat.%20Thea%20-%20Amajlija%20(official%20music%20video%20%c2%a92024).mp3"
+  },
+  {
+    "id": "67",
+    "artistansongmname": "DON XHONI - TRUST ME",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "DON XHONI",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "HONI - TRUST ME",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "DON XHONI",
+    "songName": "TRUST ME",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/DON%20XHONI%20-%20TRUST%20ME.mp3"
+  },
+  {
+    "id": "68",
+    "artistansongmname": "Dado i Sako Polumenta - Ljepsa od noci - (Official video 2008)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Dado i Sako Polumenta",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Dado i Sako Polumenta",
+    "songName": "Dado i Sako Polumenta",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Dado%20i%20Sako%20Polumenta%20-%20Ljepsa%20od%20noci%20-%20(Official%20video%202008).mp3"
+  },
+  {
+    "id": "70",
+    "artistansongmname": "Don Omar - Danza Kuduro ft. Lucenzo",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Don Omar",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": ". Lucenzo",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Don Omar",
+    "songName": "Danza Kuduro ft. Lucenzo",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Don%20Omar%20-%20Danza%20Kuduro%20ft.%20Lucenzo.mp3"
+  },
+  {
+    "id": "71",
+    "artistansongmname": "Dr. Dre - The Next Episode (feat. Snoop Dogg)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Dr. Dre",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": ". Snoop Dogg)",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Dr. Dre",
+    "songName": "The Next Episode (feat. Snoop Dogg)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Dr.%20Dre%20-%20The%20Next%20Episode%20(feat.%20Snoop%20Dogg).mp3"
+  },
+  {
+    "id": "72",
+    "artistansongmname": "Dynoro & Gigi D’Agostino - In My Mind",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Dynoro & Gigi D’Agostino",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": " Gigi D’Agostino - In My Mind",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Dynoro & Gigi D’Agostino",
+    "songName": "In My Mind",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Dynoro%20&%20Gigi%20D%e2%80%99Agostino%20-%20In%20My%20Mind.mp3"
+  },
+  {
+    "id": "73",
+    "artistansongmname": "Dzej Ramadanovski - Imati pa nemati - (Official spot 2008)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Dzej Ramadanovski",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Dzej Ramadanovski",
+    "songName": "Dzej Ramadanovski",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Dzej%20Ramadanovski%20-%20Imati%20pa%20nemati%20-%20(Official%20spot%202008).mp3"
+  },
+  {
+    "id": "74",
+    "artistansongmname": "ELENA KITIĆ - EXTRA FANCY",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "ELENA KITIĆ",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "TRA FANCY",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "ELENA KITIĆ",
+    "songName": "EXTRA FANCY",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/ELENA%20KITI%c4%86%20-%20EXTRA%20FANCY.mp3"
+  },
+  {
+    "id": "75",
+    "artistansongmname": "ELENA KITIĆ x 2BONA - COLOMBIANA",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "ELENA KITIĆ x 2BONA",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "ELENA KITIĆ x 2BONA",
+    "songName": "COLOMBIANA",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/ELENA%20KITI%c4%86%20x%202BONA%20-%20COLOMBIANA.mp3"
+  },
+  {
+    "id": "76",
+    "artistansongmname": "ELITNI ODREDI - IMA MNOGO ZENA I KAFANA",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "ELITNI ODREDI",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "ELITNI ODREDI",
+    "songName": "IMA MNOGO ZENA I KAFANA",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/ELITNI%20ODREDI%20-%20IMA%20MNOGO%20ZENA%20I%20KAFANA%20(OFFICIAL%20VIDEO).mp3"
+  },
+  {
+    "id": "77",
+    "artistansongmname": "Ed Sheeran - Salt Water",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Ed Sheeran",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Ed Sheeran",
+    "songName": "Salt Water",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Ed%20Sheeran%20-%20Salt%20Water.mp3"
+  },
+  {
+    "id": "78",
+    "artistansongmname": "Elena Risteska - Milioner (srpski)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Elena Risteska",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Elena Risteska",
+    "songName": "Milioner (srpski)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Elena%20Risteska%20-%20Milioner%20(srpski).mp3"
+  },
+  {
+    "id": "79",
+    "artistansongmname": "Elena Risteska - Milioner",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Elena Risteska",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Elena Risteska",
+    "songName": "Milioner",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Elena%20Risteska%20-%20Milioner.mp3"
+  },
+  {
+    "id": "80",
+    "artistansongmname": "Elitni Odredi - Zapali Grad ( DJ Deki DJ Seki Remix )",
+    "genre": "Serbian",
+    "bandinfo": {
+      "existentDJinBand": "Standalone Band",
+      "singer1": {
+        "fulName": "Relja Popovic",
+        "born": "1989",
+        "description": "Relja Popović is a Serbian actor, rapper and singer. Before pursuing a solo career with the single \"Beograd još živi\", he rose to prominence as the member of the hip hop duo Elitni Odredi, alongside Vlada Matović. He is the co-founder of the record label Made In BLKN Records.",
+        "wasOnIDJShow": true
+      },
+      "singer2": {
+        "fulName": "Vladimir Matović",
+        "born": "1989",
+        "description": "Born: February 2, 1989 (age 36 years), Belgrade, Serbia Movies: I Love Sarah Jane Music group: Elitni Odredi (2005 – 2015)",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": "Relja Popovic,Vladimir Matović"
+    },
+    "artistName": "Elitni Odredi",
+    "songName": "Zapali Grad ( DJ Deki DJ Seki Remix )",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Elitni%20Odredi%20-%20Zapali%20Grad%20(%20DJ%20Deki%20DJ%20Seki%20Remix%20).mp3"
+  },
+  {
+    "id": "81",
+    "artistansongmname": "Elitni Odredi feat Dj Silver & Dj Marconi & Mia Borisavljevic - Nisi s njom - (Official Video 2012)",
+    "genre": "Serbian",
+    "bandinfo": {
+      "existentDJinBand": "Standalone Band",
+      "singer1": {
+        "fulName": "Relja Popovic",
+        "born": "1989",
+        "description": "Relja Popović is a Serbian actor, rapper and singer. Before pursuing a solo career with the single \"Beograd još živi\", he rose to prominence as the member of the hip hop duo Elitni Odredi, alongside Vlada Matović. He is the co-founder of the record label Made In BLKN Records.",
+        "wasOnIDJShow": true
+      },
+      "singer2": {
+        "fulName": "Vladimir Matović",
+        "born": "1989",
+        "description": "Born: February 2, 1989 (age 36 years), Belgrade, Serbia Movies: I Love Sarah Jane Music group: Elitni Odredi (2005 – 2015)",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": "Relja Popovic,Vladimir Matović"
+    },
+    "artistName": "Elitni Odredi feat Dj Silver & Dj Marconi & Mia Borisavljevic",
+    "songName": "Elitni Odredi feat Dj Silver & Dj Marconi & Mia Borisavljevic",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Elitni%20Odredi%20feat%20Dj%20Silver%20&%20Dj%20Marconi%20&%20Mia%20Borisavljevic%20-%20Nisi%20s%20njom%20-%20(Official%20Video%202012).mp3"
+  },
+  {
+    "id": "82",
+    "artistansongmname": "Elley Duhe - Money On The Dash",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Elley Duhe",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Elley Duhe",
+    "songName": "Money On The Dash",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Elley%20Duhe%20-%20Money%20On%20The%20Dash.mp3"
+  },
+  {
+    "id": "83",
+    "artistansongmname": "Eminem - 8 Mile",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Eminem",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Eminem",
+    "songName": "8 Mile",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Eminem%20-%208%20Mile.mp3"
+  },
+  {
+    "id": "84",
+    "artistansongmname": "Eminem - Lose Yourself",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Eminem",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Eminem",
+    "songName": "Lose Yourself",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Eminem%20-%20Lose%20Yourself.mp3"
+  },
+  {
+    "id": "85",
+    "artistansongmname": "Eminem - Rap God",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Eminem",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Eminem",
+    "songName": "Rap God",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Eminem%20-%20Rap%20God.mp3"
+  },
+  {
+    "id": "86",
+    "artistansongmname": "FISHER - You Little Beauty",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "FISHER",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "FISHER",
+    "songName": "You Little Beauty",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/FISHER%20-%20You%20Little%20Beauty.mp3"
+  },
+  {
+    "id": "87",
+    "artistansongmname": "Fifth Harmony -Worth It Ft. Kid Ink (Bass Boosted) [HQ]",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Fifth Harmony",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "h Harmony -Worth It Ft. Kid Ink (Bass Boosted) [HQ]",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Fifth Harmony",
+    "songName": "Worth It Ft. Kid Ink (Bass Boosted) [HQ]",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Fifth%20Harmony%20-Worth%20It%20Ft.%20Kid%20Ink%20(Bass%20Boosted)%20%5bHQ%5d.mp3"
+  },
+  {
+    "id": "88",
+    "artistansongmname": "Flo Rida - GDFR (feat. Sage the Gemini & Lookas)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Flo Rida",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": " Lookas)",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Flo Rida",
+    "songName": "GDFR (feat. Sage the Gemini & Lookas)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Flo%20Rida%20-%20GDFR%20(feat.%20Sage%20the%20Gemini%20&%20Lookas).mp3"
+  },
+  {
+    "id": "89",
+    "artistansongmname": "Flo Rida - Whistle [Official Video]",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Flo Rida",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Flo Rida",
+    "songName": "Whistle [Official Video]",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Flo%20Rida%20-%20Whistle%20%5bOfficial%20Video%5d.mp3"
+  },
+  {
+    "id": "90",
+    "artistansongmname": "GAZDA PAJA - 1000 EVRA feat. DJ A.S. ONE",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "GAZDA PAJA",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": ". DJ A.S. ONE (OFFICIAL VIDEO)",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "GAZDA PAJA",
+    "songName": "1000 EVRA feat. DJ A.S. ONE",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/GAZDA%20PAJA%20-%201000%20EVRA%20feat.%20DJ%20A.S.%20ONE%20(OFFICIAL%20VIDEO).mp3"
+  },
+  {
+    "id": "91",
+    "artistansongmname": "GAZDA PAJA - AUSLANDER feat THCF",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "GAZDA PAJA",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": " THCF",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "GAZDA PAJA",
+    "songName": "AUSLANDER feat THCF",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/GAZDA%20PAJA%20-%20AUSLANDER%20feat%20THCF.mp3"
+  },
+  {
+    "id": "92",
+    "artistansongmname": "GAZDA PAJA - PRINC BELVEDERE (OFFICIAL VIDEO 2019)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "GAZDA PAJA",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "GAZDA PAJA",
+    "songName": "PRINC BELVEDERE (OFFICIAL VIDEO 2019)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/GAZDA%20PAJA%20-%20PRINC%20BELVEDERE%20(OFFICIAL%20VIDEO%202019).mp3"
+  },
+  {
+    "id": "93",
+    "artistansongmname": "GAZDA PAJA - TESLA (OFFICIAL VIDEO 2018)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "GAZDA PAJA",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "GAZDA PAJA",
+    "songName": "TESLA (OFFICIAL VIDEO 2018)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/GAZDA%20PAJA%20-%20TESLA%20(OFFICIAL%20VIDEO%202018).mp3"
+  },
+  {
+    "id": "94",
+    "artistansongmname": "GP - Ајде Џипери",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "GP",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "GP",
+    "songName": "Ајде Џипери",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/GP%20-%20%d0%90%d1%98%d0%b4%d0%b5%20%d0%8f%d0%b8%d0%bf%d0%b5%d1%80%d0%b8%20(Official%20Music%20Video).mp3"
+  },
+  {
+    "id": "95",
+    "artistansongmname": "Gazda Paja, Marlon Brutal - Dizel",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Gazda Paja, Marlon Brutal",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Gazda Paja, Marlon Brutal",
+    "songName": "Dizel",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Gazda%20Paja,%20Marlon%20Brutal%20-%20Dizel.mp3"
+  },
+  {
+    "id": "96",
+    "artistansongmname": "Gmac Cash - Out Your Fucking Mouth",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Gmac Cash",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Gmac Cash",
+    "songName": "Out Your Fucking Mouth",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Gmac%20Cash%20-%20Out%20Your%20Fucking%20Mouth.mp3"
+  },
+  {
+    "id": "97",
+    "artistansongmname": "Goko Taneski - Mozaik bez kraj _ Ѓоко Танески - Мозаик без крај",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Goko Taneski",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Goko Taneski",
+    "songName": "Goko Taneski",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Goko%20Taneski%20-%20Mozaik%20bez%20kraj%20_%20%d0%83%d0%be%d0%ba%d0%be%20%d0%a2%d0%b0%d0%bd%d0%b5%d1%81%d0%ba%d0%b8%20-%20%d0%9c%d0%be%d0%b7%d0%b0%d0%b8%d0%ba%20%d0%b1%d0%b5%d0%b7%20%d0%ba%d1%80%d0%b0%d1%98.mp3"
+  },
+  {
+    "id": "98",
+    "artistansongmname": "Hilight Tribe - Free Tibet (Vini Vici Remix)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Hilight Tribe",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Hilight Tribe",
+    "songName": "Free Tibet (Vini Vici Remix)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Hilight%20Tribe%20-%20Free%20Tibet%20(Vini%20Vici%20Remix).mp3"
+  },
+  {
+    "id": "99",
+    "artistansongmname": "Hippie Sabotage - Devil Eyes",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Hippie Sabotage",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Hippie Sabotage",
+    "songName": "Devil Eyes",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Hippie%20Sabotage%20-%20Devil%20Eyes.mp3"
+  },
+  {
+    "id": "100",
+    "artistansongmname": "Hollywood Film Music Orchestra - Ninja Tune",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Hollywood Film Music Orchestra",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Hollywood Film Music Orchestra",
+    "songName": "Ninja Tune",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Hollywood%20Film%20Music%20Orchestra%20-%20Ninja%20Tune.mp3"
+  },
+  {
+    "id": "101",
+    "artistansongmname": "INAS - Babi Flow",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "INAS",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "INAS",
+    "songName": "Babi Flow",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/INAS%20-%20Babi%20Flow.mp3"
+  },
+  {
+    "id": "102",
+    "artistansongmname": "INAS - Nyokosuzi",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "INAS",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "INAS",
+    "songName": "Nyokosuzi",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/INAS%20-%20Nyokosuzi.mp3"
+  },
+  {
+    "id": "103",
+    "artistansongmname": "INNA - Hot",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "INNA",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "INNA",
+    "songName": "Hot",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/INNA%20-%20Hot.mp3"
+  },
+  {
+    "id": "104",
+    "artistansongmname": "Inas - Da da da",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Inas",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Inas",
+    "songName": "Da da da",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Inas%20-%20Da%20da%20da.mp3"
+  },
+  {
+    "id": "105",
+    "artistansongmname": "Itno Mi Trebas",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Itno Mi Trebas",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Itno Mi Trebas",
+    "songName": "Itno Mi Trebas",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Itno%20Mi%20Trebas.mp3"
+  },
+  {
+    "id": "106",
+    "artistansongmname": "J Balvin, Willy William - Mi Gente",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "J Balvin, Willy William",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "J Balvin, Willy William",
+    "songName": "Mi Gente",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/J%20Balvin,%20Willy%20William%20-%20Mi%20Gente%20(Official%20Video).mp3"
+  },
+  {
+    "id": "107",
+    "artistansongmname": "JID - Surround Sound (feat. 21 Savage & Baby Tate)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "JID",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": " Baby Tate)",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "JID",
+    "songName": "Surround Sound (feat. 21 Savage & Baby Tate)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/JID%20-%20Surround%20Sound%20(feat.%2021%20Savage%20&%20Baby%20Tate).mp3"
+  },
+  {
+    "id": "108",
+    "artistansongmname": "Jain - Makeba",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Jain",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Jain",
+    "songName": "Makeba",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Jain%20-%20Makeba.mp3"
+  },
+  {
+    "id": "109",
+    "artistansongmname": "Jala Brat & Buba Corelli - Bass (GOAT SEASON 3 FINAL CHAPTER)",
+    "genre": "Bosnian",
+    "bandinfo": {
+      "existentDJinBand": "Standalone Band",
+      "singer1": {
+        "fulName": "Jasmin Fazlić",
+        "born": "1986",
+        "description": "Jasmin Fazlić, known by his stage name Jala Brat, is a Bosnian rapper, songwriter and producer. He is best known for collaborating with another Bosnian rapper Buba Corelli.",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "Bojan Vranešević",
+        "born": "1989",
+        "description": "Bojan Vranešević (born 22 September 1989), known by his stage name Buba Corelli, is a Bosnian Serb turbo-folk musician, songwriter, record producer and former rapper. He is best known for his collaborative efforts with Jala Brat, with whom he also founded their record label Imperia.",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": "Jasmin Fazlić,Bojan Vranešević"
+    },
+    "artistName": "Jala Brat & Buba Corelli",
+    "songName": "Bass (GOAT SEASON 3 FINAL CHAPTER)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Jala%20Brat%20&%20Buba%20Corelli%20-%20Bass%20(GOAT%20SEASON%203%20FINAL%20CHAPTER).mp3"
+  },
+  {
+    "id": "110",
+    "artistansongmname": "Jala Brat & Buba Corelli - Klinka",
+    "genre": "Bosnian",
+    "bandinfo": {
+      "existentDJinBand": "Standalone Band",
+      "singer1": {
+        "fulName": "Jasmin Fazlić",
+        "born": "1986",
+        "description": "Jasmin Fazlić, known by his stage name Jala Brat, is a Bosnian rapper, songwriter and producer. He is best known for collaborating with another Bosnian rapper Buba Corelli.",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "Bojan Vranešević",
+        "born": "1989",
+        "description": "Bojan Vranešević (born 22 September 1989), known by his stage name Buba Corelli, is a Bosnian Serb turbo-folk musician, songwriter, record producer and former rapper. He is best known for his collaborative efforts with Jala Brat, with whom he also founded their record label Imperia.",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": "Jasmin Fazlić,Bojan Vranešević"
+    },
+    "artistName": "Jala Brat & Buba Corelli",
+    "songName": "Klinka",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Jala%20Brat%20&%20Buba%20Corelli%20-%20Klinka.mp3"
+  },
+  {
+    "id": "111",
+    "artistansongmname": "Jala Brat & Buba Corelli ft. Rasta - Benga po snijegu - IMPERIA",
+    "genre": "Bosnian",
+    "bandinfo": {
+      "existentDJinBand": "Standalone Band",
+      "singer1": {
+        "fulName": "Jasmin Fazlić",
+        "born": "1986",
+        "description": "Jasmin Fazlić, known by his stage name Jala Brat, is a Bosnian rapper, songwriter and producer. He is best known for collaborating with another Bosnian rapper Buba Corelli.",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "Bojan Vranešević",
+        "born": "1989",
+        "description": "Bojan Vranešević (born 22 September 1989), known by his stage name Buba Corelli, is a Bosnian Serb turbo-folk musician, songwriter, record producer and former rapper. He is best known for his collaborative efforts with Jala Brat, with whom he also founded their record label Imperia.",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": "Jasmin Fazlić,Bojan Vranešević"
+    },
+    "artistName": "Jala Brat & Buba Corelli ft. Rasta",
+    "songName": "Jala Brat & Buba Corelli ft. Rasta",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Jala%20Brat%20&%20Buba%20Corelli%20ft.%20Rasta%20-%20Benga%20po%20snijegu%20-%20IMPERIA.mp3"
+  },
+  {
+    "id": "112",
+    "artistansongmname": "Jala Brat - 99",
+    "genre": "Bosnian",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Jala Brat",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Jala Brat",
+    "songName": "99",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Jala%20Brat%20-%2099.mp3"
+  },
+  {
+    "id": "113",
+    "artistansongmname": "Jaxomy x Agatino Romero x Raffaella Carrà – Pedro",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Jaxomy x Agatino Romero x Raffaella Carrà – Pedro",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Jaxomy x Agatino Romero x Raffaella Carrà – Pedro",
+    "songName": "Jaxomy x Agatino Romero x Raffaella Carrà – Pedro",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Jaxomy%20x%20Agatino%20Romero%20x%20Raffaella%20Carr%c3%a0%20%e2%80%93%20Pedro%20(Official%20Video).mp3"
+  },
+  {
+    "id": "114",
+    "artistansongmname": "Jay Jay",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Jay Jay",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Jay Jay",
+    "songName": "Jay Jay",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Jay%20Jay.mp3"
+  },
+  {
+    "id": "115",
+    "artistansongmname": "KCBlaze Rasta Kavasaki Remix",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "KCBlaze Rasta Kavasaki Remix",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "KCBlaze Rasta Kavasaki Remix",
+    "songName": "KCBlaze Rasta Kavasaki Remix",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/KCBlaze%20Rasta%20Kavasaki%20Remix.mp3"
+  },
+  {
+    "id": "116",
+    "artistansongmname": "Kaskade & WILL K - Flip Reset [Monstercat Release]",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Kaskade & WILL K",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": " WILL K - Flip Reset [Monstercat Release]",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Kaskade & WILL K",
+    "songName": "Flip Reset [Monstercat Release]",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Kaskade%20&%20WILL%20K%20-%20Flip%20Reset%20%5bMonstercat%20Release%5d.mp3"
+  },
+  {
+    "id": "117",
+    "artistansongmname": "Katy Perry - Chained To The Rhythm (Official) ft. Skip Marley",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Katy Perry",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": ". Skip Marley",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Katy Perry",
+    "songName": "Chained To The Rhythm (Official) ft. Skip Marley",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Katy%20Perry%20-%20Chained%20To%20The%20Rhythm%20(Official)%20ft.%20Skip%20Marley.mp3"
+  },
+  {
+    "id": "118",
+    "artistansongmname": "Katy Perry - Firework (Lyrics)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Katy Perry",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Katy Perry",
+    "songName": "Firework (Lyrics)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Katy%20Perry%20-%20Firework%20(Lyrics).mp3"
+  },
+  {
+    "id": "119",
+    "artistansongmname": "Kida x Dafina Zeqiri - Ai Me Mu So",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Kida x Dafina Zeqiri",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Kida x Dafina Zeqiri",
+    "songName": "Ai Me Mu So",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Kida%20x%20Dafina%20Zeqiri%20-%20Ai%20Me%20Mu%20So.mp3"
+  },
+  {
+    "id": "120",
+    "artistansongmname": "Kiril Dzajkovski feat. Esma Redzepova & Ras Tweed - Raise Up Your Hand",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Kiril Dzajkovski feat. Esma Redzepova & Ras Tweed",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": " Ras Tweed - Raise Up Your Hand",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Kiril Dzajkovski feat. Esma Redzepova & Ras Tweed",
+    "songName": "Raise Up Your Hand",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Kiril%20Dzajkovski%20feat.%20Esma%20Redzepova%20&%20Ras%20Tweed%20-%20Raise%20Up%20Your%20Hand.mp3"
+  },
+  {
+    "id": "121",
+    "artistansongmname": "LORES - BALERINA",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "LORES",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "LORES",
+    "songName": "BALERINA",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/LORES%20-%20BALERINA%20(OFFICIAL%20VIDEO).mp3"
+  },
+  {
+    "id": "122",
+    "artistansongmname": "LORES VS. ANASTASIJA - RED BULL SOUNDCLASH_ THE TAKEOVER",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "LORES VS. ANASTASIJA",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "LORES VS. ANASTASIJA",
+    "songName": "RED BULL SOUNDCLASH_ THE TAKEOVER",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/LORES%20VS.%20ANASTASIJA%20-%20RED%20BULL%20SOUNDCLASH_%20THE%20TAKEOVER.mp3"
+  },
+  {
+    "id": "123",
+    "artistansongmname": "Lambe Alabakovski feat. Darko Dimitrov - Vrati mi go srceto",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Lambe Alabakovski feat. Darko Dimitrov",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": ". Darko Dimitrov - Vrati mi go srceto",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Lambe Alabakovski feat. Darko Dimitrov",
+    "songName": "Vrati mi go srceto",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Lambe%20Alabakovski%20feat.%20Darko%20Dimitrov%20-%20Vrati%20mi%20go%20srceto.mp3"
+  },
+  {
+    "id": "124",
+    "artistansongmname": "Lenny Kravitz - Low",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Lenny Kravitz",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Lenny Kravitz",
+    "songName": "Low",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Lenny%20Kravitz%20-%20Low%20(Official%20Video).mp3"
+  },
+  {
+    "id": "125",
+    "artistansongmname": "Leo Band ft. Petar Rangelov - HABIBI COME TO DUBAI",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Leo Band ft. Petar Rangelov",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": ". Petar Rangelov - HABIBI COME TO DUBAI",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Leo Band ft. Petar Rangelov",
+    "songName": "HABIBI COME TO DUBAI",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Leo%20Band%20ft.%20Petar%20Rangelov%20-%20HABIBI%20COME%20TO%20DUBAI.mp3"
+  },
+  {
+    "id": "126",
+    "artistansongmname": "Los Del Rio - Macarena (Bayside Boys Remix)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Los Del Rio",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Los Del Rio",
+    "songName": "Macarena (Bayside Boys Remix)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Los%20Del%20Rio%20-%20Macarena%20(Bayside%20Boys%20Remix).mp3"
+  },
+  {
+    "id": "127",
+    "artistansongmname": "Lunna x Traker - Toa Sto Si Ti",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Lunna x Traker",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Lunna x Traker",
+    "songName": "Toa Sto Si Ti",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Lunna%20x%20Traker%20-%20Toa%20Sto%20Si%20Ti%20(Official%20Video).mp3"
+  },
+  {
+    "id": "128",
+    "artistansongmname": "MACKLEMORE & RYAN LEWIS - THRIFT SHOP FEAT. WANZ",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "MACKLEMORE & RYAN LEWIS",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": " RYAN LEWIS - THRIFT SHOP FEAT. WANZ (OFFICIAL VIDEO)",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "MACKLEMORE & RYAN LEWIS",
+    "songName": "THRIFT SHOP FEAT. WANZ",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/MACKLEMORE%20&%20RYAN%20LEWIS%20-%20THRIFT%20SHOP%20FEAT.%20WANZ%20(OFFICIAL%20VIDEO).mp3"
+  },
+  {
+    "id": "129",
+    "artistansongmname": "MERO, Jamule - Rapstars",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "MERO, Jamule",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "MERO, Jamule",
+    "songName": "Rapstars",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/MERO,%20Jamule%20-%20Rapstars.mp3"
+  },
+  {
+    "id": "133",
+    "artistansongmname": "Mariah Carey - All I Want for Christmas Is You",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Mariah Carey",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Mariah Carey",
+    "songName": "All I Want for Christmas Is You",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Mariah%20Carey%20-%20All%20I%20Want%20for%20Christmas%20Is%20You.mp3"
+  },
+  {
+    "id": "134",
+    "artistansongmname": "Maroon 5 - sugar",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Maroon 5",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Maroon 5",
+    "songName": "sugar",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Maroon%205%20-%20sugar.mp3"
+  },
+  {
+    "id": "135",
+    "artistansongmname": "Marshmello & Anne-Marie - FRIENDS",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Marshmello & Anne",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": " Anne-Marie - FRIENDS",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Marshmello & Anne",
+    "songName": "Marshmello & Anne",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Marshmello%20&%20Anne-Marie%20-%20FRIENDS.mp3"
+  },
+  {
+    "id": "136",
+    "artistansongmname": "Martin Garrix - Animals",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Martin Garrix",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Martin Garrix",
+    "songName": "Animals",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Martin%20Garrix%20-%20Animals.mp3"
+  },
+  {
+    "id": "132",
+    "artistansongmname": "Mariah Carey - All I Want for Christmas Is You (Make My Wish Come True Edition)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Mariah Carey",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Mariah Carey",
+    "songName": "All I Want for Christmas Is You (Make My Wish Come True Edition)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Mariah%20Carey%20-%20All%20I%20Want%20for%20Christmas%20Is%20You%20(Make%20My%20Wish%20Come%20True%20Edition).mp3"
+  },
+  {
+    "id": "137",
+    "artistansongmname": "Martin Mila - Odgovor",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Martin Mila",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Martin Mila",
+    "songName": "Odgovor",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Martin%20Mila%20-%20Odgovor.mp3"
+  },
+  {
+    "id": "138",
+    "artistansongmname": "Migos - Slippery Feat. Gucci Mane (Culture)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Migos",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Migos",
+    "songName": "Slippery Feat. Gucci Mane (Culture)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Migos%20-%20Slippery%20Feat.%20Gucci%20Mane%20(Culture).mp3"
+  },
+  {
+    "id": "139",
+    "artistansongmname": "Mike Floss - Better Believe It",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Mike Floss",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Mike Floss",
+    "songName": "Better Believe It",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Mike%20Floss%20-%20Better%20Believe%20It.mp3"
+  },
+  {
+    "id": "140",
+    "artistansongmname": "Miley Cyrus - Midnight Sky",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Miley Cyrus",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Miley Cyrus",
+    "songName": "Midnight Sky",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Miley%20Cyrus%20-%20Midnight%20Sky%20(Official%20Video).mp3"
+  },
+  {
+    "id": "141",
+    "artistansongmname": "Miley Cyrus - Party In The U.S.A.",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Miley Cyrus",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Miley Cyrus",
+    "songName": "Party In The U.S.A.",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Miley%20Cyrus%20-%20Party%20In%20The%20U.S.A.%20(Official%20Video).mp3"
+  },
+  {
+    "id": "142",
+    "artistansongmname": "Miley Cyrus - Used To Be Young",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Miley Cyrus",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Miley Cyrus",
+    "songName": "Used To Be Young",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Miley%20Cyrus%20-%20Used%20To%20Be%20Young.mp3"
+  },
+  {
+    "id": "143",
+    "artistansongmname": "Miley Cyrus - Wrecking Ball",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Miley Cyrus",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Miley Cyrus",
+    "songName": "Wrecking Ball",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Miley%20Cyrus%20-%20Wrecking%20Ball%20(Official%20Video).mp3"
+  },
+  {
+    "id": "145",
+    "artistansongmname": "Moj Ohrid Moe Radio Super Radio 97fm",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Moj Ohrid Moe Radio Super Radio 97fm",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Moj Ohrid Moe Radio Super Radio 97fm",
+    "songName": "Moj Ohrid Moe Radio Super Radio 97fm",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Moj%20Ohrid%20Moe%20Radio%20Super%20Radio%2097fm.mp3"
+  },
+  {
+    "id": "146",
+    "artistansongmname": "Monolink - Return to Oz (ARTBAT Remix)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Monolink",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Monolink",
+    "songName": "Return to Oz (ARTBAT Remix)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Monolink%20-%20Return%20to%20Oz%20(ARTBAT%20Remix).mp3"
+  },
+  {
+    "id": "147",
+    "artistansongmname": "Mr.President - Coco Jamboo (1996) [Official Video] - MELOMAN DANCE",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Mr.President",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Mr.President",
+    "songName": "Mr.President",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Mr.President%20-%20Coco%20Jamboo%20(1996)%20%5bOfficial%20Video%5d%20-%20MELOMAN%20DANCE.mp3"
+  },
+  {
+    "id": "148",
+    "artistansongmname": "N!__@s in Paris x Moje zlato(Remix)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "N!__@s in Paris x Moje zlato(Remix)",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "N!__@s in Paris x Moje zlato(Remix)",
+    "songName": "N!__@s in Paris x Moje zlato(Remix)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/N!__@s%20in%20Paris%20x%20Moje%20zlato(Remix).mp3"
+  },
+  {
+    "id": "149",
+    "artistansongmname": "NATASA BEKVALAC - DODJI MAMI",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Natasa Bekvalac",
+        "born": "1980",
+        "description": "Nataša Bekvalac is a Serbian singer from Novi Sad. She debuted in 2001 and has since released five studio albums - Ne brini, Nista lično, Stereo ljubav, Ne Valjam and Original. In 2020, Bekvalac held her first headline concert in the Belgrade Arena",
+        "wasOnIDJShow": true
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": "Relja Popovic,Vladimir Matović"
+    },
+    "artistName": "NATASA BEKVALAC",
+    "songName": "DODJI MAMI",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/NATASA%20BEKVALAC%20-%20DODJI%20MAMI%20(OFFICIAL%20VIDEO).mp3"
+  },
+  {
+    "id": "162",
+    "artistansongmname": "Pajak - Nokjva",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Pajak",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Pajak",
+    "songName": "Nokjva",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Pajak%20-%20Nokjva.mp3"
+  },
+  {
+    "id": "163",
+    "artistansongmname": "Pajak ft.Mesko - Mala",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Pajak ft.Mesko",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": ".Mesko - Mala",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Pajak ft.Mesko",
+    "songName": "Mala",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Pajak%20ft.Mesko%20-%20Mala.mp3"
+  },
+  {
+    "id": "164",
+    "artistansongmname": "Pajak x Mesko - Srce Gori (Prod. Popov)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Pajak x Mesko",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Pajak x Mesko",
+    "songName": "Srce Gori (Prod. Popov)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Pajak%20x%20Mesko%20-%20Srce%20Gori%20(Prod.%20Popov).mp3"
+  },
+  {
+    "id": "165",
+    "artistansongmname": "Pharrell Williams - Happy",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Pharrell Williams",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Pharrell Williams",
+    "songName": "Happy",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Pharrell%20Williams%20-%20Happy%20(Official%20Music%20Video).mp3"
+  },
+  {
+    "id": "166",
+    "artistansongmname": "Pop Smoke - Dior (Official Audio)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Pop Smoke",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Pop Smoke",
+    "songName": "Dior (Official Audio)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Pop%20Smoke%20-%20Dior%20(Official%20Audio).mp3"
+  },
+  {
+    "id": "167",
+    "artistansongmname": "Pop Smoke - Mood Swings (Audio) ft. Lil Tjay - POPSMOKEVEVO",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Pop Smoke",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": ". Lil Tjay - POPSMOKEVEVO",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Pop Smoke",
+    "songName": "Pop Smoke",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Pop%20Smoke%20-%20Mood%20Swings%20(Audio)%20ft.%20Lil%20Tjay%20-%20POPSMOKEVEVO.mp3"
+  },
+  {
+    "id": "169",
+    "artistansongmname": "Post Malone - Better Now",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Post Malone",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Post Malone",
+    "songName": "Better Now",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Post%20Malone%20-%20Better%20Now%20(Official%20Video).mp3"
+  },
+  {
+    "id": "170",
+    "artistansongmname": "RASTA X VOYAGE - HABIBI (OFFICIAL REMIX VIDEO)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "RASTA X VOYAGE",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "RASTA X VOYAGE",
+    "songName": "HABIBI (OFFICIAL REMIX VIDEO)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/RASTA%20X%20VOYAGE%20-%20HABIBI%20(OFFICIAL%20REMIX%20VIDEO).mp3"
+  },
+  {
+    "id": "171",
+    "artistansongmname": "RASTA x ALEN SAKIĆ - BENZ ILI BIMMER",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "RASTA x ALEN SAKIĆ",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "RASTA x ALEN SAKIĆ",
+    "songName": "BENZ ILI BIMMER",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/RASTA%20x%20ALEN%20SAKI%c4%86%20-%20BENZ%20ILI%20BIMMER%20(OFFICIAL%20VIDEO).mp3"
+  },
+  {
+    "id": "172",
+    "artistansongmname": "RELJA - ZA TOBOM LUD",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "RELJA",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "RELJA",
+    "songName": "ZA TOBOM LUD",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/RELJA%20-%20ZA%20TOBOM%20LUD%20(OFFICIAL%20VIDEO).mp3"
+  },
+  {
+    "id": "173",
+    "artistansongmname": "RELJA X COBY X STOJA - SAMO JAKO 4K",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "RELJA X COBY X STOJA",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "RELJA X COBY X STOJA",
+    "songName": "SAMO JAKO 4K",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/RELJA%20X%20COBY%20X%20STOJA%20-%20SAMO%20JAKO%20(OFFICIAL%20VIDEO)%204K.mp3"
+  },
+  {
+    "id": "175",
+    "artistansongmname": "RELJA X NUCCI - OMB",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "RELJA X NUCCI",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": " NUCCI - OMB (OFFICIAL VIDEO)",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "RELJA X NUCCI",
+    "songName": "OMB",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/RELJA%20X%20NUCCI%20-%20OMB%20(OFFICIAL%20VIDEO).mp3"
+  },
+  {
+    "id": "176",
+    "artistansongmname": "RELJA X RASTA - TURIRA",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "RELJA X RASTA",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": " RASTA - TURIRA (OFFICIAL VIDEO)",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "RELJA X RASTA",
+    "songName": "TURIRA",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/RELJA%20X%20RASTA%20-%20TURIRA%20(OFFICIAL%20VIDEO).mp3"
+  },
+  {
+    "id": "177",
+    "artistansongmname": "ROSALÍA - BIZCOCHITO",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "ROSALÍA",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "ROSALÍA",
+    "songName": "BIZCOCHITO",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/ROSAL%c3%8dA%20-%20BIZCOCHITO.mp3"
+  },
+  {
+    "id": "178",
+    "artistansongmname": "Rasta - AMGVSQ7AUDI",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Rasta",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Rasta",
+    "songName": "AMGVSQ7AUDI",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Rasta%20-%20AMGVSQ7AUDI.mp3"
+  },
+  {
+    "id": "179",
+    "artistansongmname": "Rihanna feat. Eminem - I love the way you lie   Lyrics   320 kbps",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Rihanna feat. Eminem",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": ". Eminem - I love the way you lie   Lyrics   320 kbps",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Rihanna feat. Eminem",
+    "songName": "I love the way you lie   Lyrics   320 kbps",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Rihanna%20feat.%20Eminem%20-%20I%20love%20the%20way%20you%20lie%20%20%20Lyrics%20%20%20320%20kbps.mp3"
+  },
+  {
+    "id": "181",
+    "artistansongmname": "SAKO POLUMENTA - E STO NISAM SUNCE (AUDIO 2002)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "SAKO POLUMENTA",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "SAKO POLUMENTA",
+    "songName": "E STO NISAM SUNCE (AUDIO 2002)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/SAKO%20POLUMENTA%20-%20E%20STO%20NISAM%20SUNCE%20(AUDIO%202002).mp3"
+  },
+  {
+    "id": "182",
+    "artistansongmname": "SNAP! - Rhythm Is A Dancer",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "SNAP!",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "SNAP!",
+    "songName": "Rhythm Is A Dancer",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/SNAP!%20-%20Rhythm%20Is%20A%20Dancer%20(Official%20Music%20Video).mp3"
+  },
+  {
+    "id": "183",
+    "artistansongmname": "STORMZY - OWN IT (feat. ED SHEERAN & BURNA BOY)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "STORMZY",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": " BURNA BOY)",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "STORMZY",
+    "songName": "OWN IT (feat. ED SHEERAN & BURNA BOY)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/STORMZY%20-%20OWN%20IT%20(feat.%20ED%20SHEERAN%20&%20BURNA%20BOY).mp3"
+  },
+  {
+    "id": "184",
+    "artistansongmname": "Sajfer - Karneval",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Sajfer",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Sajfer",
+    "songName": "Karneval",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Sajfer%20-%20Karneval.mp3"
+  },
+  {
+    "id": "185",
+    "artistansongmname": "Sanela - Lagi ( Lyrics Video ) ⧸ Санела - Лаги ( Лирики Видео )",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Sanela",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Sanela",
+    "songName": "Sanela",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Sanela%20-%20Lagi%20(%20Lyrics%20Video%20)%20%e2%a7%b8%20%d0%a1%d0%b0%d0%bd%d0%b5%d0%bb%d0%b0%20-%20%d0%9b%d0%b0%d0%b3%d0%b8%20(%20%d0%9b%d0%b8%d1%80%d0%b8%d0%ba%d0%b8%20%d0%92%d0%b8%d0%b4%d0%b5%d0%be%20).mp3"
+  },
+  {
+    "id": "187",
+    "artistansongmname": "Senidah - Replay",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Senidah",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Senidah",
+    "songName": "Replay",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Senidah%20-%20Replay.mp3"
+  },
+  {
+    "id": "188",
+    "artistansongmname": "Severina - Brad Pitt - (Audio 2012) HD",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Severina",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Severina",
+    "songName": "Severina",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Severina%20-%20Brad%20Pitt%20-%20(Audio%202012)%20HD.mp3"
+  },
+  {
+    "id": "189",
+    "artistansongmname": "Shaboozey - A Bar Song Tipsy",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Shaboozey",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Shaboozey",
+    "songName": "A Bar Song Tipsy",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Shaboozey%20-%20A%20Bar%20Song%20Tipsy.mp3"
+  },
+  {
+    "id": "190",
+    "artistansongmname": "Shakira - Loca (Remix)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Shakira",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Shakira",
+    "songName": "Loca (Remix)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Shakira%20-%20Loca%20(Remix).mp3"
+  },
+  {
+    "id": "191",
+    "artistansongmname": "Shakira - Waka Waka (Time For Africa)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Shakira",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Shakira",
+    "songName": "Waka Waka (Time For Africa)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Shakira%20-%20Waka%20Waka%20(Time%20For%20Africa).mp3"
+  },
+  {
+    "id": "192",
+    "artistansongmname": "Sia - Elastic Heart feat. Shia LaBeouf & Maddie Ziegler",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Sia",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": " Maddie Ziegler",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Sia",
+    "songName": "Elastic Heart feat. Shia LaBeouf & Maddie Ziegler",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Sia%20-%20Elastic%20Heart%20feat.%20Shia%20LaBeouf%20&%20Maddie%20Ziegler.mp3"
+  },
+  {
+    "id": "193",
+    "artistansongmname": "Slatkaristika - Nalej",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Slatkaristika",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Slatkaristika",
+    "songName": "Nalej",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Slatkaristika%20-%20Nalej.mp3"
+  },
+  {
+    "id": "194",
+    "artistansongmname": "Slatkaristika ft. AceNL - Klasika - (Official video by Global Music)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Slatkaristika ft. AceNL",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": ". AceNL - Klasika - (Official video by Global Music)",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Slatkaristika ft. AceNL",
+    "songName": "Slatkaristika ft. AceNL",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Slatkaristika%20ft.%20AceNL%20-%20Klasika%20-%20(Official%20video%20by%20Global%20Music).mp3"
+  },
+  {
+    "id": "195",
+    "artistansongmname": "Slatkaristika x Cvija - Provokacija",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Slatkaristika x Cvija",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Slatkaristika x Cvija",
+    "songName": "Provokacija",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Slatkaristika%20x%20Cvija%20-%20Provokacija.mp3"
+  },
+  {
+    "id": "196",
+    "artistansongmname": "Slatkaristika x Toni Zen - Milion Leta",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Slatkaristika x Toni Zen",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Slatkaristika x Toni Zen",
+    "songName": "Milion Leta",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Slatkaristika%20x%20Toni%20Zen%20-%20Milion%20Leta.mp3"
+  },
+  {
+    "id": "197",
+    "artistansongmname": "SoFaygo - Knock Knock",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "SoFaygo",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "SoFaygo",
+    "songName": "Knock Knock",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/SoFaygo%20-%20Knock%20Knock%20(Official%20Music%20Video).mp3"
+  },
+  {
+    "id": "214",
+    "artistansongmname": "Taylor-Swift-Blank-Space",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Taylor",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "-Blank-Space",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Taylor",
+    "songName": "Taylor",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Taylor-Swift-Blank-Space.mp3"
+  },
+  {
+    "id": "215",
+    "artistansongmname": "Teddy Swims - Broke feat. Thomas Rhett",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Teddy Swims",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": ". Thomas Rhett",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Teddy Swims",
+    "songName": "Broke feat. Thomas Rhett",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Teddy%20Swims%20-%20Broke%20feat.%20Thomas%20Rhett.mp3"
+  },
+  {
+    "id": "217",
+    "artistansongmname": "The Chainsmokers & Coldplay - Something Just Like This",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "The Chainsmokers & Coldplay",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": " Coldplay - Something Just Like This",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "The Chainsmokers & Coldplay",
+    "songName": "Something Just Like This",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/The%20Chainsmokers%20&%20Coldplay%20-%20Something%20Just%20Like%20This.mp3"
+  },
+  {
+    "id": "216",
+    "artistansongmname": "Tek je 12 sati",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Tek je 12 sati",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Tek je 12 sati",
+    "songName": "Tek je 12 sati",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Tek%20je%2012%20sati.mp3"
+  },
+  {
+    "id": "218",
+    "artistansongmname": "Timmy Trumpet & Savage - Freaks",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Timmy Trumpet & Savage",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": " Savage - Freaks (Official Video)",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Timmy Trumpet & Savage",
+    "songName": "Freaks",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Timmy%20Trumpet%20&%20Savage%20-%20Freaks%20(Official%20Video).mp3"
+  },
+  {
+    "id": "219",
+    "artistansongmname": "Timmy Trumpet - Freaks",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Timmy Trumpet",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Timmy Trumpet",
+    "songName": "Freaks",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Timmy%20Trumpet%20-%20Freaks.mp3"
+  },
+  {
+    "id": "220",
+    "artistansongmname": "Toploader - Dancing in the Moonlight - ToploaderVEVO",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Toploader",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Toploader",
+    "songName": "Toploader",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Toploader%20-%20Dancing%20in%20the%20Moonlight%20(Official%20Video)%20-%20ToploaderVEVO.mp3"
+  },
+  {
+    "id": "221",
+    "artistansongmname": "Toploader - Dancing in the Moonlight",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Toploader",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Toploader",
+    "songName": "Dancing in the Moonlight",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Toploader%20-%20Dancing%20in%20the%20Moonlight%20(Official%20Video).mp3"
+  },
+  {
+    "id": "222",
+    "artistansongmname": "Train - Shake Up Christmas",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Train",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Train",
+    "songName": "Shake Up Christmas",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Train%20-%20Shake%20Up%20Christmas%20(Official%20Video).mp3"
+  },
+  {
+    "id": "223",
+    "artistansongmname": "Traker ft Tasko - Crna Mecka",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Traker ft Tasko",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": " Tasko - Crna Mecka (Official Video)",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Traker ft Tasko",
+    "songName": "Crna Mecka",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Traker%20ft%20Tasko%20-%20Crna%20Mecka%20(Official%20Video).mp3"
+  },
+  {
+    "id": "225",
+    "artistansongmname": "Tyga - Ayy Macarena (Remix) ft. Snoop Dogg (Official Audio) [Prod by. JAE] - RMX400 JAE",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Tyga",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": ". Snoop Dogg (Official Audio) [Prod by. JAE] - RMX400 JAE",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Tyga",
+    "songName": "Tyga",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Tyga%20-%20Ayy%20Macarena%20(Remix)%20ft.%20Snoop%20Dogg%20(Official%20Audio)%20%5bProd%20by.%20JAE%5d%20-%20RMX400%20JAE.mp3"
+  },
+  {
+    "id": "224",
+    "artistansongmname": "Travis Scott - STARGAZING (Audio)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Travis Scott",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Travis Scott",
+    "songName": "STARGAZING (Audio)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Travis%20Scott%20-%20STARGAZING%20(Audio).mp3"
+  },
+  {
+    "id": "226",
+    "artistansongmname": "Tyga - Ayy Macarena (Remix) ft. Snoop Dogg (Official Audio) [Prod by. JAE]",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Tyga",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": ". Snoop Dogg (Official Audio) [Prod by. JAE]",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Tyga",
+    "songName": "Ayy Macarena (Remix) ft. Snoop Dogg (Official Audio) [Prod by. JAE]",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Tyga%20-%20Ayy%20Macarena%20(Remix)%20ft.%20Snoop%20Dogg%20(Official%20Audio)%20%5bProd%20by.%20JAE%5d.mp3"
+  },
+  {
+    "id": "227",
+    "artistansongmname": "Unholy - Sam Smith and Kim petras (Lyrics video)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Unholy",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Unholy",
+    "songName": "Sam Smith and Kim petras (Lyrics video)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Unholy%20-%20Sam%20Smith%20and%20Kim%20petras%20(Lyrics%20video).mp3"
+  },
+  {
+    "id": "228",
+    "artistansongmname": "VOYAGE X ELENA - LONDON",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "VOYAGE X ELENA",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": " ELENA - LONDON (OFFICIAL VIDEO)",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "VOYAGE X ELENA",
+    "songName": "LONDON",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/VOYAGE%20X%20ELENA%20-%20LONDON%20(OFFICIAL%20VIDEO).mp3"
+  },
+  {
+    "id": "229",
+    "artistansongmname": "VUK MOB X COBY - HEINEKEN",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "VUK MOB X COBY",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": " COBY - HEINEKEN (OFFICIAL VIDEO)",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "VUK MOB X COBY",
+    "songName": "HEINEKEN",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/VUK%20MOB%20X%20COBY%20-%20HEINEKEN%20(OFFICIAL%20VIDEO).mp3"
+  },
+  {
+    "id": "230",
+    "artistansongmname": "Vladimir Cetkar – A New Day",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Vladimir Cetkar – A New Day",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Vladimir Cetkar – A New Day",
+    "songName": "Vladimir Cetkar – A New Day",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Vladimir%20Cetkar%20%e2%80%93%20A%20New%20Day%20(Official%20Video).mp3"
+  },
+  {
+    "id": "231",
+    "artistansongmname": "Vladimir Cetkar - Don't Make Me Wait",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Vladimir Cetkar",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Vladimir Cetkar",
+    "songName": "Don't Make Me Wait",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Vladimir%20Cetkar%20-%20Don't%20Make%20Me%20Wait%20(Official%20Video).mp3"
+  },
+  {
+    "id": "232",
+    "artistansongmname": "Vladimir Cetkar - Travel The World (Regie Rules Remix) (Luka Edit)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Vladimir Cetkar",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Vladimir Cetkar",
+    "songName": "Travel The World (Regie Rules Remix) (Luka Edit)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Vladimir%20Cetkar%20-%20Travel%20The%20World%20(Regie%20Rules%20Remix)%20(Luka%20Edit).mp3"
+  },
+  {
+    "id": "233",
+    "artistansongmname": "Vladimir Cetkar - Travel The World (Regie Rules Remix)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Vladimir Cetkar",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Vladimir Cetkar",
+    "songName": "Travel The World (Regie Rules Remix)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Vladimir%20Cetkar%20-%20Travel%20The%20World%20(Regie%20Rules%20Remix).mp3"
+  },
+  {
+    "id": "234",
+    "artistansongmname": "Voyage, Mero - Block Life",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Voyage, Mero",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Voyage, Mero",
+    "songName": "Block Life",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Voyage,%20Mero%20-%20Block%20Life.mp3"
+  },
+  {
+    "id": "235",
+    "artistansongmname": "Voyage, SNIK - Bounce",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Voyage, SNIK",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Voyage, SNIK",
+    "songName": "Bounce",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Voyage,%20SNIK%20-%20Bounce.mp3"
+  },
+  {
+    "id": "236",
+    "artistansongmname": "WE PRAY - Coldplay, Little Simz, Burna Boy, Elyanna, TINI (Official Audio)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "WE PRAY",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "WE PRAY",
+    "songName": "Coldplay, Little Simz, Burna Boy, Elyanna, TINI (Official Audio)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/WE%20PRAY%20-%20Coldplay,%20Little%20Simz,%20Burna%20Boy,%20Elyanna,%20TINI%20(Official%20Audio).mp3"
+  },
+  {
+    "id": "237",
+    "artistansongmname": "Wiz Khalifa - Black And Yellow [G-Mix] ft. Snoop Dogg, Juicy J & T-Pain",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Wiz Khalifa",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": " T-Pain",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Wiz Khalifa",
+    "songName": "Wiz Khalifa",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Wiz%20Khalifa%20-%20Black%20And%20Yellow%20%5bG-Mix%5d%20ft.%20Snoop%20Dogg,%20Juicy%20J%20&%20T-Pain.mp3"
+  },
+  {
+    "id": "238",
+    "artistansongmname": "Wiz Khalifa - Black And Yellow [Official Music Video]",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Wiz Khalifa",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Wiz Khalifa",
+    "songName": "Black And Yellow [Official Music Video]",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Wiz%20Khalifa%20-%20Black%20And%20Yellow%20%5bOfficial%20Music%20Video%5d.mp3"
+  },
+  {
+    "id": "239",
+    "artistansongmname": "Wiz Khalifa - Medicated feat. Chevy Woods & Juicy J [Official Audio]",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Wiz Khalifa",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": " Juicy J [Official Audio]",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Wiz Khalifa",
+    "songName": "Medicated feat. Chevy Woods & Juicy J [Official Audio]",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Wiz%20Khalifa%20-%20Medicated%20feat.%20Chevy%20Woods%20&%20Juicy%20J%20%5bOfficial%20Audio%5d.mp3"
+  },
+  {
+    "id": "240",
+    "artistansongmname": "Wiz Khalifa - We Dem Boyz",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Wiz Khalifa",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Wiz Khalifa",
+    "songName": "We Dem Boyz",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Wiz%20Khalifa%20-%20We%20Dem%20Boyz.mp3"
+  },
+  {
+    "id": "241",
+    "artistansongmname": "XXXTENTACION - MOONLIGHT (OFFICIAL MUSIC VIDEO)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "XXXTENTACION",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "XXXTENTACION",
+    "songName": "MOONLIGHT (OFFICIAL MUSIC VIDEO)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/XXXTENTACION%20-%20MOONLIGHT%20(OFFICIAL%20MUSIC%20VIDEO).mp3"
+  },
+  {
+    "id": "242",
+    "artistansongmname": "Xavier Wulf - Tokyo Drift",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Xavier Wulf",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "avier Wulf - Tokyo Drift",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Xavier Wulf",
+    "songName": "Tokyo Drift",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Xavier%20Wulf%20-%20Tokyo%20Drift.mp3"
+  },
+  {
+    "id": "243",
+    "artistansongmname": "Y2K, bbno - Lalala",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Y2K, bbno",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Y2K, bbno",
+    "songName": "Lalala",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Y2K,%20bbno%20-%20Lalala%20(Official%20Video).mp3"
+  },
+  {
+    "id": "244",
+    "artistansongmname": "Young Thug - Mannequin Challenge ft. Juice WRLD (Official Audio)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Young Thug",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": ". Juice WRLD (Official Audio)",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Young Thug",
+    "songName": "Mannequin Challenge ft. Juice WRLD (Official Audio)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Young%20Thug%20-%20Mannequin%20Challenge%20ft.%20Juice%20WRLD%20(Official%20Audio).mp3"
+  },
+  {
+    "id": "245",
+    "artistansongmname": "Za njom",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Za njom",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Za njom",
+    "songName": "Za njom",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Za%20njom.mp3"
+  },
+  {
+    "id": "246",
+    "artistansongmname": "Zapali Grad",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Zapali Grad",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Zapali Grad",
+    "songName": "Zapali Grad",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Zapali%20Grad.mp3"
+  },
+  {
+    "id": "248",
+    "artistansongmname": "Zerb - Mwaki (Feat. Sofiya_Nzau) [Official Music Video]",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "Zerb",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Zerb",
+    "songName": "Mwaki (Feat. Sofiya_Nzau) [Official Music Video]",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Zerb%20-%20Mwaki%20(Feat.%20Sofiya_Nzau)%20%5bOfficial%20Music%20Video%5d.mp3"
+  },
+  {
+    "id": "249",
+    "artistansongmname": "cassö, RAYE, D-Block Europe - Prada",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "cassö, RAYE, D",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "cassö, RAYE, D",
+    "songName": "cassö, RAYE, D",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/cass%c3%b6,%20RAYE,%20D-Block%20Europe%20-%20Prada.mp3"
+  },
+  {
+    "id": "250",
+    "artistansongmname": "studeni noze - kuceto moe",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "studeni noze",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "studeni noze",
+    "songName": "kuceto moe",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/studeni%20noze%20-%20kuceto%20moe.mp3"
+  },
+  {
+    "id": "251",
+    "artistansongmname": "will.i.am - Scream & Shout ft. Britney Spears",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "will.i.am",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": " Shout ft. Britney Spears",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "will.i.am",
+    "songName": "Scream & Shout ft. Britney Spears",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/will.i.am%20-%20Scream%20&%20Shout%20ft.%20Britney%20Spears.mp3"
   }
 ]

@@ -39,13 +39,13 @@ function renderTableData(songs) {
 		idCell.innerText = song.id;
 
 		const titleCell = document.createElement('td');
-		titleCell.innerHTML = `<div title="Play song '${song.songName}'"><a style="text-decoration: none; color:inherit;" "target="_blank";" href="javascript:playSong('${song.songurl}','${song.id}');">${song.songName}</a></div>`
+		titleCell.innerHTML = `<div id="div-song-play-btn-${song.id}" title="Play song '${song.songName}'"><a style="text-decoration: none; color:inherit;" "target="_blank";" href="javascript:playSong('${song.songurl}','${song.id}');">${song.songName}</a></div>`
 
 		const artistCell = document.createElement('td');
 		artistCell.innerHTML = `<div title="View Artist ${song.artistName} on Google"><a href="https://www.google.com/search?q=${song.artistName}" style="text-decoration: none; color:inherit;";">${song.artistName}</a>`;
 
 		const playCell = document.createElement('td');
-		playCell.innerHTML = `<div title="Play song '${song.songName}'"><a id="play-btn-${song.id}" style="text-decoration: none;" href="javascript:playSong('${song.songurl}','${song.id}');">Play</a></div>`;
+		playCell.innerHTML = `<div id="div-song-play-btn-${song.id}" title="Play song '${song.songName}'"><a id="play-btn-${song.id}" style="text-decoration: none;" href="javascript:playSong('${song.songurl}','${song.id}');">Play</a></div>`;
 
 		const genreCell = document.createElement('td');
 		genreCell.innerText = song.genre;
@@ -54,7 +54,7 @@ function renderTableData(songs) {
 		releaseCell.innerText = song.year;
 
 		const bandCell = document.createElement('td');
-		bandCell.innerHTML = `<div title="${song.bandinfo.singer1.description } and ${song.bandinfo.singer2.description}"><a href="https://www.google.com/search?q=${song.bandinfo.singer1.fulName} and ${song.bandinfo.singer2.fulName}" style="text-decoration: none; color:inherit;";">${song.bandinfo.NamesOfSingers}</a></div>`
+		bandCell.innerHTML = `<div title="${song.bandinfo.singer1.description} and ${song.bandinfo.singer2.description}"><a href="https://www.google.com/search?q=${song.bandinfo.singer1.fulName} and ${song.bandinfo.singer2.fulName}" style="text-decoration: none; color:inherit;";">${song.bandinfo.NamesOfSingers}</a></div>`
   
         const wasonIDJShowCell = document.createElement('td');
 		wasonIDJShowCell.innerHTML = `<a href="https://www.google.com/search?q=${song.bandinfo.singer1.fulName} on IDJ Show" style="text-decoration: none; color:inherit;";">${song.bandinfo.singer1.wasOnIDJShow}</a>`
@@ -64,8 +64,8 @@ function renderTableData(songs) {
 
 		const actionsCell = document.createElement('td');
 		actionsCell.innerHTML = isPlaylist ?
-			`<div title="Remove song '${song.songName}' from playlist"><button id="remove-btn-${song.id}" class="btn btn-danger">Remove from playlist</button></div>` :
-			`<div title="Add song '${song.songName}' to playlist"><button id="add-btn-${song.id}" class="btn btn-primary">Add to playlist</button></div>`;
+			`<div id="div-song-playlistremove-btn-${song.id}" title="Remove song '${song.songName}' from playlist"><button id="remove-btn-${song.id}" class="btn btn-danger">Remove from playlist</button></div>` :
+			`<div id="div-song-playlistadd-btn-${song.id}" title="Add song '${song.songName}' to playlist"><button id="add-btn-${song.id}" class="btn btn-primary">Add to playlist</button></div>`;
 
 		// if (isPlaylist) {
 		// 	actionsCell.innerHTML = `<button id="remove-btn-${song.id}" class="btn btn-danger">Remove from playlist</button>`
@@ -79,7 +79,9 @@ function renderTableData(songs) {
 		const isSongInPlaylist = playlist.find((playlistSong) => playlistSong.id === song.id);
 		if (isSongInPlaylist && !isPlaylist) {
 			const addBtn = document.getElementById(`add-btn-${song.id}`);
+			const addBtndiv = document.getElementById(`div-song-playlistadd-btn-${song.id}`);
 			addBtn.classList.add('disabled');
+			addBtndiv.title.add('Song added to playlist')
 		}
 	});
 
@@ -206,6 +208,7 @@ function addSongToPlaylist(song) {
 	// console.log(playlist)
 	// filterSongs()
 	const addToPlaylistButton = document.getElementById(`add-btn-${song.id}`);
+
 	addToPlaylistButton.classList.add('disabled')
 }
 
