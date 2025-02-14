@@ -1,642 +1,1381 @@
-[
-  {
-    "id": "1",
-    "title": "The Real Slim Shady",
-    "artist": "Eminem",
-    "album": "The Marshall Mathers LP",
-    "genre": "Rap",
-    "duration": "4:44",
-    "restricted": "18+",
-    "releaseDate": "2000-05-23"
+[ 
+ {    "id": "1",
+    "artistansongmname": "A-ha - Take On Me`85",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "",
+    "year": "",
+    "artistName": "A",
+    "songName": "A",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/A-ha%20-%20Take%20On%20Me%6085.mp3"
   },
   {
     "id": "2",
-    "title": "Lose Yourself",
-    "artist": "Eminem",
-    "album": "8 Mile",
-    "genre": "Rap",
-    "duration": "5:20",
-    "restricted": "18+",
-    "releaseDate": "2002-10-28"
+    "artistansongmname": "AC DC - Highway To Hell",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "",
+    "year": "",
+    "artistName": "AC DC",
+    "songName": "Highway To Hell",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/AC%20DC%20-%20Highway%20To%20Hell.mp3"
   },
   {
     "id": "3",
-    "title": "Stan",
-    "artist": "Eminem",
-    "album": "The Marshall Mathers LP",
-    "genre": "Rap",
-    "duration": "6:44",
-    "restricted": "18+",
-    "releaseDate": "2000-11-21"
-  },
-  {
-    "id": "4",
-    "title": "Without Me",
-    "artist": "Eminem",
-    "album": "The Eminem Show",
-    "genre": "Rap",
-    "duration": "4:50",
-    "restricted": "18+",
-    "releaseDate": "2002-05-14"
+    "artistansongmname": "Abba - Dancing Queen`76",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "76",
+    "year": "76",
+    "artistName": "Abba",
+    "songName": "Dancing Queen`76",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Abba%20-%20Dancing%20Queen%6076.mp3"
   },
   {
     "id": "5",
-    "title": "The Way I Am",
-    "artist": "Eminem",
-    "album": "The Marshall Mathers LP",
-    "genre": "Rap",
-    "duration": "4:50",
-    "restricted": "18+",
-    "releaseDate": "2000-09-07"
+    "artistansongmname": "Abba - Take A Chance On Me`78",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "78",
+    "year": "78",
+    "artistName": "Abba",
+    "songName": "Take A Chance On Me`78",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Abba%20-%20Take%20A%20Chance%20On%20Me%6078.mp3"
   },
   {
     "id": "6",
-    "title": "My Name Is",
-    "artist": "Eminem",
-    "album": "The Slim Shady LP",
-    "genre": "Rap",
-    "duration": "4:28",
-    "restricted": "18+",
-    "releaseDate": "1999-01-25"
+    "artistansongmname": "Abba - Waterloo`74",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "74",
+    "year": "74",
+    "artistName": "Abba",
+    "songName": "Waterloo`74",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Abba%20-%20Waterloo%6074.mp3"
+  },
+  {
+    "id": "4",
+    "artistansongmname": "Abba - Gimme Gimme Gimme A Man After Midnight`79",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "79",
+    "year": "79",
+    "artistName": "Abba",
+    "songName": "Gimme Gimme Gimme A Man After Midnight`79",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Abba%20-%20Gimme%20Gimme%20Gimme%20A%20Man%20After%20Midnight%6079.mp3"
   },
   {
     "id": "7",
-    "title": "Mockingbird",
-    "artist": "Eminem",
-    "album": "Encore",
-    "genre": "Rap",
-    "duration": "4:11",
-    "restricted": "18+",
-    "releaseDate": "2005-04-25"
+    "artistansongmname": "Ace Of Base - All That She Wants`93",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "93",
+    "year": "93",
+    "artistName": "Ace Of Base",
+    "songName": "All That She Wants`93",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Ace%20Of%20Base%20-%20All%20That%20She%20Wants%6093.mp3"
   },
   {
     "id": "8",
-    "title": "Cleanin' Out My Closet",
-    "artist": "Eminem",
-    "album": "The Eminem Show",
-    "genre": "Rap",
-    "duration": "4:57",
-    "restricted": "18+",
-    "releaseDate": "2002-09-17"
+    "artistansongmname": "Adamski feat.Seal - Killer '90",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "",
+    "year": "",
+    "artistName": "Adamski feat.Seal",
+    "songName": "Killer '90",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Adamski%20feat.Seal%20-%20Killer%20'90.mp3"
   },
   {
     "id": "9",
-    "title": "In Da Club",
-    "artist": "50 Cent",
-    "album": "Get Rich or Die Tryin'",
-    "genre": "Hip Hop",
-    "duration": "3:44",
-    "restricted": "18+",
-    "releaseDate": "2003-01-07"
+    "artistansongmname": "After The Fire - Der Kommisar",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "",
+    "year": "",
+    "artistName": "After The Fire",
+    "songName": "Der Kommisar",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/After%20The%20Fire%20-%20Der%20Kommisar.mp3"
   },
   {
     "id": "10",
-    "title": "Candy Shop",
-    "artist": "50 Cent",
-    "album": "The Massacre",
-    "genre": "Hip Hop",
-    "duration": "3:29",
-    "restricted": "18+",
-    "releaseDate": "2005-02-15"
+    "artistansongmname": "Al Bano & Romina Power - Felicita",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "",
+    "year": "",
+    "artistName": "Al Bano & Romina Power",
+    "songName": "Felicita",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Al%20Bano%20&%20Romina%20Power%20-%20Felicita.mp3"
   },
   {
     "id": "11",
-    "title": "P.I.M.P.",
-    "artist": "50 Cent",
-    "album": "Get Rich or Die Tryin'",
-    "genre": "Hip Hop",
-    "duration": "4:09",
-    "restricted": "18+",
-    "releaseDate": "2003-08-12"
+    "artistansongmname": "Alabina - Alabina`97",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "97",
+    "year": "97",
+    "artistName": "Alabina",
+    "songName": "Alabina`97",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Alabina%20-%20Alabina%6097.mp3"
   },
   {
     "id": "12",
-    "title": "21 Questions",
-    "artist": "50 Cent",
-    "album": "Get Rich or Die Tryin'",
-    "genre": "Hip Hop",
-    "duration": "3:44",
-    "restricted": "18+",
-    "releaseDate": "2003-05-06"
+    "artistansongmname": "AlbumArtSmall.jpg",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "",
+    "year": "",
+    "artistName": "AlbumArtSmall.jpg",
+    "songName": "AlbumArtSmall.jpg",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/AlbumArtSmall.jpg"
   },
   {
     "id": "13",
-    "title": "Just A Lil Bit",
-    "artist": "50 Cent",
-    "album": "The Massacre",
-    "genre": "Hip Hop",
-    "duration": "3:58",
-    "restricted": "18+",
-    "releaseDate": "2005-05-10"
+    "artistansongmname": "AlbumArt_{B5020207-474E-4720-9710-022EE73DEB00}_Large.jpg",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "",
+    "year": "",
+    "artistName": "AlbumArt_{B5020207",
+    "songName": "AlbumArt_{B5020207",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/AlbumArt_%7bB5020207-474E-4720-9710-022EE73DEB00%7d_Large.jpg"
   },
   {
     "id": "14",
-    "title": "Disco Inferno",
-    "artist": "50 Cent",
-    "album": "The Massacre",
-    "genre": "Hip Hop",
-    "duration": "3:34",
-    "restricted": "18+",
-    "releaseDate": "2005-04-12"
+    "artistansongmname": "AlbumArt_{B5020207-474E-4720-9710-022EE73DEB00}_Small.jpg",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "",
+    "year": "",
+    "artistName": "AlbumArt_{B5020207",
+    "songName": "AlbumArt_{B5020207",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/AlbumArt_%7bB5020207-474E-4720-9710-022EE73DEB00%7d_Small.jpg"
   },
   {
     "id": "15",
-    "title": "Wanksta",
-    "artist": "50 Cent",
-    "album": "Get Rich or Die Tryin'",
-    "genre": "Hip Hop",
-    "duration": "3:39",
-    "restricted": "18+",
-    "releaseDate": "2003-11-06"
+    "artistansongmname": "Alicia Bridges - I Love The Nightlife`78",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "78",
+    "year": "78",
+    "artistName": "Alicia Bridges",
+    "songName": "I Love The Nightlife`78",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Alicia%20Bridges%20-%20I%20Love%20The%20Nightlife%6078.mp3"
   },
   {
     "id": "16",
-    "title": "Candy Shop",
-    "artist": "50 Cent",
-    "album": "The Massacre",
-    "genre": "Hip Hop",
-    "duration": "3:29",
-    "restricted": "18+",
-    "releaseDate": "2005-02-15"
+    "artistansongmname": "Alphaville - Big In Japan`85",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "85",
+    "year": "85",
+    "artistName": "Alphaville",
+    "songName": "Big In Japan`85",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Alphaville%20-%20Big%20In%20Japan%6085.mp3"
   },
   {
     "id": "17",
-    "title": "Bohemian Rhapsody",
-    "artist": "Queen",
-    "album": "A Night at the Opera",
-    "genre": "Rock",
-    "duration": "5:55",
-    "restricted": "None",
-    "releaseDate": "1975-10-31"
+    "artistansongmname": "Alphaville - Sounds Like A Melody`84",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "84",
+    "year": "84",
+    "artistName": "Alphaville",
+    "songName": "Sounds Like A Melody`84",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Alphaville%20-%20Sounds%20Like%20A%20Melody%6084.mp3"
   },
   {
     "id": "18",
-    "title": "Stairway to Heaven",
-    "artist": "Led Zeppelin",
-    "album": "Led Zeppelin IV",
-    "genre": "Rock",
-    "duration": "8:02",
-    "restricted": "None",
-    "releaseDate": "1971-11-08"
+    "artistansongmname": "Anastacia & Jamiroquai - Bad Girls",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "",
+    "year": "",
+    "artistName": "Anastacia & Jamiroquai",
+    "songName": "Bad Girls",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Anastacia%20&%20Jamiroquai%20-%20Bad%20Girls.mp3"
   },
   {
     "id": "19",
-    "title": "Hotel California",
-    "artist": "Eagles",
-    "album": "Hotel California",
-    "genre": "Rock",
-    "duration": "6:30",
-    "restricted": "None",
-    "releaseDate": "1977-02-22"
+    "artistansongmname": "Anastacia - Not That Kind`00",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "00",
+    "year": "00",
+    "artistName": "Anastacia",
+    "songName": "Not That Kind`00",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Anastacia%20-%20Not%20That%20Kind%6000.mp3"
   },
   {
     "id": "20",
-    "title": "Sweet Child O' Mine",
-    "artist": "Guns N' Roses",
-    "album": "Appetite for Destruction",
-    "genre": "Rock",
-    "duration": "5:56",
-    "restricted": "None",
-    "releaseDate": "1987-08-17"
+    "artistansongmname": "Andy Williams - Can`t Take My Eyes Of You`67",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "",
+    "year": "",
+    "artistName": "Andy Williams",
+    "songName": "Can`t Take My Eyes Of You`67",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Andy%20Williams%20-%20Can%60t%20Take%20My%20Eyes%20Of%20You%6067.mp3"
   },
   {
     "id": "21",
-    "title": "Imagine",
-    "artist": "John Lennon",
-    "album": "Imagine",
-    "genre": "Rock",
-    "duration": "3:03",
-    "restricted": "None",
-    "releaseDate": "1971-10-11"
+    "artistansongmname": "Anita Ward - You Can Ring My Bell`79",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "79",
+    "year": "79",
+    "artistName": "Anita Ward",
+    "songName": "You Can Ring My Bell`79",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Anita%20Ward%20-%20You%20Can%20Ring%20My%20Bell%6079.mp3"
   },
   {
     "id": "22",
-    "title": "Smells Like Teen Spirit",
-    "artist": "Nirvana",
-    "album": "Nevermind",
-    "genre": "Grunge",
-    "duration": "5:01",
-    "restricted": "None",
-    "releaseDate": "1991-09-10"
+    "artistansongmname": "Annie Lenox - Wallking On Broken Glass",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "",
+    "year": "",
+    "artistName": "Annie Lenox",
+    "songName": "Wallking On Broken Glass",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Annie%20Lenox%20-%20Wallking%20On%20Broken%20Glass.mp3"
   },
   {
     "id": "23",
-    "title": "Comfortably Numb",
-    "artist": "Pink Floyd",
-    "album": "The Wall",
-    "genre": "Rock",
-    "duration": "6:22",
-    "restricted": "None",
-    "releaseDate": "1979-11-30"
+    "artistansongmname": "Anouk - Nobody`s Wife`98",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "",
+    "year": "",
+    "artistName": "Anouk",
+    "songName": "Nobody`s Wife`98",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Anouk%20-%20Nobody%60s%20Wife%6098.mp3"
   },
   {
     "id": "24",
-    "title": "One",
-    "artist": "Metallica",
-    "album": "...And Justice for All",
-    "genre": "Heavy Metal",
-    "duration": "7:27",
-    "restricted": "None",
-    "releaseDate": "1989-08-25"
+    "artistansongmname": "Aretha Franklin - I Say A Little Prayer For You",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "",
+    "year": "",
+    "artistName": "Aretha Franklin",
+    "songName": "I Say A Little Prayer For You",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Aretha%20Franklin%20-%20I%20Say%20A%20Little%20Prayer%20For%20You.mp3"
   },
   {
     "id": "25",
-    "title": "November Rain",
-    "artist": "Guns N' Roses",
-    "album": "Use Your Illusion I",
-    "genre": "Rock",
-    "duration": "8:57",
-    "restricted": "None",
-    "releaseDate": "1991-02-18"
+    "artistansongmname": "Aretha Franklin - Think`68",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "68",
+    "year": "68",
+    "artistName": "Aretha Franklin",
+    "songName": "Think`68",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Aretha%20Franklin%20-%20Think%6068.mp3"
   },
   {
     "id": "26",
-    "title": "The Show Must Go On",
-    "artist": "Queen",
-    "album": "Innuendo",
-    "genre": "Rock",
-    "duration": "4:32",
-    "restricted": "None",
-    "releaseDate": "1991-10-14"
+    "artistansongmname": "Art Company - Suzana ( Live )`84",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "84",
+    "year": "84",
+    "artistName": "Art Company",
+    "songName": "Suzana ( Live )`84",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Art%20Company%20-%20Suzana%20(%20Live%20)%6084.mp3"
   },
   {
     "id": "27",
-    "title": "Another One Bites the Dust",
-    "artist": "Queen",
-    "album": "The Game",
-    "genre": "Rock",
-    "duration": "3:35",
-    "restricted": "None",
-    "releaseDate": "1980-06-30"
+    "artistansongmname": "Arthur Miles - Oh Woman`96",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "96",
+    "year": "96",
+    "artistName": "Arthur Miles",
+    "songName": "Oh Woman`96",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Arthur%20Miles%20-%20Oh%20Woman%6096.mp3"
   },
   {
     "id": "28",
-    "title": "One More Time",
-    "artist": "Daft Punk",
-    "album": "Discovery",
-    "genre": "House",
-    "duration": "5:20",
-    "restricted": "None",
-    "releaseDate": "2000-11-30"
+    "artistansongmname": "Average White Band - Pick Up The Pieces`74",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "74",
+    "year": "74",
+    "artistName": "Average White Band",
+    "songName": "Pick Up The Pieces`74",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Average%20White%20Band%20-%20Pick%20Up%20The%20Pieces%6074.mp3"
   },
   {
     "id": "29",
-    "title": "Yeah!",
-    "artist": "Usher",
-    "album": "Confessions",
-    "genre": "R&B",
-    "duration": "4:10",
-    "restricted": "None",
-    "releaseDate": "2004-01-27"
+    "artistansongmname": "Azucar Moreno - Bandido`90",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "90",
+    "year": "90",
+    "artistName": "Azucar Moreno",
+    "songName": "Bandido`90",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Azucar%20Moreno%20-%20Bandido%6090.mp3"
   },
   {
     "id": "30",
-    "title": "Get Busy",
-    "artist": "Sean Paul",
-    "album": "Dutty Rock",
-    "genre": "Reggae",
-    "duration": "3:31",
-    "restricted": "None",
-    "releaseDate": "2002-09-10"
+    "artistansongmname": "Babyface feat Des Ree - Fire`98",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "98",
+    "year": "98",
+    "artistName": "Babyface feat Des Ree",
+    "songName": "Fire`98",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Babyface%20feat%20Des%20Ree%20-%20Fire%6098.mp3"
   },
   {
     "id": "31",
-    "title": "In Da Club",
-    "artist": "50 Cent",
-    "album": "Get Rich or Die Tryin'",
-    "genre": "Hip Hop",
-    "duration": "3:44",
-    "restricted": "18+",
-    "releaseDate": "2003-01-07"
+    "artistansongmname": "Bananarama - Long Train Running`91",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "91",
+    "year": "91",
+    "artistName": "Bananarama",
+    "songName": "Long Train Running`91",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Bananarama%20-%20Long%20Train%20Running%6091.mp3"
   },
   {
     "id": "32",
-    "title": "Crazy in Love",
-    "artist": "Beyoncé",
-    "album": "Dangerously in Love",
-    "genre": "R&B",
-    "duration": "3:56",
-    "restricted": "None",
-    "releaseDate": "2003-05-18"
+    "artistansongmname": "Barry White - Can't Get Enough Of Your Love`74",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "74",
+    "year": "74",
+    "artistName": "Barry White",
+    "songName": "Can't Get Enough Of Your Love`74",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Barry%20White%20-%20Can't%20Get%20Enough%20Of%20Your%20Love%6074.mp3"
   },
   {
     "id": "33",
-    "title": "Hey Ya!",
-    "artist": "OutKast",
-    "album": "Speakerboxxx/The Love Below",
-    "genre": "Hip Hop",
-    "duration": "3:55",
-    "restricted": "None",
-    "releaseDate": "2003-09-09"
+    "artistansongmname": "Beatiful Ballet - Energy`82",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "82",
+    "year": "82",
+    "artistName": "Beatiful Ballet",
+    "songName": "Energy`82",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Beatiful%20Ballet%20-%20Energy%6082.mp3"
   },
   {
     "id": "34",
-    "title": "Hips Don't Lie",
-    "artist": "Shakira",
-    "album": "Oral Fixation, Vol. 2",
-    "genre": "Latin",
-    "duration": "3:38",
-    "restricted": "None",
-    "releaseDate": "2006-02-28"
+    "artistansongmname": "Bee Gees - Staying Alive`77",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "77",
+    "year": "77",
+    "artistName": "Bee Gees",
+    "songName": "Staying Alive`77",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Bee%20Gees%20-%20Staying%20Alive%6077.mp3"
   },
   {
     "id": "35",
-    "title": "Gold Digger",
-    "artist": "Kanye West",
-    "album": "Late Registration",
-    "genre": "Hip Hop",
-    "duration": "3:28",
-    "restricted": "None",
-    "releaseDate": "2005-07-05"
+    "artistansongmname": "Bee Gees - You Should Be Dancing`76",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "76",
+    "year": "76",
+    "artistName": "Bee Gees",
+    "songName": "You Should Be Dancing`76",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Bee%20Gees%20-%20You%20Should%20Be%20Dancing%6076.mp3"
   },
   {
     "id": "36",
-    "title": "Blowin' in the Wind",
-    "artist": "Bob Dylan",
-    "album": "The Freewheelin' Bob Dylan",
-    "genre": "Folk",
-    "duration": "2:48",
-    "restricted": "None",
-    "releaseDate": "1962-05-09"
+    "artistansongmname": "Belinda Carlisle - Circle In The Sand",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "",
+    "year": "",
+    "artistName": "Belinda Carlisle",
+    "songName": "Circle In The Sand",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Belinda%20Carlisle%20-%20Circle%20In%20The%20Sand.mp3"
   },
   {
     "id": "37",
-    "title": "Molitva",
-    "artist": "Marija Serifovic",
-    "album": "Molitva",
-    "genre": "Pop",
-    "duration": "3:03",
-    "restricted": "None",
-    "releaseDate": "2007-05-12"
+    "artistansongmname": "Belinda Carlisle - Heaven Is A Place On Earth`87",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "87",
+    "year": "87",
+    "artistName": "Belinda Carlisle",
+    "songName": "Heaven Is A Place On Earth`87",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Belinda%20Carlisle%20-%20Heaven%20Is%20A%20Place%20On%20Earth%6087.mp3"
   },
   {
     "id": "38",
-    "title": "Fairytale",
-    "artist": "Alexander Rybak",
-    "album": "Fairytale",
-    "genre": "Pop",
-    "duration": "3:04",
-    "restricted": "None",
-    "releaseDate": "2009-05-16"
+    "artistansongmname": "Belinda Carlisle - La Luna`89",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "89",
+    "year": "89",
+    "artistName": "Belinda Carlisle",
+    "songName": "La Luna`89",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Belinda%20Carlisle%20-%20La%20Luna%6089.mp3"
   },
   {
     "id": "39",
-    "title": "Satellite",
-    "artist": "Lena",
-    "album": "Satellite",
-    "genre": "Pop",
-    "duration": "2:54",
-    "restricted": "None",
-    "releaseDate": "2010-05-29"
+    "artistansongmname": "Belinda Carlisle - Leave A Light On",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "",
+    "year": "",
+    "artistName": "Belinda Carlisle",
+    "songName": "Leave A Light On",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Belinda%20Carlisle%20-%20Leave%20A%20Light%20On.mp3"
   },
   {
     "id": "40",
-    "title": "Running Scared",
-    "artist": "Ell & Nikki",
-    "album": "Running Scared",
-    "genre": "Pop",
-    "duration": "3:00",
-    "restricted": "None",
-    "releaseDate": "2011-05-14"
+    "artistansongmname": "Belois Some - Imagination`85",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "85",
+    "year": "85",
+    "artistName": "Belois Some",
+    "songName": "Imagination`85",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Belois%20Some%20-%20Imagination%6085.mp3"
   },
   {
     "id": "41",
-    "title": "Euphoria",
-    "artist": "Loreen",
-    "album": "Euphoria",
-    "genre": "Pop",
-    "duration": "3:01",
-    "restricted": "None",
-    "releaseDate": "2012-05-26"
+    "artistansongmname": "Ben E King - Stand By Me`87",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "87",
+    "year": "87",
+    "artistName": "Ben E King",
+    "songName": "Stand By Me`87",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Ben%20E%20King%20-%20Stand%20By%20Me%6087.mp3"
   },
   {
     "id": "42",
-    "title": "Only Teardrops",
-    "artist": "Emmelie de Forest",
-    "album": "Only Teardrops",
-    "genre": "Pop",
-    "duration": "3:03",
-    "restricted": "Pop",
-    "releaseDate": "2013-05-18"
+    "artistansongmname": "Betty Wright - Clean Up Woman`71",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "71",
+    "year": "71",
+    "artistName": "Betty Wright",
+    "songName": "Clean Up Woman`71",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Betty%20Wright%20-%20Clean%20Up%20Woman%6071.mp3"
   },
   {
     "id": "43",
-    "title": "Heroes",
-    "artist": "Måns Zelmerlöw",
-    "album": "Heroes",
-    "genre": "Swedish",
-    "duration": "3:11",
-    "restricted": "Pop",
-    "releaseDate": "2015-05-23"
+    "artistansongmname": "Bill Medley & Jennifer Warnes - ( I've Had ) The Time Of My Life`87",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "87",
+    "year": "87",
+    "artistName": "Bill Medley & Jennifer Warnes",
+    "songName": "( I've Had ) The Time Of My Life`87",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Bill%20Medley%20&%20Jennifer%20Warnes%20-%20(%20I've%20Had%20)%20The%20Time%20Of%20My%20Life%6087.mp3"
   },
   {
     "id": "44",
-    "title": "Molitva za Magdalenu",
-    "artist": "Oliver Dragojević",
-    "album": "Molitva za Magdalenu",
-    "genre": "Croatian",
-    "duration": "4:20",
-    "restricted": "Pop",
-    "releaseDate": "1997-01-01"
-  },
-  {
-    "id": "45",
-    "title": "Pismo moja",
-    "artist": "Hari Mata Hari",
-    "album": "Ja nemam nikoga",
-    "genre": "Bosnian",
-    "duration": "4:00",
-    "restricted": "Folk",
-    "releaseDate": "1985-01-01"
-  },
-  {
-    "id": "46",
-    "title": "Lane moje",
-    "artist": "Željko Joksimović",
-    "album": "Lane moje",
-    "genre": "Serbian",
-    "duration": "3:02",
-    "restricted": "Folk",
-    "releaseDate": "2004-05-15"
+    "artistansongmname": "Bill Withers - Ain`t No Sunshine`71",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "",
+    "year": "",
+    "artistName": "Bill Withers",
+    "songName": "Ain`t No Sunshine`71",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Bill%20Withers%20-%20Ain%60t%20No%20Sunshine%6071.mp3"
   },
   {
     "id": "47",
-    "title": "Lejla",
-    "artist": "Hari Mata Hari",
-    "album": "Lejla",
-    "genre": "Bosnian",
-    "duration": "3:03",
-    "restricted": "Folk",
-    "releaseDate": "2006-05-20"
+    "artistansongmname": "Billy Ocean - Are You Ready`80",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "80",
+    "year": "80",
+    "artistName": "Billy Ocean",
+    "songName": "Are You Ready`80",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Billy%20Ocean%20-%20Are%20You%20Ready%6080.mp3"
+  },
+  {
+    "id": "45",
+    "artistansongmname": "Bill Withers - Just The Two Of Us`81",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "81",
+    "year": "81",
+    "artistName": "Bill Withers",
+    "songName": "Just The Two Of Us`81",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Bill%20Withers%20-%20Just%20The%20Two%20Of%20Us%6081.mp3"
+  },
+  {
+    "id": "46",
+    "artistansongmname": "Bill Withers - Lovely Day",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "",
+    "year": "",
+    "artistName": "Bill Withers",
+    "songName": "Lovely Day",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Bill%20Withers%20-%20Lovely%20Day.mp3"
   },
   {
     "id": "48",
-    "title": "Nije ljubav stvar",
-    "artist": "Željko Joksimović",
-    "album": "Nije ljubav stvar",
-    "genre": "Pop",
-    "duration": "3:03",
-    "restricted": "None",
-    "releaseDate": "2012-05-26"
-  },
-  {
-    "id": "49",
-    "title": "Master Of Puppets",
-    "artist": "Metallica",
-    "album": "Master Of Puppets",
-    "genre": "Metal",
-    "duration": "8:36",
-    "restricted": "None",
-    "releaseDate": "1986-03-03"
-  },
-  {
-    "id": "50",
-    "title": "Super Freak",
-    "artist": "Rick James",
-    "album": "Street Songs",
-    "genre": "Funk",
-    "duration": "3:25",
-    "restricted": "None",
-    "releaseDate": "1981-07-10"
+    "artistansongmname": "Billy Ocean - Carribean Queen`84",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "84",
+    "year": "84",
+    "artistName": "Billy Ocean",
+    "songName": "Carribean Queen`84",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Billy%20Ocean%20-%20Carribean%20Queen%6084.mp3"
   },
   {
     "id": "51",
-    "title": "I Want You Back",
-    "artist": "The Jackson 5",
-    "album": "Diana Ross Presents The Jackson 5",
-    "genre": "Pop",
-    "duration": "3:00",
-    "restricted": "None",
-    "releaseDate": "1969-10-07"
+    "artistansongmname": "Black Box - Ride On Time '90",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "",
+    "year": "",
+    "artistName": "Black Box",
+    "songName": "Ride On Time '90",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Black%20Box%20-%20Ride%20On%20Time%20'90.mp3"
+  },
+  {
+    "id": "50",
+    "artistansongmname": "Black - Wonderful Life`87",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "87",
+    "year": "87",
+    "artistName": "Black",
+    "songName": "Wonderful Life`87",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Black%20-%20Wonderful%20Life%6087.mp3"
+  },
+  {
+    "id": "49",
+    "artistansongmname": "Billy Ocean - Stay The Night`81",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "81",
+    "year": "81",
+    "artistName": "Billy Ocean",
+    "songName": "Stay The Night`81",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Billy%20Ocean%20-%20Stay%20The%20Night%6081.mp3"
   },
   {
     "id": "52",
-    "title": "I Will Survive",
-    "artist": "Gloria Gaynor",
-    "album": "Love Tracks",
-    "genre": "Disco",
-    "duration": "3:18",
-    "restricted": "None",
-    "releaseDate": "1978-10-23"
+    "artistansongmname": "Black Machine - How Gee`92",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "92",
+    "year": "92",
+    "artistName": "Black Machine",
+    "songName": "How Gee`92",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Black%20Machine%20-%20How%20Gee%6092.mp3"
   },
   {
     "id": "53",
-    "title": "Billie Jean",
-    "artist": "Michael Jackson",
-    "album": "Thriller",
-    "genre": "Pop",
-    "duration": "4:54",
-    "restricted": "None",
-    "releaseDate": "1983-01-02"
+    "artistansongmname": "Blair - Have Fun Go Mad`95",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "95",
+    "year": "95",
+    "artistName": "Blair",
+    "songName": "Have Fun Go Mad`95",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Blair%20-%20Have%20Fun%20Go%20Mad%6095.mp3"
   },
   {
     "id": "54",
-    "title": "I'm Coming Out",
-    "artist": "Diana Ross",
-    "album": "Diana",
-    "genre": "Disco",
-    "duration": "5:22",
-    "restricted": "None",
-    "releaseDate": "1980-05-22"
+    "artistansongmname": "Blondie - Call Me`80",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "80",
+    "year": "80",
+    "artistName": "Blondie",
+    "songName": "Call Me`80",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Blondie%20-%20Call%20Me%6080.mp3"
   },
   {
     "id": "55",
-    "title": "I Feel Love",
-    "artist": "Donna Summer",
-    "album": "I Remember Yesterday",
-    "genre": "Disco",
-    "duration": "5:53",
-    "restricted": "None",
-    "releaseDate": "1977-05-13"
+    "artistansongmname": "Blondie - The Tide Is High`80",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "80",
+    "year": "80",
+    "artistName": "Blondie",
+    "songName": "The Tide Is High`80",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Blondie%20-%20The%20Tide%20Is%20High%6080.mp3"
   },
   {
     "id": "56",
-    "title": "Le Freak",
-    "artist": "Chic",
-    "album": "C'est Chic",
-    "genre": "Disco",
-    "duration": "5:23",
-    "restricted": "None",
-    "releaseDate": "1978-09-21"
+    "artistansongmname": "Blues Brothers - Everybody Needs Somebody`88",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "88",
+    "year": "88",
+    "artistName": "Blues Brothers",
+    "songName": "Everybody Needs Somebody`88",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Blues%20Brothers%20-%20Everybody%20Needs%20Somebody%6088.mp3"
   },
   {
     "id": "57",
-    "title": "Stayin' Alive",
-    "artist": "Bee Gees",
-    "album": "Saturday Night Fever",
-    "genre": "Disco",
-    "duration": "4:45",
-    "restricted": "None",
-    "releaseDate": "1977-12-12"
+    "artistansongmname": "Blues Brothers - Sweet Home Chicago`80",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "80",
+    "year": "80",
+    "artistName": "Blues Brothers",
+    "songName": "Sweet Home Chicago`80",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Blues%20Brothers%20-%20Sweet%20Home%20Chicago%6080.mp3"
   },
   {
     "id": "58",
-    "title": "Take Five",
-    "artist": "Dave Brubeck",
-    "album": "Time Out",
-    "genre": "Jazz",
-    "duration": "5:24",
-    "restricted": "None",
-    "releaseDate": "1959-09-14"
+    "artistansongmname": "Bob Marley - Could You Be Loved`80",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "80",
+    "year": "80",
+    "artistName": "Bob Marley",
+    "songName": "Could You Be Loved`80",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Bob%20Marley%20-%20Could%20You%20Be%20Loved%6080.mp3"
   },
   {
     "id": "59",
-    "title": "So What",
-    "artist": "Miles Davis",
-    "album": "Kind of Blue",
-    "genre": "Jazz",
-    "duration": "9:22",
-    "restricted": "None",
-    "releaseDate": "1959-08-17"
+    "artistansongmname": "Bob Marley - I Shot The Sheriff`73",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "73",
+    "year": "73",
+    "artistName": "Bob Marley",
+    "songName": "I Shot The Sheriff`73",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Bob%20Marley%20-%20I%20Shot%20The%20Sheriff%6073.mp3"
   },
   {
     "id": "60",
-    "title": "Take the 'A' Train",
-    "artist": "Duke Ellington",
-    "album": "Never No Lament: The Blanton-Webster Band",
-    "genre": "Jazz",
-    "duration": "2:54",
-    "restricted": "None",
-    "releaseDate": "1941-01-01"
+    "artistansongmname": "Bob Marley - Is This Love`78",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "78",
+    "year": "78",
+    "artistName": "Bob Marley",
+    "songName": "Is This Love`78",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Bob%20Marley%20-%20Is%20This%20Love%6078.mp3"
   },
   {
     "id": "61",
-    "title": "Sing, Sing, Sing",
-    "artist": "Benny Goodman",
-    "album": "The Benny Goodman Story",
-    "genre": "Jazz",
-    "duration": "8:43",
-    "restricted": "None",
-    "releaseDate": "1936-01-01"
+    "artistansongmname": "Bob Marley - Jamming`77",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "77",
+    "year": "77",
+    "artistName": "Bob Marley",
+    "songName": "Jamming`77",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Bob%20Marley%20-%20Jamming%6077.mp3"
   },
   {
     "id": "62",
-    "title": "A Night in Tunisia",
-    "artist": "Dizzy Gillespie",
-    "album": "A Night in Tunisia",
-    "genre": "Jazz",
-    "duration": "3:06",
-    "restricted": "None",
-    "releaseDate": "1946-01-01"
+    "artistansongmname": "Bob Marley - No Woman No Cry`74",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "74",
+    "year": "74",
+    "artistName": "Bob Marley",
+    "songName": "No Woman No Cry`74",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Bob%20Marley%20-%20No%20Woman%20No%20Cry%6074.mp3"
   },
   {
     "id": "63",
-    "title": "Take Five",
-    "artist": "Dave Brubeck",
-    "album": "Time Out",
-    "genre": "Jazz",
-    "duration": "5:24",
-    "restricted": "None",
-    "releaseDate": "1959-09-14"
+    "artistansongmname": "Bob Marley - One Love People Get Ready`77",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "77",
+    "year": "77",
+    "artistName": "Bob Marley",
+    "songName": "One Love People Get Ready`77",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Bob%20Marley%20-%20One%20Love%20People%20Get%20Ready%6077.mp3"
   },
   {
     "id": "64",
-    "title": "So What",
-    "artist": "Miles Davis",
-    "album": "Kind of Blue",
-    "genre": "Jazz",
-    "duration": "9:22",
-    "restricted": "None",
-    "releaseDate": "1959-08-17"
+    "artistansongmname": "Bobby Mc Ferrin - Don't Worry, Be Happy`88",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "88",
+    "year": "88",
+    "artistName": "Bobby Mc Ferrin",
+    "songName": "Don't Worry, Be Happy`88",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Bobby%20Mc%20Ferrin%20-%20Don't%20Worry,%20Be%20Happy%6088.mp3"
+  },
+  {
+    "id": "65",
+    "artistansongmname": "Boney M - Gotta Go Home",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "",
+    "year": "",
+    "artistName": "Boney M",
+    "songName": "Gotta Go Home",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Boney%20M%20-%20Gotta%20Go%20Home.mp3"
+  },
+  {
+    "id": "66",
+    "artistansongmname": "Bonnie Tyler - Holding Out For A Hero`84",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "84",
+    "year": "84",
+    "artistName": "Bonnie Tyler",
+    "songName": "Holding Out For A Hero`84",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Bonnie%20Tyler%20-%20Holding%20Out%20For%20A%20Hero%6084.mp3"
+  },
+  {
+    "id": "67",
+    "artistansongmname": "Boston - More Than A Feeling`76",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "76",
+    "year": "76",
+    "artistName": "Boston",
+    "songName": "More Than A Feeling`76",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Boston%20-%20More%20Than%20A%20Feeling%6076.mp3"
+  },
+  {
+    "id": "68",
+    "artistansongmname": "Boys Town Gang - Can't Take My Eyes Of You`82",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "82",
+    "year": "82",
+    "artistName": "Boys Town Gang",
+    "songName": "Can't Take My Eyes Of You`82",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Boys%20Town%20Gang%20-%20Can't%20Take%20My%20Eyes%20Of%20You%6082.mp3"
+  },
+  {
+    "id": "69",
+    "artistansongmname": "Bryan Adams - Summer Of ' 69",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "",
+    "year": "",
+    "artistName": "Bryan Adams",
+    "songName": "Summer Of ' 69",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Bryan%20Adams%20-%20Summer%20Of%20'%2069.mp3"
+  },
+  {
+    "id": "70",
+    "artistansongmname": "Bryan Ferry - More Than This",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "",
+    "year": "",
+    "artistName": "Bryan Ferry",
+    "songName": "More Than This",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Bryan%20Ferry%20-%20More%20Than%20This.mp3"
+  },
+  {
+    "id": "71",
+    "artistansongmname": "C&C Music Factory - Gonna Make You Sweat",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "",
+    "year": "",
+    "artistName": "C&C Music Factory",
+    "songName": "Gonna Make You Sweat",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/C&C%20Music%20Factory%20-%20Gonna%20Make%20You%20Sweat.mp3"
+  },
+  {
+    "id": "72",
+    "artistansongmname": "Cake - Never Never Gonna Give You Up`87",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "87",
+    "year": "87",
+    "artistName": "Cake",
+    "songName": "Never Never Gonna Give You Up`87",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Cake%20-%20Never%20Never%20Gonna%20Give%20You%20Up%6087.mp3"
+  },
+  {
+    "id": "73",
+    "artistansongmname": "Candy Dulfer & David Stewart - Lili Was Here`89",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "89",
+    "year": "89",
+    "artistName": "Candy Dulfer & David Stewart",
+    "songName": "Lili Was Here`89",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Candy%20Dulfer%20&%20David%20Stewart%20-%20Lili%20Was%20Here%6089.mp3"
+  },
+  {
+    "id": "74",
+    "artistansongmname": "Candy Dulfer - Sax A Go Go`93",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "93",
+    "year": "93",
+    "artistName": "Candy Dulfer",
+    "songName": "Sax A Go Go`93",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Candy%20Dulfer%20-%20Sax%20A%20Go%20Go%6093.mp3"
+  },
+  {
+    "id": "75",
+    "artistansongmname": "Carlene Davis - Dial My Number`92",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "92",
+    "year": "92",
+    "artistName": "Carlene Davis",
+    "songName": "Dial My Number`92",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Carlene%20Davis%20-%20Dial%20My%20Number%6092.mp3"
+  },
+  {
+    "id": "76",
+    "artistansongmname": "Ce Ce Peniston - Finally`91",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "91",
+    "year": "91",
+    "artistName": "Ce Ce Peniston",
+    "songName": "Finally`91",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Ce%20Ce%20Peniston%20-%20Finally%6091.mp3"
+  },
+  {
+    "id": "77",
+    "artistansongmname": "Chaka Khan - Ain`t Nobody`84",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "",
+    "year": "",
+    "artistName": "Chaka Khan",
+    "songName": "Ain`t Nobody`84",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Chaka%20Khan%20-%20Ain%60t%20Nobody%6084.mp3"
+  },
+  {
+    "id": "78",
+    "artistansongmname": "Charles & Eddie - Would I Lie To You`92",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "92",
+    "year": "92",
+    "artistName": "Charles & Eddie",
+    "songName": "Would I Lie To You`92",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Charles%20&%20Eddie%20-%20Would%20I%20Lie%20To%20You%6092.mp3"
+  },
+  {
+    "id": "79",
+    "artistansongmname": "Cher - Believe`98",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "98",
+    "year": "98",
+    "artistName": "Cher",
+    "songName": "Believe`98",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Cher%20-%20Believe%6098.mp3"
+  },
+  {
+    "id": "80",
+    "artistansongmname": "Cher - Dov El Amore`98",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "98",
+    "year": "98",
+    "artistName": "Cher",
+    "songName": "Dov El Amore`98",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Cher%20-%20Dov%20El%20Amore%6098.mp3"
+  },
+  {
+    "id": "81",
+    "artistansongmname": "Cher - Strong Enough`98",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "98",
+    "year": "98",
+    "artistName": "Cher",
+    "songName": "Strong Enough`98",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Cher%20-%20Strong%20Enough%6098.mp3"
+  },
+  {
+    "id": "82",
+    "artistansongmname": "Cher - The Shoop Shoop Song`64",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "64",
+    "year": "64",
+    "artistName": "Cher",
+    "songName": "The Shoop Shoop Song`64",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Cher%20-%20The%20Shoop%20Shoop%20Song%6064.mp3"
+  },
+  {
+    "id": "83",
+    "artistansongmname": "Chic - Good Times`79",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "79",
+    "year": "79",
+    "artistName": "Chic",
+    "songName": "Good Times`79",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Chic%20-%20Good%20Times%6079.mp3"
+  },
+  {
+    "id": "84",
+    "artistansongmname": "Chic - Le Freak`78",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "78",
+    "year": "78",
+    "artistName": "Chic",
+    "songName": "Le Freak`78",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Chic%20-%20Le%20Freak%6078.mp3"
+  },
+  {
+    "id": "85",
+    "artistansongmname": "Chris De Burgh - A Woman`s Heart`99",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "",
+    "year": "",
+    "artistName": "Chris De Burgh",
+    "songName": "A Woman`s Heart`99",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Chris%20De%20Burgh%20-%20A%20Woman%60s%20Heart%6099.mp3"
+  },
+  {
+    "id": "86",
+    "artistansongmname": "Chris De Burgh - High On Emotions`84",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "84",
+    "year": "84",
+    "artistName": "Chris De Burgh",
+    "songName": "High On Emotions`84",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Chris%20De%20Burgh%20-%20High%20On%20Emotions%6084.mp3"
+  },
+  {
+    "id": "87",
+    "artistansongmname": "Chuck Berry - Johnny B Good`58",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "58",
+    "year": "58",
+    "artistName": "Chuck Berry",
+    "songName": "Johnny B Good`58",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Chuck%20Berry%20-%20Johnny%20B%20Good%6058.mp3"
+  },
+  {
+    "id": "88",
+    "artistansongmname": "Corona - I Don`t Wanna Be A Star ( Rmx )",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "",
+    "year": "",
+    "artistName": "Corona",
+    "songName": "I Don`t Wanna Be A Star ( Rmx )",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Corona%20-%20I%20Don%60t%20Wanna%20Be%20A%20Star%20(%20Rmx%20).mp3"
+  },
+  {
+    "id": "89",
+    "artistansongmname": "Corona - The Rhythm Of The Night`98",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "98",
+    "year": "98",
+    "artistName": "Corona",
+    "songName": "The Rhythm Of The Night`98",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Corona%20-%20The%20Rhythm%20Of%20The%20Night%6098.mp3"
+  },
+  {
+    "id": "90",
+    "artistansongmname": "Dee Lite - Groove Is In The Heart '98",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "",
+    "year": "",
+    "artistName": "Dee Lite",
+    "songName": "Groove Is In The Heart '98",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Dee%20Lite%20-%20Groove%20Is%20In%20The%20Heart%20'98.mp3"
+  },
+  {
+    "id": "91",
+    "artistansongmname": "Deep Purple - Smoke On The Water`98",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "98",
+    "year": "98",
+    "artistName": "Deep Purple",
+    "songName": "Smoke On The Water`98",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Deep%20Purple%20-%20Smoke%20On%20The%20Water%6098.mp3"
+  },
+  {
+    "id": "92",
+    "artistansongmname": "Folder.jpg",
+    "songfrom": {
+      "filebroadcast": "radio",
+      "radioName": "Super Radio 97 FM",
+      "personFromFile": "DJ Regie Rules"
+    },
+    "genre": "",
+    "year": "",
+    "artistName": "Folder.jpg",
+    "songName": "Folder.jpg",
+    "restricted": false,
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/radio/Retro%20Dance/Folder.jpg"
   }
 ]
