@@ -50,8 +50,8 @@ function renderTableData(songs) {
 		const genreCell = document.createElement('td');
 		genreCell.innerText = song.genre;
 
-		const releaseCell = document.createElement('td');
-		releaseCell.innerText = song.year;
+		const fromdjCell = document.createElement('td');
+		fromdjCell.innerText = song.songfrom.personFromFile;
 		
 		const actionsCell = document.createElement('td');
 		actionsCell.innerHTML = isPlaylist ?
@@ -64,7 +64,7 @@ function renderTableData(songs) {
 		// 	actionsCell.innerHTML = `<button id="add-btn-${song.id}" class="btn btn-primary">Add to playlist</button>`
 		// }
 
-		row.append(idCell, titleCell, artistCell, genreCell, playCell, actionsCell);
+		row.append(idCell, titleCell, artistCell, genreCell, fromdjCell, playCell, actionsCell);
 		tableBody.append(row);
 
 		const isSongInPlaylist = playlist.find((playlistSong) => playlistSong.id === song.id);
