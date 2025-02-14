@@ -42,7 +42,7 @@ function renderTableData(songs) {
 		titleCell.innerHTML = `<div title="Play song '${song.songName}'"><a style="text-decoration: none; color:inherit;" "target="_blank";" href="javascript:playSong('${song.songurl}','${song.id}');">${song.songName}</a></div>`
 
 		const artistCell = document.createElement('td');
-		artistCell.innerHTML = `<div title="View Artist ${song.artistName} on Google"><a href="https://www.google.com/search?q=${song.artistName}" style="text-decoration: none; color:inherit;";">${song.artistName}</a></div>`;
+		artistCell.innerHTML = `<div title="View Artist ${song.artistName} on Google"><a href="https://www.google.com/search?q=${song.artistName}" style="text-decoration: none; color:inherit;";">${song.artistName}</a>`;
 
 		const playCell = document.createElement('td');
 		playCell.innerHTML = `<div title="Play song '${song.songName}'"><a id="play-btn-${song.id}" style="text-decoration: none;" href="javascript:playSong('${song.songurl}','${song.id}');">Play</a></div>`;
@@ -50,9 +50,18 @@ function renderTableData(songs) {
 		const genreCell = document.createElement('td');
 		genreCell.innerText = song.genre;
 
-		const fromdjCell = document.createElement('td');
-		fromdjCell.innerText = song.songfrom.personFromFile;
-		
+		const releaseCell = document.createElement('td');
+		releaseCell.innerText = song.year;
+
+		const bandCell = document.createElement('td');
+		bandCell.innerHTML = `<div title="${song.bandinfo.singer1.description } and ${song.bandinfo.singer2.description}"><a href="https://www.google.com/search?q=${song.bandinfo.singer1.fulName} and ${song.bandinfo.singer2.fulName}" style="text-decoration: none; color:inherit;";">${song.bandinfo.NamesOfSingers}</a></div>`
+  
+        const wasonIDJShowCell = document.createElement('td');
+		wasonIDJShowCell.innerHTML = `<a href="https://www.google.com/search?q=${song.bandinfo.singer1.fulName} on IDJ Show" style="text-decoration: none; color:inherit;";">${song.bandinfo.singer1.wasOnIDJShow}</a>`
+
+		const djcell = document.createElement('td');
+		djcell.innerHTML = `<a href="https://www.google.com/search?q=${song.bandinfo.existentDJinBand}" style="text-decoration: none; color:inherit;";">${song.bandinfo.existentDJinBand}</a>`
+
 		const actionsCell = document.createElement('td');
 		actionsCell.innerHTML = isPlaylist ?
 			`<div title="Remove song '${song.songName}' from playlist"><button id="remove-btn-${song.id}" class="btn btn-danger">Remove from playlist</button></div>` :
@@ -64,7 +73,7 @@ function renderTableData(songs) {
 		// 	actionsCell.innerHTML = `<button id="add-btn-${song.id}" class="btn btn-primary">Add to playlist</button>`
 		// }
 
-		row.append(idCell, titleCell, artistCell, genreCell, fromdjCell, playCell, actionsCell);
+		row.append(idCell, titleCell, artistCell, genreCell, bandCell, wasonIDJShowCell, djcell, playCell, actionsCell);
 		tableBody.append(row);
 
 		const isSongInPlaylist = playlist.find((playlistSong) => playlistSong.id === song.id);
@@ -120,7 +129,8 @@ function filterSongs() {
 	if (searchValue) {
 		filteredSongs = filteredSongs.filter((song) => {
 			return song.songName.toLowerCase().includes(searchValue) ||
-				song.artistName.toLowerCase().includes(searchValue)
+				song.artistName.toLowerCase().includes(searchValue) ||
+				song.bandinfo.NamesOfSingers.toLowerCase().includes(searchValue)
 		});
 	}
 
@@ -138,7 +148,7 @@ function filterSongs() {
 	const isRestrictedChecked = restricted.checked;
 	filteredSongs = filteredSongs.filter((song) => {
 		if (!isRestrictedChecked) {
-			return song.restricted === 'None'
+			return song.genre === 'None'
 		}
 
 		return true;
