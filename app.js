@@ -39,13 +39,13 @@ function renderTableData(songs) {
 		idCell.innerText = song.id;
 
 		const titleCell = document.createElement('td');
-		titleCell.innerHTML = `<a style="text-decoration: none; color:inherit;" "target="_blank";" href="javascript:playSong('${song.songurl}','${song.id}');">${song.songName}</a>`
+		titleCell.innerHTML = `<div title="Play song '${song.songName}'"><a style="text-decoration: none; color:inherit;" "target="_blank";" href="javascript:playSong('${song.songurl}','${song.id}');">${song.songName}</a></div>`
 
 		const artistCell = document.createElement('td');
-		artistCell.innerHTML = `<a href="https://www.google.com/search?q=${song.artistName}" style="text-decoration: none; color:inherit;";">${song.artistName}</a>`;
+		artistCell.innerHTML = `<div title="View Artist ${song.artistName} on Google"><a href="https://www.google.com/search?q=${song.artistName}" style="text-decoration: none; color:inherit;";">${song.artistName}</a>`;
 
 		const playCell = document.createElement('td');
-		playCell.innerHTML = `<a id="play-btn-${song.id}" style="text-decoration: none;" href="javascript:playSong('${song.songurl}','${song.id}');">Play</a>`;
+		playCell.innerHTML = `<div title="Play song '${song.songName}'"><a id="play-btn-${song.id}" style="text-decoration: none;" href="javascript:playSong('${song.songurl}','${song.id}');">Play</a></div>`;
 
 		const genreCell = document.createElement('td');
 		genreCell.innerText = song.genre;
@@ -64,8 +64,8 @@ function renderTableData(songs) {
 
 		const actionsCell = document.createElement('td');
 		actionsCell.innerHTML = isPlaylist ?
-			`<button id="remove-btn-${song.id}" class="btn btn-danger">Remove from playlist</button>` :
-			`<button id="add-btn-${song.id}" class="btn btn-primary">Add to playlist</button>`;
+			`<div title="Remove song '${song.songName}' from playlist"><button id="remove-btn-${song.id}" class="btn btn-danger">Remove from playlist</button></div>` :
+			`<div title="Add song '${song.songName}' to playlist"><button id="add-btn-${song.id}" class="btn btn-primary">Add to playlist</button></div>`;
 
 		// if (isPlaylist) {
 		// 	actionsCell.innerHTML = `<button id="remove-btn-${song.id}" class="btn btn-danger">Remove from playlist</button>`
