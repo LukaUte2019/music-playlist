@@ -180,36 +180,6 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/m4a/2Bona%20-%20Candy.m4a"
   },
   {
-    "id": 7,
-    "artistansongmname": "2Pac - Picture Me Rollin' (ft. Danny Boy, CPO, Big Syke)",
-    "genre": "Any",
-    "bandinfo": {
-      "existentDJinBand": "None",
-      "singer1": {
-        "fulName": "",
-        "born": "",
-        "description": "",
-        "wasOnIDJShow": false
-      },
-      "singer2": {
-        "fulName": "",
-        "born": "",
-        "description": "",
-        "wasOnIDJShow": false
-      },
-      "person3": {
-        "fulName": "",
-        "born": "",
-        "description": "",
-        "wasOnIDJShow": false
-      },
-      "NamesOfSingers": ""
-    },
-    "artistName": "2Pac",
-    "songName": "Picture Me Rollin' (ft. Danny Boy, CPO, Big Syke)",
-    "songurl": "http://lukaserver.ddns.net/youtubeclone/m4a/2Pac%20-%20Picture%20Me%20Rollin'%20(ft.%20Danny%20Boy,%20CPO,%20Big%20Syke).m4a"
-  },
-  {
     "id": 8,
     "artistansongmname": "2bona, Krisko - Gorilla (Contains Lyrics)",
     "genre": "Any",
@@ -238,6 +208,36 @@
     "artistName": "2bona, Krisko",
     "songName": "Gorilla (Contains Lyrics)",
     "songurl": "http://lukaserver.ddns.net/youtubeclone/m4a/2bona,%20Krisko%20-%20Gorilla%20(Contains%20Lyrics).m4a"
+  },
+  {
+    "id": 7,
+    "artistansongmname": "2Pac - Picture Me Rollin' (ft. Danny Boy, CPO, Big Syke)",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "2Pac",
+    "songName": "Picture Me Rollin' (ft. Danny Boy, CPO, Big Syke)",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/m4a/2Pac%20-%20Picture%20Me%20Rollin'%20(ft.%20Danny%20Boy,%20CPO,%20Big%20Syke).m4a"
   },
   {
     "id": 9,
@@ -1232,7 +1232,7 @@
   {
     "id": 42,
     "artistansongmname": "Coby - Divljam (feat. Buba Corelli, Jala Brat)",
-    "genre": "Any",
+    "genre": "Serbian",
     "bandinfo": {
       "existentDJinBand": "None",
       "singer1": {
@@ -1262,7 +1262,7 @@
   {
     "id": 43,
     "artistansongmname": "Coby - Leto je",
-    "genre": "Any",
+    "genre": "Serbian",
     "bandinfo": {
       "existentDJinBand": "None",
       "singer1": {
@@ -2520,36 +2520,6 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/m4a/In-Grid%20-%20Le%20Dragueur.m4a"
   },
   {
-    "id": 86,
-    "artistansongmname": "Indravathi Chauhan, Devi Sri Prasad - Oo Antava Oo Oo Antava",
-    "genre": "Any",
-    "bandinfo": {
-      "existentDJinBand": "None",
-      "singer1": {
-        "fulName": "",
-        "born": "",
-        "description": "",
-        "wasOnIDJShow": false
-      },
-      "singer2": {
-        "fulName": "",
-        "born": "",
-        "description": "",
-        "wasOnIDJShow": false
-      },
-      "person3": {
-        "fulName": "",
-        "born": "",
-        "description": "",
-        "wasOnIDJShow": false
-      },
-      "NamesOfSingers": ""
-    },
-    "artistName": "Indravathi Chauhan, Devi Sri Prasad",
-    "songName": "Oo Antava Oo Oo Antava",
-    "songurl": "http://lukaserver.ddns.net/youtubeclone/m4a/Indravathi%20Chauhan,%20Devi%20Sri%20Prasad%20-%20Oo%20Antava%20Oo%20Oo%20Antava.m4a"
-  },
-  {
     "id": 85,
     "artistansongmname": "Indila - Tourner Dans Le Vide",
     "genre": "Any",
@@ -2578,6 +2548,36 @@
     "artistName": "Indila",
     "songName": "Tourner Dans Le Vide",
     "songurl": "http://lukaserver.ddns.net/youtubeclone/m4a/Indila%20-%20Tourner%20Dans%20Le%20Vide.m4a"
+  },
+  {
+    "id": 86,
+    "artistansongmname": "Indravathi Chauhan, Devi Sri Prasad - Oo Antava Oo Oo Antava",
+    "genre": "Any",
+    "bandinfo": {
+      "existentDJinBand": "None",
+      "singer1": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": ""
+    },
+    "artistName": "Indravathi Chauhan, Devi Sri Prasad",
+    "songName": "Oo Antava Oo Oo Antava",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/m4a/Indravathi%20Chauhan,%20Devi%20Sri%20Prasad%20-%20Oo%20Antava%20Oo%20Oo%20Antava.m4a"
   },
   {
     "id": 87,
@@ -2942,7 +2942,7 @@
   {
     "id": 99,
     "artistansongmname": "Krisko, Coby - Nove pare",
-    "genre": "Any",
+    "genre": "Serbian",
     "bandinfo": {
       "existentDJinBand": "None",
       "singer1": {
