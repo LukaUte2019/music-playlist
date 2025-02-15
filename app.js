@@ -33,7 +33,12 @@ function renderTableData(songs) {
 	const slicedSongs = songs.slice(startIndex, endIndex)
 
 	slicedSongs.forEach((song) => {
-		const row = document.createElement('tr');
+
+        const row = document.createElement('tr');
+
+
+		localStorage.setItem(`${song.id}`, `?songname=${song.artistName}%artistname=${song.songName}$url=${song.songurl}`);
+
 
 		const idCell = document.createElement('td');
 		idCell.innerText = song.id;
