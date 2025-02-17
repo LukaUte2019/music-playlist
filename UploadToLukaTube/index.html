@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Add a song to LukaTube Music</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+  
+</head>
+<audio src="" id="playSong"></audio>
+<body>
+    <div class="container">
+        <div class="form-container">
+          <h2>Add a song</h2>
+          <form id="userForm">
+            <input type="hidden" id="id" name="userId">
+            <label for="artistname">Artist Name:</label>
+            <input type="text" id="artistname" name="name" required>
+    
+            <label for="songname">Song name:</label>
+            <input type="text" id="songname" name="song" required>
+    
+            <label for="songgenre">Song genre:</label>
+            <input type="text" id="songgenre" name="song" min="1" required>
+            
+            <label for="songlink">Song Link:</label>
+            <input type="text" id="songlink" name="song" >
+
+
+            <button type="submit">Submit</button>
+          </form>
+          <form method="post" action="upload.php" enctype="multipart/form-data">
+            <input type="file" name="myFile" />
+            <input type="submit" value="Upload Song">
+        </form>
+
+        </div>
+    
+
+        <div class="table-container">
+            <button onclick="populateTableRetroPlay();">RetroPlay</button>
+          <p id="currentsongs">Current songs in API:</p>
+          <table id="userTable" border="1">
+            <thead>
+              <tr>
+                <th>Title</th>
+                <th>Artist</th>
+                <th>Play Song</th>
+                <th>Names of singers</th>
+                <th>Genre</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody>
+              <!-- Data from API will be populated here -->
+            </tbody>
+          </table>
+          <div id="pagination"></div>
+        </div>
+      </div>
+
+     
+    <script src='main.js'></script>
+    <script src="songplayer.js"></script>
+    <script src="darkanlightmodeapi.js"></script>
+</body>
+</html>
