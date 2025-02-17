@@ -9,6 +9,7 @@ document.getElementById("userForm").addEventListener("submit", async function(ev
     const songName = document.getElementById("songname").value;
     const genre = document.getElementById("songgenre").value;
     const songurl = document.getElementById("songlink").value;
+
   
     const user = {
       userId, 
@@ -53,6 +54,7 @@ async function populateTable() {
     try {
    
         const response = await fetch(songsAPIURL);
+        songIdApi.innerText = "Current songs in API: " + songsAPIURL;
  
         const users = await response.json();
 
@@ -92,6 +94,7 @@ async function populateTableRetroPlay() {
     try {
    
         const response = await fetch('http://lukaserver.ddns.net:81/retrodance');
+        songIdApi.innerText = "Current songs in API: " + response.url; ;
  
         const users = await response.json();
 
