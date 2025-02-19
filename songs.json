@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "artistansongmname": "ĐANA - ALARMANTNO.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -30,7 +30,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/%c4%90ANA%20-%20ALARMANTNO%20(OFFICIAL%20VIDEO).mp3"
   },
   {
-    "id": 2,
+    "id": "2",
     "artistansongmname": "Željko Joksimović - Drska ženo plava [Official Music Audio].mp3",
     "genre": "Any",
     "bandinfo": {
@@ -60,7 +60,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/%c5%bdeljko%20Joksimovi%c4%87%20-%20Drska%20%c5%beeno%20plava%20%5bOfficial%20Music%20Audio%5d.mp3"
   },
   {
-    "id": 3,
+    "id": "3",
     "artistansongmname": "АК-47 - Russian Paradise (feat. Ноггано).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -90,7 +90,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/%d0%90%d0%9a-47%20-%20Russian%20Paradise%20(feat.%20%d0%9d%d0%be%d0%b3%d0%b3%d0%b0%d0%bd%d0%be).mp3"
   },
   {
-    "id": 4,
+    "id": "4",
     "artistansongmname": "ЛИТВИНЕНКО - Оп, мусорок.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -120,7 +120,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/%d0%9b%d0%98%d0%a2%d0%92%d0%98%d0%9d%d0%95%d0%9d%d0%9a%d0%9e%20-%20%d0%9e%d0%bf,%20%d0%bc%d1%83%d1%81%d0%be%d1%80%d0%be%d0%ba.mp3"
   },
   {
-    "id": 5,
+    "id": "5",
     "artistansongmname": "Оркестър Камчия - Комбайна вършачка.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -150,7 +150,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/%d0%9e%d1%80%d0%ba%d0%b5%d1%81%d1%82%d1%8a%d1%80%20%d0%9a%d0%b0%d0%bc%d1%87%d0%b8%d1%8f%20-%20%d0%9a%d0%be%d0%bc%d0%b1%d0%b0%d0%b9%d0%bd%d0%b0%20%d0%b2%d1%8a%d1%80%d1%88%d0%b0%d1%87%d0%ba%d0%b0.mp3"
   },
   {
-    "id": 6,
+    "id": "6",
     "artistansongmname": "Оркестър Камчия - Комбайна-вършачка.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -180,7 +180,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/%d0%9e%d1%80%d0%ba%d0%b5%d1%81%d1%82%d1%8a%d1%80%20%d0%9a%d0%b0%d0%bc%d1%87%d0%b8%d1%8f%20-%20%d0%9a%d0%be%d0%bc%d0%b1%d0%b0%d0%b9%d0%bd%d0%b0-%d0%b2%d1%8a%d1%80%d1%88%d0%b0%d1%87%d0%ba%d0%b0.mp3"
   },
   {
-    "id": 7,
+    "id": "7",
     "artistansongmname": "2BONA X GAZDA PAJA - DISKOTEKA.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -210,7 +210,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/2BONA%20X%20GAZDA%20PAJA%20-%20DISKOTEKA%20(OFFICIAL%20VIDEO).mp3"
   },
   {
-    "id": 8,
+    "id": "8",
     "artistansongmname": "2Bona & Antonia Gigovska - Nema Koj.mp3",
     "genre": "Macedonian",
     "bandinfo": {
@@ -240,7 +240,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/2Bona%20&%20Antonia%20Gigovska%20-%20Nema%20Koj%20(Official%20Video).mp3"
   },
   {
-    "id": 9,
+    "id": "9",
     "artistansongmname": "2Bona & Tasko - Moet (Prod.By Ned Callin) OFFICIAL VIDEO.mp3",
     "genre": "Macedonian",
     "bandinfo": {
@@ -270,7 +270,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/2Bona%20&%20Tasko%20-%20Moet%20(Prod.By%20Ned%20Callin)%20OFFICIAL%20VIDEO.mp3"
   },
   {
-    "id": 10,
+    "id": "10",
     "artistansongmname": "2Bona - Bela Nok (Prod.By Iwayo) OFFICIAL VIDEO.mp3",
     "genre": "Macedonian",
     "bandinfo": {
@@ -300,7 +300,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/2Bona%20-%20Bela%20Nok%20(Prod.By%20Iwayo)%20OFFICIAL%20VIDEO.mp3"
   },
   {
-    "id": 11,
+    "id": "11",
     "artistansongmname": "2Bona - Candy.mp3",
     "genre": "Macedonian",
     "bandinfo": {
@@ -330,7 +330,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/2Bona%20-%20Candy.mp3"
   },
   {
-    "id": 12,
+    "id": "12",
     "artistansongmname": "2Pac - In The Air Tonight Ft. Phil Collins - TJLawProductions.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -360,7 +360,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/2Pac%20-%20In%20The%20Air%20Tonight%20Ft.%20Phil%20Collins%20-%20TJLawProductions.mp3"
   },
   {
-    "id": 13,
+    "id": "13",
     "artistansongmname": "2Pac - Picture Me Rollin' (ft. Danny Boy, CPO, Big Syke).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -390,7 +390,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/2Pac%20-%20Picture%20Me%20Rollin'%20(ft.%20Danny%20Boy,%20CPO,%20Big%20Syke).mp3"
   },
   {
-    "id": 14,
+    "id": "14",
     "artistansongmname": "2bona, Krisko - Gorilla (Contains Lyrics).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -420,7 +420,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/2bona,%20Krisko%20-%20Gorilla%20(Contains%20Lyrics).mp3"
   },
   {
-    "id": 15,
+    "id": "15",
     "artistansongmname": "2bona, Krisko - Gorilla.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -450,7 +450,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/2bona,%20Krisko%20-%20Gorilla.mp3"
   },
   {
-    "id": 16,
+    "id": "16",
     "artistansongmname": "2bona - Mon Cheri (Bonbon) (Audio).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -480,7 +480,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/2bona%20-%20Mon%20Cheri%20(Bonbon)%20(Audio).mp3"
   },
   {
-    "id": 17,
+    "id": "17",
     "artistansongmname": "2bona - Not Sorry.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -510,7 +510,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/2bona%20-%20Not%20Sorry.mp3"
   },
   {
-    "id": 18,
+    "id": "18",
     "artistansongmname": "2l - Sreda.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -540,7 +540,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/2l%20-%20Sreda.mp3"
   },
   {
-    "id": 19,
+    "id": "19",
     "artistansongmname": "50 Cent - Just A Lil Bit.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -570,7 +570,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/50%20Cent%20-%20Just%20A%20Lil%20Bit.mp3"
   },
   {
-    "id": 20,
+    "id": "20",
     "artistansongmname": "88rising, NIKI - Indigo.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -600,7 +600,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/88rising,%20NIKI%20-%20Indigo.mp3"
   },
   {
-    "id": 21,
+    "id": "21",
     "artistansongmname": "A$AP Ferg - Plain Jane REMIX (feat. Nicki Minaj).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -630,7 +630,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/A$AP%20Ferg%20-%20Plain%20Jane%20REMIX%20(feat.%20Nicki%20Minaj).mp3"
   },
   {
-    "id": 22,
+    "id": "22",
     "artistansongmname": "A$AP Rocky - Praise The Lord (Da Shine) (feat. Skepta).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -660,7 +660,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/A$AP%20Rocky%20-%20Praise%20The%20Lord%20(Da%20Shine)%20(feat.%20Skepta).mp3"
   },
   {
-    "id": 23,
+    "id": "23",
     "artistansongmname": "ALEKSANDAR & DAC - CRESHI OHRIDSKI (Official video).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -690,7 +690,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/ALEKSANDAR%20&%20DAC%20-%20CRESHI%20OHRIDSKI%20(Official%20video).mp3"
   },
   {
-    "id": 26,
+    "id": "26",
     "artistansongmname": "Aco Pejovic - Soba 501 (Official Video 2024).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -720,7 +720,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Aco%20Pejovic%20-%20Soba%20501%20(Official%20Video%202024).mp3"
   },
   {
-    "id": 24,
+    "id": "24",
     "artistansongmname": "Aca Lukas - KLOVN.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -750,7 +750,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Aca%20Lukas%20-%20KLOVN%20(OFFICIAL%20VIDEO).mp3"
   },
   {
-    "id": 25,
+    "id": "25",
     "artistansongmname": "Aco Pejovic - Oko mene sve - (De Me Skeftesai) - (Audio 2013) HD.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -780,7 +780,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Aco%20Pejovic%20-%20Oko%20mene%20sve%20-%20(De%20Me%20Skeftesai)%20-%20(Audio%202013)%20HD.mp3"
   },
   {
-    "id": 27,
+    "id": "27",
     "artistansongmname": "Aco Pejovic - Sve ti dugujem - (Audio 2013) HD.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -810,7 +810,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Aco%20Pejovic%20-%20Sve%20ti%20dugujem%20-%20(Audio%202013)%20HD.mp3"
   },
   {
-    "id": 28,
+    "id": "28",
     "artistansongmname": "AiSh - Satisfya.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -840,7 +840,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/AiSh%20-%20Satisfya.mp3"
   },
   {
-    "id": 29,
+    "id": "29",
     "artistansongmname": "Alexander Alar, Indie Elephant - Berberia.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -870,7 +870,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Alexander%20Alar,%20Indie%20Elephant%20-%20Berberia.mp3"
   },
   {
-    "id": 30,
+    "id": "30",
     "artistansongmname": "Alexander Alar,Indie Elephant - Berberia.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -900,7 +900,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Alexander%20Alar,Indie%20Elephant%20-%20Berberia.mp3"
   },
   {
-    "id": 31,
+    "id": "31",
     "artistansongmname": "All The Way Up (feat. Infared).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -930,7 +930,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/All%20The%20Way%20Up%20(feat.%20Infared).mp3"
   },
   {
-    "id": 32,
+    "id": "32",
     "artistansongmname": "Alle Farben, Parov Stelar feat. Lena Sue - Drum - Official Visualizer - Alle Farben.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -960,7 +960,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Alle%20Farben,%20Parov%20Stelar%20feat.%20Lena%20Sue%20-%20Drum%20-%20Official%20Visualizer%20-%20Alle%20Farben.mp3"
   },
   {
-    "id": 33,
+    "id": "33",
     "artistansongmname": "Alok & Bhaskar - FUEGO (Original Mix) - Alok.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -990,7 +990,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Alok%20&%20Bhaskar%20-%20FUEGO%20(Original%20Mix)%20-%20Alok.mp3"
   },
   {
-    "id": 36,
+    "id": "36",
     "artistansongmname": "Axel Thesleff - Bad Karma - Trap Nation.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -1020,7 +1020,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Axel%20Thesleff%20-%20Bad%20Karma%20-%20Trap%20Nation.mp3"
   },
   {
-    "id": 34,
+    "id": "34",
     "artistansongmname": "Area - Site Moi Sliki (Regie Rules Rmx).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -1050,7 +1050,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Area%20-%20Site%20Moi%20Sliki%20(Regie%20Rules%20Rmx).mp3"
   },
   {
-    "id": 35,
+    "id": "35",
     "artistansongmname": "Arms Around You (feat. Maluma & Swae Lee).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -1080,7 +1080,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Arms%20Around%20You%20(feat.%20Maluma%20&%20Swae%20Lee).mp3"
   },
   {
-    "id": 37,
+    "id": "37",
     "artistansongmname": "Ayo & Teo - Last Forever.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -1110,7 +1110,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Ayo%20&%20Teo%20-%20Last%20Forever%20(Official%20Music%20Video).mp3"
   },
   {
-    "id": 38,
+    "id": "38",
     "artistansongmname": "Ayo & Teo - Rolex.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -1140,7 +1140,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Ayo%20&%20Teo%20-%20Rolex%20(Official%20Video).mp3"
   },
   {
-    "id": 39,
+    "id": "39",
     "artistansongmname": "BAKA PRASE x VOYAGE - VVS.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -1170,7 +1170,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/BAKA%20PRASE%20x%20VOYAGE%20-%20VVS%20(Official%20Music%20Video).mp3"
   },
   {
-    "id": 40,
+    "id": "40",
     "artistansongmname": "BLW - The Barbershop.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -1200,7 +1200,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/BLW%20-%20The%20Barbershop.mp3"
   },
   {
-    "id": 41,
+    "id": "41",
     "artistansongmname": "Baka Prase - Ona Ona.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -1230,7 +1230,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Baka%20Prase%20-%20Ona%20Ona.mp3"
   },
   {
-    "id": 42,
+    "id": "42",
     "artistansongmname": "Bass Station - 1,2,3 Go.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -1260,7 +1260,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Bass%20Station%20-%201,2,3%20Go.mp3"
   },
   {
-    "id": 43,
+    "id": "43",
     "artistansongmname": "Bastion - Emil Vrati Se (Todoroff Remix).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -1290,7 +1290,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Bastion%20-%20Emil%20Vrati%20Se%20(Todoroff%20Remix).mp3"
   },
   {
-    "id": 44,
+    "id": "44",
     "artistansongmname": "Bis X Blanco X Active X MizOrMac - Kennington Where It Started HarlemSpartans.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -1320,7 +1320,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Bis%20X%20Blanco%20X%20Active%20X%20MizOrMac%20-%20Kennington%20Where%20It%20Started%20HarlemSpartans.mp3"
   },
   {
-    "id": 45,
+    "id": "45",
     "artistansongmname": "Blasphem - Barber Shop.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -1350,7 +1350,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Blasphem%20-%20Barber%20Shop.mp3"
   },
   {
-    "id": 46,
+    "id": "46",
     "artistansongmname": "Bona - Balkan (Prod.By Iwayo).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -1380,7 +1380,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Bona%20-%20Balkan%20(Prod.By%20Iwayo).mp3"
   },
   {
-    "id": 47,
+    "id": "47",
     "artistansongmname": "Bonez Mc, Raf Camora - Taxi (feat. Gzuz)-1.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -1410,7 +1410,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Bonez%20Mc,%20Raf%20Camora%20-%20Taxi%20(feat.%20Gzuz)-1.mp3"
   },
   {
-    "id": 48,
+    "id": "48",
     "artistansongmname": "Brass Brothers - Balkan Mayhem (Official video).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -1440,7 +1440,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Brass%20Brothers%20-%20Balkan%20Mayhem%20(Official%20video).mp3"
   },
   {
-    "id": 49,
+    "id": "49",
     "artistansongmname": "Brass Brothers - The Spark.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -1470,7 +1470,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Brass%20Brothers%20-%20The%20Spark.mp3"
   },
   {
-    "id": 51,
+    "id": "51",
     "artistansongmname": "Butrint Imeri, Kida, Ledri Vula - Dale.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -1500,7 +1500,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Butrint%20Imeri,%20Kida,%20Ledri%20Vula%20-%20Dale.mp3"
   },
   {
-    "id": 52,
+    "id": "52",
     "artistansongmname": "CVIJA - BRZINA.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -1530,7 +1530,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/CVIJA%20-%20BRZINA%20(OFFICIAL%20VIDEO).mp3"
   },
   {
-    "id": 53,
+    "id": "53",
     "artistansongmname": "CVIJA - POZIV.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -1560,7 +1560,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/CVIJA%20-%20POZIV%20(OFFICIAL%20VIDEO).mp3"
   },
   {
-    "id": 50,
+    "id": "50",
     "artistansongmname": "Busta Rhymes, Mariah Carey - I Know What You Want (feat. Flipmode Squad).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -1590,7 +1590,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Busta%20Rhymes,%20Mariah%20Carey%20-%20I%20Know%20What%20You%20Want%20(feat.%20Flipmode%20Squad).mp3"
   },
   {
-    "id": 54,
+    "id": "54",
     "artistansongmname": "CVIJA - ZODIAK.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -1620,7 +1620,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/CVIJA%20-%20ZODIAK%20(OFFICIAL%20VIDEO).mp3"
   },
   {
-    "id": 55,
+    "id": "55",
     "artistansongmname": "CVIJA X THCF - BRAZIL.mp3",
     "genre": "Serbian",
     "bandinfo": {
@@ -1650,7 +1650,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/CVIJA%20X%20THCF%20-%20BRAZIL%20(OFFICIAL%20VIDEO).mp3"
   },
   {
-    "id": 56,
+    "id": "56",
     "artistansongmname": "CYRIL - Stumblin' In (Official Audio) - Spinnin' Records.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -1680,7 +1680,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/CYRIL%20-%20Stumblin'%20In%20(Official%20Audio)%20-%20Spinnin'%20Records.mp3"
   },
   {
-    "id": 57,
+    "id": "57",
     "artistansongmname": "Capital T - 600PS.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -1710,7 +1710,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Capital%20T%20-%20600PS.mp3"
   },
   {
-    "id": 58,
+    "id": "58",
     "artistansongmname": "Cardi B, Bad Bunny, J Balvin - I Like It.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -1740,7 +1740,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Cardi%20B,%20Bad%20Bunny,%20J%20Balvin%20-%20I%20Like%20It.mp3"
   },
   {
-    "id": 59,
+    "id": "59",
     "artistansongmname": "Carly Rae Jepsen - Call Me Maybe.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -1770,7 +1770,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Carly%20Rae%20Jepsen%20-%20Call%20Me%20Maybe.mp3"
   },
   {
-    "id": 60,
+    "id": "60",
     "artistansongmname": "Ceza - Holocaust.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -1800,7 +1800,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Ceza%20-%20Holocaust.mp3"
   },
   {
-    "id": 61,
+    "id": "61",
     "artistansongmname": "Chamillionaire - Ridin (feat. Krayzie Bone).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -1830,7 +1830,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Chamillionaire%20-%20Ridin%20(feat.%20Krayzie%20Bone).mp3"
   },
   {
-    "id": 62,
+    "id": "62",
     "artistansongmname": "Chris Brown & Benny Benassi - Beautiful People (Official Video HD).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -1860,7 +1860,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Chris%20Brown%20&%20Benny%20Benassi%20-%20Beautiful%20People%20(Official%20Video%20HD).mp3"
   },
   {
-    "id": 63,
+    "id": "63",
     "artistansongmname": "Christian Davis - Time Bomb.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -1890,7 +1890,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Christian%20Davis%20-%20Time%20Bomb.mp3"
   },
   {
-    "id": 64,
+    "id": "64",
     "artistansongmname": "Chubby Checker - The Twist.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -1920,7 +1920,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Chubby%20Checker%20-%20The%20Twist%20(Official%20Music%20Video).mp3"
   },
   {
-    "id": 65,
+    "id": "65",
     "artistansongmname": "Coby - Divljam (feat. Buba Corelli, Jala Brat).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -1950,7 +1950,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Coby%20-%20Divljam%20(feat.%20Buba%20Corelli,%20Jala%20Brat).mp3"
   },
   {
-    "id": 66,
+    "id": "66",
     "artistansongmname": "Coby - Leto je.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -1980,7 +1980,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Coby%20-%20Leto%20je.mp3"
   },
   {
-    "id": 67,
+    "id": "67",
     "artistansongmname": "DADO POLUMENTA - MASERATI.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -2010,7 +2010,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/DADO%20POLUMENTA%20-%20MASERATI%20(OFFICIAL%20VIDEO).mp3"
   },
   {
-    "id": 70,
+    "id": "70",
     "artistansongmname": "DJ Denial X & SHA feat Mia Borisavljevic - Lepota Balkanska [OFFICIAL HQ VIDEO _ SPOT].mp3",
     "genre": "Any",
     "bandinfo": {
@@ -2040,7 +2040,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/DJ%20Denial%20X%20&%20SHA%20feat%20Mia%20Borisavljevic%20-%20Lepota%20Balkanska%20%5bOFFICIAL%20HQ%20VIDEO%20_%20SPOT%5d.mp3"
   },
   {
-    "id": 71,
+    "id": "71",
     "artistansongmname": "DJDhiggs - Dive In.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -2070,7 +2070,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/DJDhiggs%20-%20Dive%20In.mp3"
   },
   {
-    "id": 72,
+    "id": "72",
     "artistansongmname": "DJEXON - SAKI.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -2100,7 +2100,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/DJEXON%20-%20SAKI%20(Official%20Video).mp3"
   },
   {
-    "id": 73,
+    "id": "73",
     "artistansongmname": "DJEXON and KOJA feat. LACKU - KIDAM KAKO VOZIM.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -2130,7 +2130,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/DJEXON%20and%20KOJA%20feat.%20LACKU%20-%20KIDAM%20KAKO%20VOZIM%20(Official%20Video).mp3"
   },
   {
-    "id": 68,
+    "id": "68",
     "artistansongmname": "DARA BUBAMARA x BIG ALI - CIAO AMORE 2010..mp3",
     "genre": "Any",
     "bandinfo": {
@@ -2160,7 +2160,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/DARA%20BUBAMARA%20x%20BIG%20ALI%20-%20CIAO%20AMORE%20(OFFICIAL%20VIDEO)%202010..mp3"
   },
   {
-    "id": 69,
+    "id": "69",
     "artistansongmname": "DESINGERICA X PAJAK X ZERA - CCRNO.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -2190,7 +2190,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/DESINGERICA%20X%20PAJAK%20X%20ZERA%20-%20CCRNO%20(OFFICIAL%20VIDEO).mp3"
   },
   {
-    "id": 74,
+    "id": "74",
     "artistansongmname": "DJ Johnny remix always remember us this way by Lady Gaga.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -2220,7 +2220,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/DJ%20Johnny%20remix%20always%20remember%20us%20this%20way%20by%20Lady%20Gaga.mp3"
   },
   {
-    "id": 75,
+    "id": "75",
     "artistansongmname": "DJ Khaled - I'm The One ft. Justin Bieber, Quavo, Chance the Rapper, Lil Wayne.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -2250,7 +2250,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/DJ%20Khaled%20-%20I'm%20The%20One%20ft.%20Justin%20Bieber,%20Quavo,%20Chance%20the%20Rapper,%20Lil%20Wayne.mp3"
   },
   {
-    "id": 76,
+    "id": "76",
     "artistansongmname": "DJ Khaled - Wild Thoughts (feat. Rihanna, Bryson Tiller).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -2280,7 +2280,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/DJ%20Khaled%20-%20Wild%20Thoughts%20(feat.%20Rihanna,%20Bryson%20Tiller).mp3"
   },
   {
-    "id": 77,
+    "id": "77",
     "artistansongmname": "DNK - Od utro do mrak.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -2310,7 +2310,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/DNK%20-%20Od%20utro%20do%20mrak.mp3"
   },
   {
-    "id": 78,
+    "id": "78",
     "artistansongmname": "DNK - SAMO TAA ZNAE KAKO (official music video) ©2016.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -2340,7 +2340,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/DNK%20-%20SAMO%20TAA%20ZNAE%20KAKO%20(official%20music%20video)%20%c2%a92016.mp3"
   },
   {
-    "id": 79,
+    "id": "79",
     "artistansongmname": "DNK feat. Dzambo Agusev Orchestra - Ako Utre Me Nema (official music video ©2022).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -2370,7 +2370,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/DNK%20feat.%20Dzambo%20Agusev%20Orchestra%20-%20Ako%20Utre%20Me%20Nema%20(official%20music%20video%20%c2%a92022).mp3"
   },
   {
-    "id": 80,
+    "id": "80",
     "artistansongmname": "DNK feat. Naum Petreski х Dzambo Agusev Orchestra - Zivote Brate (official music video 2024).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -2400,7 +2400,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/DNK%20feat.%20Naum%20Petreski%20%d1%85%20Dzambo%20Agusev%20Orchestra%20-%20Zivote%20Brate%20(official%20music%20video%202024).mp3"
   },
   {
-    "id": 81,
+    "id": "81",
     "artistansongmname": "DNK feat. Thea - Amajlija (official music video ©2024).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -2430,7 +2430,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/DNK%20feat.%20Thea%20-%20Amajlija%20(official%20music%20video%20%c2%a92024).mp3"
   },
   {
-    "id": 82,
+    "id": "82",
     "artistansongmname": "DON XHONI - TRUST ME.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -2460,7 +2460,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/DON%20XHONI%20-%20TRUST%20ME.mp3"
   },
   {
-    "id": 83,
+    "id": "83",
     "artistansongmname": "Dado i Sako Polumenta - Ljepsa od noci - (Official video 2008).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -2490,7 +2490,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Dado%20i%20Sako%20Polumenta%20-%20Ljepsa%20od%20noci%20-%20(Official%20video%202008).mp3"
   },
   {
-    "id": 84,
+    "id": "84",
     "artistansongmname": "Daft Punk - Around the World.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -2520,7 +2520,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Daft%20Punk%20-%20Around%20the%20World.mp3"
   },
   {
-    "id": 87,
+    "id": "87",
     "artistansongmname": "Devito - Uh.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -2550,7 +2550,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Devito%20-%20Uh.mp3"
   },
   {
-    "id": 88,
+    "id": "88",
     "artistansongmname": "Don Omar - Danza Kuduro ft. Lucenzo.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -2580,7 +2580,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Don%20Omar%20-%20Danza%20Kuduro%20ft.%20Lucenzo.mp3"
   },
   {
-    "id": 89,
+    "id": "89",
     "artistansongmname": "Dr. Dre - The Next Episode (feat. Snoop Dogg).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -2610,7 +2610,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Dr.%20Dre%20-%20The%20Next%20Episode%20(feat.%20Snoop%20Dogg).mp3"
   },
   {
-    "id": 90,
+    "id": "90",
     "artistansongmname": "Drake - In The Bible (feat. Lil Durk, Giveon).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -2640,7 +2640,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Drake%20-%20In%20The%20Bible%20(feat.%20Lil%20Durk,%20Giveon).mp3"
   },
   {
-    "id": 85,
+    "id": "85",
     "artistansongmname": "David Guetta feat. Kelly Rowland - When Love Ta.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -2670,7 +2670,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/David%20Guetta%20feat.%20Kelly%20Rowland%20-%20When%20Love%20Ta.mp3"
   },
   {
-    "id": 86,
+    "id": "86",
     "artistansongmname": "Devito - Taj flex.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -2700,7 +2700,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Devito%20-%20Taj%20flex.mp3"
   },
   {
-    "id": 91,
+    "id": "91",
     "artistansongmname": "Dynoro & Gigi D’Agostino - In My Mind.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -2730,7 +2730,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Dynoro%20&%20Gigi%20D%e2%80%99Agostino%20-%20In%20My%20Mind.mp3"
   },
   {
-    "id": 92,
+    "id": "92",
     "artistansongmname": "Dzej Ramadanovski - Imati pa nemati - (Official spot 2008).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -2760,7 +2760,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Dzej%20Ramadanovski%20-%20Imati%20pa%20nemati%20-%20(Official%20spot%202008).mp3"
   },
   {
-    "id": 93,
+    "id": "93",
     "artistansongmname": "ELENA KITIĆ - EXTRA FANCY.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -2790,7 +2790,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/ELENA%20KITI%c4%86%20-%20EXTRA%20FANCY.mp3"
   },
   {
-    "id": 94,
+    "id": "94",
     "artistansongmname": "ELENA KITIĆ x 2BONA - COLOMBIANA.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -2820,7 +2820,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/ELENA%20KITI%c4%86%20x%202BONA%20-%20COLOMBIANA.mp3"
   },
   {
-    "id": 95,
+    "id": "95",
     "artistansongmname": "ELITNI ODREDI - IMA MNOGO ZENA I KAFANA.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -2850,7 +2850,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/ELITNI%20ODREDI%20-%20IMA%20MNOGO%20ZENA%20I%20KAFANA%20(OFFICIAL%20VIDEO).mp3"
   },
   {
-    "id": 96,
+    "id": "96",
     "artistansongmname": "Ed Sheeran - Salt Water.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -2880,7 +2880,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Ed%20Sheeran%20-%20Salt%20Water.mp3"
   },
   {
-    "id": 97,
+    "id": "97",
     "artistansongmname": "Elena Risteska - Milioner (srpski).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -2910,7 +2910,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Elena%20Risteska%20-%20Milioner%20(srpski).mp3"
   },
   {
-    "id": 98,
+    "id": "98",
     "artistansongmname": "Elena Risteska - Milioner.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -2940,7 +2940,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Elena%20Risteska%20-%20Milioner.mp3"
   },
   {
-    "id": 99,
+    "id": "99",
     "artistansongmname": "Elitni Odredi - Zapali Grad ( DJ Deki DJ Seki Remix ).mp3",
     "genre": "Serbian",
     "bandinfo": {
@@ -2970,7 +2970,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Elitni%20Odredi%20-%20Zapali%20Grad%20(%20DJ%20Deki%20DJ%20Seki%20Remix%20).mp3"
   },
   {
-    "id": 100,
+    "id": "100",
     "artistansongmname": "Elitni Odredi feat Dj Silver & Dj Marconi & Mia Borisavljevic - Nisi s njom - (Official Video 2012).mp3",
     "genre": "Serbian",
     "bandinfo": {
@@ -3000,7 +3000,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Elitni%20Odredi%20feat%20Dj%20Silver%20&%20Dj%20Marconi%20&%20Mia%20Borisavljevic%20-%20Nisi%20s%20njom%20-%20(Official%20Video%202012).mp3"
   },
   {
-    "id": 101,
+    "id": "101",
     "artistansongmname": "Elley Duhe - Money On The Dash.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -3030,7 +3030,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Elley%20Duhe%20-%20Money%20On%20The%20Dash.mp3"
   },
   {
-    "id": 102,
+    "id": "102",
     "artistansongmname": "Eminem - 8 Mile.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -3060,7 +3060,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Eminem%20-%208%20Mile.mp3"
   },
   {
-    "id": 103,
+    "id": "103",
     "artistansongmname": "Eminem - Lose Yourself.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -3090,7 +3090,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Eminem%20-%20Lose%20Yourself.mp3"
   },
   {
-    "id": 104,
+    "id": "104",
     "artistansongmname": "Eminem - Rap God (Contains Lyrics).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -3120,7 +3120,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Eminem%20-%20Rap%20God%20(Contains%20Lyrics).mp3"
   },
   {
-    "id": 105,
+    "id": "105",
     "artistansongmname": "Eminem - Rap God.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -3150,7 +3150,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Eminem%20-%20Rap%20God.mp3"
   },
   {
-    "id": 106,
+    "id": "106",
     "artistansongmname": "Empire Of The Sun - Walking On A Dream.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -3180,7 +3180,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Empire%20Of%20The%20Sun%20-%20Walking%20On%20A%20Dream.mp3"
   },
   {
-    "id": 107,
+    "id": "107",
     "artistansongmname": "Era Istrefi - BEBE.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -3210,7 +3210,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Era%20Istrefi%20-%20BEBE.mp3"
   },
   {
-    "id": 108,
+    "id": "108",
     "artistansongmname": "FISHER - You Little Beauty.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -3240,7 +3240,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/FISHER%20-%20You%20Little%20Beauty.mp3"
   },
   {
-    "id": 109,
+    "id": "109",
     "artistansongmname": "Farruko - Pepas.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -3270,7 +3270,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Farruko%20-%20Pepas.mp3"
   },
   {
-    "id": 110,
+    "id": "110",
     "artistansongmname": "Fifth Harmony -Worth It Ft. Kid Ink (Bass Boosted) [HQ].mp3",
     "genre": "Any",
     "bandinfo": {
@@ -3300,7 +3300,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Fifth%20Harmony%20-Worth%20It%20Ft.%20Kid%20Ink%20(Bass%20Boosted)%20%5bHQ%5d.mp3"
   },
   {
-    "id": 114,
+    "id": "114",
     "artistansongmname": "GAZDA PAJA - 1000 EVRA feat. DJ A.S. ONE.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -3330,7 +3330,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/GAZDA%20PAJA%20-%201000%20EVRA%20feat.%20DJ%20A.S.%20ONE%20(OFFICIAL%20VIDEO).mp3"
   },
   {
-    "id": 115,
+    "id": "115",
     "artistansongmname": "GAZDA PAJA - AUSLANDER feat THCF.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -3360,7 +3360,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/GAZDA%20PAJA%20-%20AUSLANDER%20feat%20THCF.mp3"
   },
   {
-    "id": 116,
+    "id": "116",
     "artistansongmname": "GAZDA PAJA - PRINC BELVEDERE (OFFICIAL VIDEO 2019).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -3390,7 +3390,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/GAZDA%20PAJA%20-%20PRINC%20BELVEDERE%20(OFFICIAL%20VIDEO%202019).mp3"
   },
   {
-    "id": 117,
+    "id": "117",
     "artistansongmname": "GAZDA PAJA - TESLA (OFFICIAL VIDEO 2018).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -3420,7 +3420,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/GAZDA%20PAJA%20-%20TESLA%20(OFFICIAL%20VIDEO%202018).mp3"
   },
   {
-    "id": 118,
+    "id": "118",
     "artistansongmname": "GP - Ајде Џипери.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -3450,7 +3450,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/GP%20-%20%d0%90%d1%98%d0%b4%d0%b5%20%d0%8f%d0%b8%d0%bf%d0%b5%d1%80%d0%b8%20(Official%20Music%20Video).mp3"
   },
   {
-    "id": 119,
+    "id": "119",
     "artistansongmname": "Gazda Paja, Marlon Brutal - Dizel.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -3480,7 +3480,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Gazda%20Paja,%20Marlon%20Brutal%20-%20Dizel.mp3"
   },
   {
-    "id": 111,
+    "id": "111",
     "artistansongmname": "Flo Rida - GDFR (feat. Sage the Gemini & Lookas).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -3510,7 +3510,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Flo%20Rida%20-%20GDFR%20(feat.%20Sage%20the%20Gemini%20&%20Lookas).mp3"
   },
   {
-    "id": 112,
+    "id": "112",
     "artistansongmname": "Flo Rida - Whistle [Official Video].mp3",
     "genre": "Any",
     "bandinfo": {
@@ -3540,7 +3540,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Flo%20Rida%20-%20Whistle%20%5bOfficial%20Video%5d.mp3"
   },
   {
-    "id": 113,
+    "id": "113",
     "artistansongmname": "Future - Life Is Good (feat. Drake).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -3570,7 +3570,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Future%20-%20Life%20Is%20Good%20(feat.%20Drake).mp3"
   },
   {
-    "id": 120,
+    "id": "120",
     "artistansongmname": "Gmac Cash - Haircut.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -3600,7 +3600,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Gmac%20Cash%20-%20Haircut.mp3"
   },
   {
-    "id": 121,
+    "id": "121",
     "artistansongmname": "Gmac Cash - Out Your Fucking Mouth.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -3630,7 +3630,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Gmac%20Cash%20-%20Out%20Your%20Fucking%20Mouth.mp3"
   },
   {
-    "id": 122,
+    "id": "122",
     "artistansongmname": "Goko Taneski - Mozaik bez kraj _ Ѓоко Танески - Мозаик без крај.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -3660,7 +3660,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Goko%20Taneski%20-%20Mozaik%20bez%20kraj%20_%20%d0%83%d0%be%d0%ba%d0%be%20%d0%a2%d0%b0%d0%bd%d0%b5%d1%81%d0%ba%d0%b8%20-%20%d0%9c%d0%be%d0%b7%d0%b0%d0%b8%d0%ba%20%d0%b1%d0%b5%d0%b7%20%d0%ba%d1%80%d0%b0%d1%98.mp3"
   },
   {
-    "id": 123,
+    "id": "123",
     "artistansongmname": "Henny - Martini.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -3690,7 +3690,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Henny%20-%20Martini.mp3"
   },
   {
-    "id": 124,
+    "id": "124",
     "artistansongmname": "Hilight Tribe - Free Tibet (Vini Vici Remix).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -3720,7 +3720,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Hilight%20Tribe%20-%20Free%20Tibet%20(Vini%20Vici%20Remix).mp3"
   },
   {
-    "id": 125,
+    "id": "125",
     "artistansongmname": "Hippie Sabotage - Devil Eyes.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -3750,7 +3750,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Hippie%20Sabotage%20-%20Devil%20Eyes.mp3"
   },
   {
-    "id": 126,
+    "id": "126",
     "artistansongmname": "Hollywood Film Music Orchestra - Ninja Tune.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -3780,7 +3780,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Hollywood%20Film%20Music%20Orchestra%20-%20Ninja%20Tune.mp3"
   },
   {
-    "id": 127,
+    "id": "127",
     "artistansongmname": "INAS - Babi Flow.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -3810,7 +3810,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/INAS%20-%20Babi%20Flow.mp3"
   },
   {
-    "id": 128,
+    "id": "128",
     "artistansongmname": "INAS - Nyokosuzi.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -3840,7 +3840,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/INAS%20-%20Nyokosuzi.mp3"
   },
   {
-    "id": 129,
+    "id": "129",
     "artistansongmname": "INNA - Hot.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -3870,7 +3870,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/INNA%20-%20Hot.mp3"
   },
   {
-    "id": 130,
+    "id": "130",
     "artistansongmname": "In-Grid - Le Dragueur.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -3900,7 +3900,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/In-Grid%20-%20Le%20Dragueur.mp3"
   },
   {
-    "id": 131,
+    "id": "131",
     "artistansongmname": "Inas - Da da da.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -3930,7 +3930,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Inas%20-%20Da%20da%20da.mp3"
   },
   {
-    "id": 132,
+    "id": "132",
     "artistansongmname": "Indravathi Chauhan, Devi Sri Prasad - Oo Antava Oo Oo Antava (1).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -3960,7 +3960,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Indravathi%20Chauhan,%20Devi%20Sri%20Prasad%20-%20Oo%20Antava%20Oo%20Oo%20Antava%20(1).mp3"
   },
   {
-    "id": 133,
+    "id": "133",
     "artistansongmname": "Indravathi Chauhan, Devi Sri Prasad - Oo Antava Oo Oo Antava.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -3990,7 +3990,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Indravathi%20Chauhan,%20Devi%20Sri%20Prasad%20-%20Oo%20Antava%20Oo%20Oo%20Antava.mp3"
   },
   {
-    "id": 134,
+    "id": "134",
     "artistansongmname": "Itno Mi Trebas.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -4020,7 +4020,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Itno%20Mi%20Trebas.mp3"
   },
   {
-    "id": 135,
+    "id": "135",
     "artistansongmname": "J Balvin, Willy William - Mi Gente.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -4050,7 +4050,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/J%20Balvin,%20Willy%20William%20-%20Mi%20Gente%20(Official%20Video).mp3"
   },
   {
-    "id": 136,
+    "id": "136",
     "artistansongmname": "J Balvin - Tranquila.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -4080,7 +4080,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/J%20Balvin%20-%20Tranquila.mp3"
   },
   {
-    "id": 137,
+    "id": "137",
     "artistansongmname": "JID - Surround Sound (feat. 21 Savage & Baby Tate).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -4110,7 +4110,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/JID%20-%20Surround%20Sound%20(feat.%2021%20Savage%20&%20Baby%20Tate).mp3"
   },
   {
-    "id": 138,
+    "id": "138",
     "artistansongmname": "Jain - Makeba.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -4140,7 +4140,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Jain%20-%20Makeba.mp3"
   },
   {
-    "id": 139,
+    "id": "139",
     "artistansongmname": "Jala Brat & Buba Corelli - Bass (GOAT SEASON 3 FINAL CHAPTER).mp3",
     "genre": "Bosnian",
     "bandinfo": {
@@ -4170,7 +4170,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Jala%20Brat%20&%20Buba%20Corelli%20-%20Bass%20(GOAT%20SEASON%203%20FINAL%20CHAPTER).mp3"
   },
   {
-    "id": 140,
+    "id": "140",
     "artistansongmname": "Jala Brat & Buba Corelli - Klinka.mp3",
     "genre": "Bosnian",
     "bandinfo": {
@@ -4200,7 +4200,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Jala%20Brat%20&%20Buba%20Corelli%20-%20Klinka.mp3"
   },
   {
-    "id": 141,
+    "id": "141",
     "artistansongmname": "Jala Brat & Buba Corelli ft. Rasta - Benga po snijegu - IMPERIA.mp3",
     "genre": "Bosnian",
     "bandinfo": {
@@ -4230,7 +4230,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Jala%20Brat%20&%20Buba%20Corelli%20ft.%20Rasta%20-%20Benga%20po%20snijegu%20-%20IMPERIA.mp3"
   },
   {
-    "id": 142,
+    "id": "142",
     "artistansongmname": "Jala Brat - 99.mp3",
     "genre": "Bosnian",
     "bandinfo": {
@@ -4260,7 +4260,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Jala%20Brat%20-%2099.mp3"
   },
   {
-    "id": 143,
+    "id": "143",
     "artistansongmname": "Jaxomy x Agatino Romero x Raffaella Carrà – Pedro.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -4290,7 +4290,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Jaxomy%20x%20Agatino%20Romero%20x%20Raffaella%20Carr%c3%a0%20%e2%80%93%20Pedro%20(Official%20Video).mp3"
   },
   {
-    "id": 144,
+    "id": "144",
     "artistansongmname": "Jay Jay.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -4320,7 +4320,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Jay%20Jay.mp3"
   },
   {
-    "id": 145,
+    "id": "145",
     "artistansongmname": "K'NAAN - Wavin'  Flag (feat. will.i.am, David Guetta) (Contains Lyrics).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -4350,7 +4350,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/K'NAAN%20-%20Wavin'%20%20Flag%20(feat.%20will.i.am,%20David%20Guetta)%20(Contains%20Lyrics).mp3"
   },
   {
-    "id": 146,
+    "id": "146",
     "artistansongmname": "K'NAAN - Wavin'  Flag.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -4380,7 +4380,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/K'NAAN%20-%20Wavin'%20%20Flag.mp3"
   },
   {
-    "id": 147,
+    "id": "147",
     "artistansongmname": "KCBlaze Rasta Kavasaki Remix.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -4410,7 +4410,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/KCBlaze%20Rasta%20Kavasaki%20Remix.mp3"
   },
   {
-    "id": 148,
+    "id": "148",
     "artistansongmname": "Kanye West - Good Morning.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -4440,7 +4440,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Kanye%20West%20-%20Good%20Morning.mp3"
   },
   {
-    "id": 149,
+    "id": "149",
     "artistansongmname": "Kanye West - Stronger.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -4470,7 +4470,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Kanye%20West%20-%20Stronger.mp3"
   },
   {
-    "id": 150,
+    "id": "150",
     "artistansongmname": "Kaskade & WILL K - Flip Reset [Monstercat Release].mp3",
     "genre": "Any",
     "bandinfo": {
@@ -4500,7 +4500,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Kaskade%20&%20WILL%20K%20-%20Flip%20Reset%20%5bMonstercat%20Release%5d.mp3"
   },
   {
-    "id": 151,
+    "id": "151",
     "artistansongmname": "Katy Perry - Chained To The Rhythm (Official) ft. Skip Marley.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -4530,7 +4530,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Katy%20Perry%20-%20Chained%20To%20The%20Rhythm%20(Official)%20ft.%20Skip%20Marley.mp3"
   },
   {
-    "id": 152,
+    "id": "152",
     "artistansongmname": "Katy Perry - Firework (Lyrics).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -4560,7 +4560,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Katy%20Perry%20-%20Firework%20(Lyrics).mp3"
   },
   {
-    "id": 153,
+    "id": "153",
     "artistansongmname": "Kida x Dafina Zeqiri - Ai Me Mu So.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -4590,7 +4590,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Kida%20x%20Dafina%20Zeqiri%20-%20Ai%20Me%20Mu%20So.mp3"
   },
   {
-    "id": 154,
+    "id": "154",
     "artistansongmname": "Kiril Dzajkovski feat. Esma Redzepova & Ras Tweed - Raise Up Your Hand.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -4620,7 +4620,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Kiril%20Dzajkovski%20feat.%20Esma%20Redzepova%20&%20Ras%20Tweed%20-%20Raise%20Up%20Your%20Hand.mp3"
   },
   {
-    "id": 155,
+    "id": "155",
     "artistansongmname": "Klinac - Korak ispred (feat. Elon).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -4650,7 +4650,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Klinac%20-%20Korak%20ispred%20(feat.%20Elon).mp3"
   },
   {
-    "id": 156,
+    "id": "156",
     "artistansongmname": "Klinac - Pravila.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -4680,7 +4680,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Klinac%20-%20Pravila.mp3"
   },
   {
-    "id": 157,
+    "id": "157",
     "artistansongmname": "LORES - BALERINA.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -4710,7 +4710,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/LORES%20-%20BALERINA%20(OFFICIAL%20VIDEO).mp3"
   },
   {
-    "id": 158,
+    "id": "158",
     "artistansongmname": "LORES VS. ANASTASIJA - RED BULL SOUNDCLASH_ THE TAKEOVER.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -4740,7 +4740,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/LORES%20VS.%20ANASTASIJA%20-%20RED%20BULL%20SOUNDCLASH_%20THE%20TAKEOVER.mp3"
   },
   {
-    "id": 159,
+    "id": "159",
     "artistansongmname": "Lambe Alabakovski feat. Darko Dimitrov - Vrati mi go srceto.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -4770,7 +4770,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Lambe%20Alabakovski%20feat.%20Darko%20Dimitrov%20-%20Vrati%20mi%20go%20srceto.mp3"
   },
   {
-    "id": 160,
+    "id": "160",
     "artistansongmname": "Le0n - Za Brata Mog.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -4800,7 +4800,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Le0n%20-%20Za%20Brata%20Mog.mp3"
   },
   {
-    "id": 161,
+    "id": "161",
     "artistansongmname": "Lenny Kravitz - Low.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -4830,7 +4830,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Lenny%20Kravitz%20-%20Low%20(Official%20Video).mp3"
   },
   {
-    "id": 165,
+    "id": "165",
     "artistansongmname": "Luh Kel, IV Jay - Tweakin.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -4860,7 +4860,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Luh%20Kel,%20IV%20Jay%20-%20Tweakin.mp3"
   },
   {
-    "id": 166,
+    "id": "166",
     "artistansongmname": "Luh Kel - Wrong.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -4890,7 +4890,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Luh%20Kel%20-%20Wrong.mp3"
   },
   {
-    "id": 167,
+    "id": "167",
     "artistansongmname": "Lunna x Traker - Toa Sto Si Ti.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -4920,7 +4920,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Lunna%20x%20Traker%20-%20Toa%20Sto%20Si%20Ti%20(Official%20Video).mp3"
   },
   {
-    "id": 168,
+    "id": "168",
     "artistansongmname": "MACKLEMORE & RYAN LEWIS - THRIFT SHOP FEAT. WANZ.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -4950,7 +4950,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/MACKLEMORE%20&%20RYAN%20LEWIS%20-%20THRIFT%20SHOP%20FEAT.%20WANZ%20(OFFICIAL%20VIDEO).mp3"
   },
   {
-    "id": 169,
+    "id": "169",
     "artistansongmname": "MERO, ELIF - Bitte geh.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -4980,7 +4980,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/MERO,%20ELIF%20-%20Bitte%20geh.mp3"
   },
   {
-    "id": 162,
+    "id": "162",
     "artistansongmname": "Leo Band ft. Petar Rangelov - HABIBI COME TO DUBAI.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -5010,7 +5010,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Leo%20Band%20ft.%20Petar%20Rangelov%20-%20HABIBI%20COME%20TO%20DUBAI.mp3"
   },
   {
-    "id": 163,
+    "id": "163",
     "artistansongmname": "Lil Tecca - Ransom.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -5040,7 +5040,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Lil%20Tecca%20-%20Ransom.mp3"
   },
   {
-    "id": 164,
+    "id": "164",
     "artistansongmname": "Los Del Rio - Macarena (Bayside Boys Remix).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -5070,7 +5070,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Los%20Del%20Rio%20-%20Macarena%20(Bayside%20Boys%20Remix).mp3"
   },
   {
-    "id": 170,
+    "id": "170",
     "artistansongmname": "MERO, Jamule - Rapstars.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -5100,7 +5100,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/MERO,%20Jamule%20-%20Rapstars.mp3"
   },
   {
-    "id": 171,
+    "id": "171",
     "artistansongmname": "MERO, Murda - Konum Gizli.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -5130,7 +5130,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/MERO,%20Murda%20-%20Konum%20Gizli.mp3"
   },
   {
-    "id": 172,
+    "id": "172",
     "artistansongmname": "MERO - Double Cup (Contains Lyrics).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -5160,7 +5160,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/MERO%20-%20Double%20Cup%20(Contains%20Lyrics).mp3"
   },
   {
-    "id": 173,
+    "id": "173",
     "artistansongmname": "MERO - Perspektive.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -5190,7 +5190,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/MERO%20-%20Perspektive%20(Official%20Video).mp3"
   },
   {
-    "id": 174,
+    "id": "174",
     "artistansongmname": "Mahmood - TUTA GOLD (Sanremo 2024).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -5220,7 +5220,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Mahmood%20-%20TUTA%20GOLD%20(Sanremo%202024).mp3"
   },
   {
-    "id": 175,
+    "id": "175",
     "artistansongmname": "Mariah Carey - All I Want for Christmas Is You (Make My Wish Come True Edition).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -5250,7 +5250,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Mariah%20Carey%20-%20All%20I%20Want%20for%20Christmas%20Is%20You%20(Make%20My%20Wish%20Come%20True%20Edition).mp3"
   },
   {
-    "id": 176,
+    "id": "176",
     "artistansongmname": "Mariah Carey - All I Want for Christmas Is You.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -5280,7 +5280,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Mariah%20Carey%20-%20All%20I%20Want%20for%20Christmas%20Is%20You.mp3"
   },
   {
-    "id": 177,
+    "id": "177",
     "artistansongmname": "Maroon 5 - sugar.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -5310,7 +5310,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Maroon%205%20-%20sugar.mp3"
   },
   {
-    "id": 178,
+    "id": "178",
     "artistansongmname": "Marshmello & Anne-Marie - FRIENDS.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -5340,7 +5340,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Marshmello%20&%20Anne-Marie%20-%20FRIENDS.mp3"
   },
   {
-    "id": 179,
+    "id": "179",
     "artistansongmname": "Martin Garrix - Animals.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -5370,7 +5370,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Martin%20Garrix%20-%20Animals.mp3"
   },
   {
-    "id": 180,
+    "id": "180",
     "artistansongmname": "Martin Mila - Odgovor.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -5400,7 +5400,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Martin%20Mila%20-%20Odgovor.mp3"
   },
   {
-    "id": 181,
+    "id": "181",
     "artistansongmname": "Mc.Queen, fvtih, S€DAT, POİESİS - Jocelyn Flores.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -5430,7 +5430,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Mc.Queen,%20fvtih,%20S%e2%82%acDAT,%20PO%c4%b0ES%c4%b0S%20-%20Jocelyn%20Flores.mp3"
   },
   {
-    "id": 182,
+    "id": "182",
     "artistansongmname": "Mero - Hobby Hobby.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -5460,7 +5460,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Mero%20-%20Hobby%20Hobby.mp3"
   },
   {
-    "id": 183,
+    "id": "183",
     "artistansongmname": "Mero - Jay Jay.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -5490,7 +5490,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Mero%20-%20Jay%20Jay.mp3"
   },
   {
-    "id": 184,
+    "id": "184",
     "artistansongmname": "Migos - Slippery Feat. Gucci Mane (Culture).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -5520,7 +5520,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Migos%20-%20Slippery%20Feat.%20Gucci%20Mane%20(Culture).mp3"
   },
   {
-    "id": 185,
+    "id": "185",
     "artistansongmname": "Mike Floss - Better Believe It.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -5550,7 +5550,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Mike%20Floss%20-%20Better%20Believe%20It.mp3"
   },
   {
-    "id": 186,
+    "id": "186",
     "artistansongmname": "Miley Cyrus - Midnight Sky.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -5580,7 +5580,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Miley%20Cyrus%20-%20Midnight%20Sky%20(Official%20Video).mp3"
   },
   {
-    "id": 187,
+    "id": "187",
     "artistansongmname": "Miley Cyrus - Party In The U.S.A..mp3",
     "genre": "Any",
     "bandinfo": {
@@ -5610,7 +5610,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Miley%20Cyrus%20-%20Party%20In%20The%20U.S.A.%20(Official%20Video).mp3"
   },
   {
-    "id": 188,
+    "id": "188",
     "artistansongmname": "Miley Cyrus - Used To Be Young.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -5640,7 +5640,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Miley%20Cyrus%20-%20Used%20To%20Be%20Young.mp3"
   },
   {
-    "id": 189,
+    "id": "189",
     "artistansongmname": "Miley Cyrus - Wrecking Ball.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -5670,7 +5670,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Miley%20Cyrus%20-%20Wrecking%20Ball%20(Official%20Video).mp3"
   },
   {
-    "id": 190,
+    "id": "190",
     "artistansongmname": "Milica Pavlovic, Albino - Seceru.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -5700,7 +5700,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Milica%20Pavlovic,%20Albino%20-%20Seceru.mp3"
   },
   {
-    "id": 191,
+    "id": "191",
     "artistansongmname": "Moj Ohrid Moe Radio Super Radio 97fm.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -5730,7 +5730,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Moj%20Ohrid%20Moe%20Radio%20Super%20Radio%2097fm.mp3"
   },
   {
-    "id": 192,
+    "id": "192",
     "artistansongmname": "Monolink - Return to Oz (ARTBAT Remix).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -5760,7 +5760,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Monolink%20-%20Return%20to%20Oz%20(ARTBAT%20Remix).mp3"
   },
   {
-    "id": 193,
+    "id": "193",
     "artistansongmname": "Mr.President - Coco Jamboo (1996) [Official Video] - MELOMAN DANCE.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -5790,7 +5790,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Mr.President%20-%20Coco%20Jamboo%20(1996)%20%5bOfficial%20Video%5d%20-%20MELOMAN%20DANCE.mp3"
   },
   {
-    "id": 194,
+    "id": "194",
     "artistansongmname": "N!__@s in Paris x Moje zlato(Remix).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -5820,7 +5820,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/N!__@s%20in%20Paris%20x%20Moje%20zlato(Remix).mp3"
   },
   {
-    "id": 195,
+    "id": "195",
     "artistansongmname": "NATASA BEKVALAC - DODJI MAMI.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -5850,7 +5850,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/NATASA%20BEKVALAC%20-%20DODJI%20MAMI%20(OFFICIAL%20VIDEO).mp3"
   },
   {
-    "id": 196,
+    "id": "196",
     "artistansongmname": "NATASA BEKVALAC - LAVE MOJ.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -5880,7 +5880,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/NATASA%20BEKVALAC%20-%20LAVE%20MOJ%20(OFFICIAL%20VIDEO).mp3"
   },
   {
-    "id": 197,
+    "id": "197",
     "artistansongmname": "NATASA BEKVALAC FEAT. COBY - MALA PLAVA.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -5910,7 +5910,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/NATASA%20BEKVALAC%20FEAT.%20COBY%20-%20MALA%20PLAVA%20(OFFICIAL%20VIDEO).mp3"
   },
   {
-    "id": 198,
+    "id": "198",
     "artistansongmname": "NEFFEX - Fight Back.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -5940,7 +5940,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/NEFFEX%20-%20Fight%20Back.mp3"
   },
   {
-    "id": 199,
+    "id": "199",
     "artistansongmname": "NIKOLIJA - AVLIJE AVLIJE.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -5970,7 +5970,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/NIKOLIJA%20-%20AVLIJE%20AVLIJE%20(OFFICIAL%20VIDEO).mp3"
   },
   {
-    "id": 200,
+    "id": "200",
     "artistansongmname": "NIKOLIJA - TESTO (FEAT. AMNA) [OFFICIAL VIDEO].mp3",
     "genre": "Any",
     "bandinfo": {
@@ -6000,7 +6000,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/NIKOLIJA%20-%20TESTO%20(FEAT.%20AMNA)%20%5bOFFICIAL%20VIDEO%5d.mp3"
   },
   {
-    "id": 201,
+    "id": "201",
     "artistansongmname": "NIKOLIJA - VISKI (FEAT. INAS) [OFFICIAL VIDEO].mp3",
     "genre": "Any",
     "bandinfo": {
@@ -6030,7 +6030,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/NIKOLIJA%20-%20VISKI%20(FEAT.%20INAS)%20%5bOFFICIAL%20VIDEO%5d.mp3"
   },
   {
-    "id": 202,
+    "id": "202",
     "artistansongmname": "NLE Choppa - Walk Em Down (feat. Roddy Ricch).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -6060,7 +6060,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/NLE%20Choppa%20-%20Walk%20Em%20Down%20(feat.%20Roddy%20Ricch).mp3"
   },
   {
-    "id": 203,
+    "id": "203",
     "artistansongmname": "NOT, A AP Rocky - Doja.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -6090,7 +6090,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/NOT,%20A%20AP%20Rocky%20-%20Doja.mp3"
   },
   {
-    "id": 204,
+    "id": "204",
     "artistansongmname": "NUCCI - OPANCI Prod. By Jhinsen.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -6120,7 +6120,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/NUCCI%20-%20OPANCI%20Prod.%20By%20Jhinsen.mp3"
   },
   {
-    "id": 205,
+    "id": "205",
     "artistansongmname": "Naughty Boy - La la la ft. Sam Smith.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -6150,7 +6150,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Naughty%20Boy%20-%20La%20la%20la%20ft.%20Sam%20Smith%20(Official%20Video).mp3"
   },
   {
-    "id": 206,
+    "id": "206",
     "artistansongmname": "Nelly Furtado, Tove Lo, SG Lewis - Love Bites (Official Visualizer).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -6180,7 +6180,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Nelly%20Furtado,%20Tove%20Lo,%20SG%20Lewis%20-%20Love%20Bites%20(Official%20Visualizer).mp3"
   },
   {
-    "id": 207,
+    "id": "207",
     "artistansongmname": "Nucci, Biba, Devito - HIHI HAHA.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -6210,7 +6210,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Nucci,%20Biba,%20Devito%20-%20HIHI%20HAHA%20(Official%20Video).mp3"
   },
   {
-    "id": 208,
+    "id": "208",
     "artistansongmname": "Nucci - Bebo 2.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -6240,7 +6240,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Nucci%20-%20Bebo%202.mp3"
   },
   {
-    "id": 209,
+    "id": "209",
     "artistansongmname": "OHRID SUPERSTAR BAND - Сите сме исто.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -6270,7 +6270,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/OHRID%20SUPERSTAR%20BAND%20-%20%d0%a1%d0%b8%d1%82%d0%b5%20%d1%81%d0%bc%d0%b5%20%d0%b8%d1%81%d1%82%d0%be.mp3"
   },
   {
-    "id": 210,
+    "id": "210",
     "artistansongmname": "Oskar - Medo Brundo (feat. Drugari) (Contains Lyrics).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -6300,7 +6300,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Oskar%20-%20Medo%20Brundo%20(feat.%20Drugari)%20(Contains%20Lyrics).mp3"
   },
   {
-    "id": 211,
+    "id": "211",
     "artistansongmname": "Pajak, MIC-MC - Error.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -6330,7 +6330,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Pajak,%20MIC-MC%20-%20Error.mp3"
   },
   {
-    "id": 212,
+    "id": "212",
     "artistansongmname": "Pajak - Dark Side.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -6360,7 +6360,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Pajak%20-%20Dark%20Side.mp3"
   },
   {
-    "id": 213,
+    "id": "213",
     "artistansongmname": "Pajak - Hellboy.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -6390,7 +6390,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Pajak%20-%20Hellboy.mp3"
   },
   {
-    "id": 214,
+    "id": "214",
     "artistansongmname": "Pajak - Nokjva.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -6420,7 +6420,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Pajak%20-%20Nokjva.mp3"
   },
   {
-    "id": 215,
+    "id": "215",
     "artistansongmname": "Pajak ft.Mesko - Mala.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -6450,7 +6450,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Pajak%20ft.Mesko%20-%20Mala.mp3"
   },
   {
-    "id": 216,
+    "id": "216",
     "artistansongmname": "Pajak x Mesko - Srce Gori (Prod. Popov).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -6480,7 +6480,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Pajak%20x%20Mesko%20-%20Srce%20Gori%20(Prod.%20Popov).mp3"
   },
   {
-    "id": 217,
+    "id": "217",
     "artistansongmname": "Panda Boi, Janax - IPhone Samsung Nokia.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -6510,7 +6510,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Panda%20Boi,%20Janax%20-%20IPhone%20Samsung%20Nokia.mp3"
   },
   {
-    "id": 218,
+    "id": "218",
     "artistansongmname": "Patrick Phelan, Ashley Bennet, Paul Bennet - Title.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -6540,7 +6540,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Patrick%20Phelan,%20Ashley%20Bennet,%20Paul%20Bennet%20-%20Title.mp3"
   },
   {
-    "id": 219,
+    "id": "219",
     "artistansongmname": "Pep Starling - Adeus.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -6570,7 +6570,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Pep%20Starling%20-%20Adeus.mp3"
   },
   {
-    "id": 220,
+    "id": "220",
     "artistansongmname": "Pharrell Williams - Happy.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -6600,7 +6600,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Pharrell%20Williams%20-%20Happy%20(Official%20Music%20Video).mp3"
   },
   {
-    "id": 221,
+    "id": "221",
     "artistansongmname": "Pop Smoke - Dior (Official Audio).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -6630,7 +6630,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Pop%20Smoke%20-%20Dior%20(Official%20Audio).mp3"
   },
   {
-    "id": 222,
+    "id": "222",
     "artistansongmname": "Pop Smoke - Mood Swings (Audio) ft. Lil Tjay - POPSMOKEVEVO.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -6660,7 +6660,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Pop%20Smoke%20-%20Mood%20Swings%20(Audio)%20ft.%20Lil%20Tjay%20-%20POPSMOKEVEVO.mp3"
   },
   {
-    "id": 223,
+    "id": "223",
     "artistansongmname": "Pop Smoke - The Woo (feat. 50 Cent, Roddy Ricch).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -6690,7 +6690,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Pop%20Smoke%20-%20The%20Woo%20(feat.%2050%20Cent,%20Roddy%20Ricch).mp3"
   },
   {
-    "id": 224,
+    "id": "224",
     "artistansongmname": "Post Malone - Better Now.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -6720,7 +6720,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Post%20Malone%20-%20Better%20Now%20(Official%20Video).mp3"
   },
   {
-    "id": 225,
+    "id": "225",
     "artistansongmname": "RASTA X VOYAGE - HABIBI (OFFICIAL REMIX VIDEO).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -6750,7 +6750,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/RASTA%20X%20VOYAGE%20-%20HABIBI%20(OFFICIAL%20REMIX%20VIDEO).mp3"
   },
   {
-    "id": 226,
+    "id": "226",
     "artistansongmname": "RASTA x ALEN SAKIĆ - BENZ ILI BIMMER.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -6780,7 +6780,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/RASTA%20x%20ALEN%20SAKI%c4%86%20-%20BENZ%20ILI%20BIMMER%20(OFFICIAL%20VIDEO).mp3"
   },
   {
-    "id": 227,
+    "id": "227",
     "artistansongmname": "RELJA - ZA TOBOM LUD.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -6810,7 +6810,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/RELJA%20-%20ZA%20TOBOM%20LUD%20(OFFICIAL%20VIDEO).mp3"
   },
   {
-    "id": 228,
+    "id": "228",
     "artistansongmname": "RELJA X COBY X STOJA - SAMO JAKO 4K.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -6840,7 +6840,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/RELJA%20X%20COBY%20X%20STOJA%20-%20SAMO%20JAKO%20(OFFICIAL%20VIDEO)%204K.mp3"
   },
   {
-    "id": 229,
+    "id": "229",
     "artistansongmname": "RELJA X FLAMIN’ HOT - ZAPALI GRAD REMIX.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -6870,7 +6870,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/RELJA%20X%20FLAMIN%e2%80%99%20HOT%20-%20ZAPALI%20GRAD%20REMIX%20(OFFICIAL%20VIDEO).mp3"
   },
   {
-    "id": 230,
+    "id": "230",
     "artistansongmname": "RELJA X NUCCI - OMB.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -6900,7 +6900,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/RELJA%20X%20NUCCI%20-%20OMB%20(OFFICIAL%20VIDEO).mp3"
   },
   {
-    "id": 231,
+    "id": "231",
     "artistansongmname": "RELJA X RASTA - TURIRA.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -6930,7 +6930,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/RELJA%20X%20RASTA%20-%20TURIRA%20(OFFICIAL%20VIDEO).mp3"
   },
   {
-    "id": 232,
+    "id": "232",
     "artistansongmname": "ROSALÍA - BIZCOCHITO.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -6960,7 +6960,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/ROSAL%c3%8dA%20-%20BIZCOCHITO.mp3"
   },
   {
-    "id": 233,
+    "id": "233",
     "artistansongmname": "Rasta - AMGVSQ7AUDI.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -6990,7 +6990,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Rasta%20-%20AMGVSQ7AUDI.mp3"
   },
   {
-    "id": 234,
+    "id": "234",
     "artistansongmname": "Ricky Martin - The Cup of Life (La Copa De La Vida) [The Official Song of the World Cup, France '98][English].mp3",
     "genre": "Any",
     "bandinfo": {
@@ -7020,7 +7020,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Ricky%20Martin%20-%20The%20Cup%20of%20Life%20(La%20Copa%20De%20La%20Vida)%20%5bThe%20Official%20Song%20of%20the%20World%20Cup,%20France%20'98%5d%5bEnglish%5d.mp3"
   },
   {
-    "id": 235,
+    "id": "235",
     "artistansongmname": "Rihanna feat. Eminem - I love the way you lie   Lyrics   320 kbps.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -7050,7 +7050,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Rihanna%20feat.%20Eminem%20-%20I%20love%20the%20way%20you%20lie%20%20%20Lyrics%20%20%20320%20kbps.mp3"
   },
   {
-    "id": 236,
+    "id": "236",
     "artistansongmname": "SAJFER - KARNEVAL II.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -7080,7 +7080,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/SAJFER%20-%20KARNEVAL%20II.mp3"
   },
   {
-    "id": 237,
+    "id": "237",
     "artistansongmname": "SAKO POLUMENTA - E STO NISAM SUNCE (AUDIO 2002).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -7110,7 +7110,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/SAKO%20POLUMENTA%20-%20E%20STO%20NISAM%20SUNCE%20(AUDIO%202002).mp3"
   },
   {
-    "id": 238,
+    "id": "238",
     "artistansongmname": "SNAP! - Rhythm Is A Dancer.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -7140,7 +7140,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/SNAP!%20-%20Rhythm%20Is%20A%20Dancer%20(Official%20Music%20Video).mp3"
   },
   {
-    "id": 239,
+    "id": "239",
     "artistansongmname": "STORMZY - OWN IT (feat. ED SHEERAN & BURNA BOY).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -7170,7 +7170,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/STORMZY%20-%20OWN%20IT%20(feat.%20ED%20SHEERAN%20&%20BURNA%20BOY).mp3"
   },
   {
-    "id": 240,
+    "id": "240",
     "artistansongmname": "Sajfer - Karneval.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -7200,7 +7200,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Sajfer%20-%20Karneval.mp3"
   },
   {
-    "id": 241,
+    "id": "241",
     "artistansongmname": "Sanela - Lagi ( Lyrics Video ) ⧸ Санела - Лаги ( Лирики Видео ).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -7230,7 +7230,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Sanela%20-%20Lagi%20(%20Lyrics%20Video%20)%20%e2%a7%b8%20%d0%a1%d0%b0%d0%bd%d0%b5%d0%bb%d0%b0%20-%20%d0%9b%d0%b0%d0%b3%d0%b8%20(%20%d0%9b%d0%b8%d1%80%d0%b8%d0%ba%d0%b8%20%d0%92%d0%b8%d0%b4%d0%b5%d0%be%20).mp3"
   },
   {
-    "id": 242,
+    "id": "242",
     "artistansongmname": "Saso Recyd - Milice.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -7260,7 +7260,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Saso%20Recyd%20-%20Milice.mp3"
   },
   {
-    "id": 243,
+    "id": "243",
     "artistansongmname": "Senidah - Replay.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -7290,7 +7290,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Senidah%20-%20Replay.mp3"
   },
   {
-    "id": 244,
+    "id": "244",
     "artistansongmname": "Severina - Brad Pitt - (Audio 2012) HD.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -7320,7 +7320,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Severina%20-%20Brad%20Pitt%20-%20(Audio%202012)%20HD.mp3"
   },
   {
-    "id": 245,
+    "id": "245",
     "artistansongmname": "Severina - Italiana.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -7350,7 +7350,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Severina%20-%20Italiana.mp3"
   },
   {
-    "id": 246,
+    "id": "246",
     "artistansongmname": "Shaboozey - A Bar Song Tipsy.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -7380,7 +7380,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Shaboozey%20-%20A%20Bar%20Song%20Tipsy.mp3"
   },
   {
-    "id": 247,
+    "id": "247",
     "artistansongmname": "Shakira - Chantaje (feat. Maluma).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -7410,7 +7410,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Shakira%20-%20Chantaje%20(feat.%20Maluma).mp3"
   },
   {
-    "id": 248,
+    "id": "248",
     "artistansongmname": "Shakira - Loca (Remix).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -7440,7 +7440,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Shakira%20-%20Loca%20(Remix).mp3"
   },
   {
-    "id": 249,
+    "id": "249",
     "artistansongmname": "Shakira - Waka Waka (Time For Africa).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -7470,7 +7470,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Shakira%20-%20Waka%20Waka%20(Time%20For%20Africa).mp3"
   },
   {
-    "id": 250,
+    "id": "250",
     "artistansongmname": "Shouse - Love Tonight (Edit).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -7500,7 +7500,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Shouse%20-%20Love%20Tonight%20(Edit).mp3"
   },
   {
-    "id": 251,
+    "id": "251",
     "artistansongmname": "Sia - Elastic Heart feat. Shia LaBeouf & Maddie Ziegler.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -7530,7 +7530,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Sia%20-%20Elastic%20Heart%20feat.%20Shia%20LaBeouf%20&%20Maddie%20Ziegler.mp3"
   },
   {
-    "id": 252,
+    "id": "252",
     "artistansongmname": "Skepta - No Sleep.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -7560,7 +7560,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Skepta%20-%20No%20Sleep.mp3"
   },
   {
-    "id": 253,
+    "id": "253",
     "artistansongmname": "Slatkaristika - Nalej.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -7590,7 +7590,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Slatkaristika%20-%20Nalej.mp3"
   },
   {
-    "id": 254,
+    "id": "254",
     "artistansongmname": "Slatkaristika ft. AceNL - Klasika - (Official video by Global Music).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -7620,7 +7620,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Slatkaristika%20ft.%20AceNL%20-%20Klasika%20-%20(Official%20video%20by%20Global%20Music).mp3"
   },
   {
-    "id": 255,
+    "id": "255",
     "artistansongmname": "Slatkaristika x Cvija - Provokacija.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -7650,7 +7650,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Slatkaristika%20x%20Cvija%20-%20Provokacija.mp3"
   },
   {
-    "id": 256,
+    "id": "256",
     "artistansongmname": "Slatkaristika x Toni Zen - Milion Leta.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -7680,7 +7680,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Slatkaristika%20x%20Toni%20Zen%20-%20Milion%20Leta.mp3"
   },
   {
-    "id": 257,
+    "id": "257",
     "artistansongmname": "SoFaygo - Knock Knock.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -7710,7 +7710,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/SoFaygo%20-%20Knock%20Knock%20(Official%20Music%20Video).mp3"
   },
   {
-    "id": 258,
+    "id": "258",
     "artistansongmname": "Srekna Nova Godina - Novogodisna pesna_wmv_.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -7740,7 +7740,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Srekna%20Nova%20Godina%20-%20Novogodisna%20pesna_wmv_.mp3"
   },
   {
-    "id": 259,
+    "id": "259",
     "artistansongmname": "Stefan Numerolog - After (Official video).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -7770,7 +7770,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Stefan%20Numerolog%20-%20After%20(Official%20video).mp3"
   },
   {
-    "id": 260,
+    "id": "260",
     "artistansongmname": "Strajk - Nostalgija (feat. DJ Venom).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -7800,7 +7800,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Strajk%20-%20Nostalgija%20(feat.%20DJ%20Venom).mp3"
   },
   {
-    "id": 261,
+    "id": "261",
     "artistansongmname": "Strajk - Tie Shto Znaat, Znaat.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -7830,7 +7830,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Strajk%20-%20Tie%20Shto%20Znaat,%20Znaat%20(Official%20Video).mp3"
   },
   {
-    "id": 262,
+    "id": "262",
     "artistansongmname": "Stromae - Alors On Danse (Dubdogz Remix) (Bass Boosted).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -7860,7 +7860,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Stromae%20-%20Alors%20On%20Danse%20(Dubdogz%20Remix)%20(Bass%20Boosted).mp3"
   },
   {
-    "id": 263,
+    "id": "263",
     "artistansongmname": "Sviraj Trubo.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -7890,7 +7890,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Sviraj%20Trubo.mp3"
   },
   {
-    "id": 264,
+    "id": "264",
     "artistansongmname": "THCF - Brate.mp3",
     "genre": "Serbian",
     "bandinfo": {
@@ -7920,7 +7920,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/THCF%20-%20Brate.mp3"
   },
   {
-    "id": 265,
+    "id": "265",
     "artistansongmname": "THCF - PANDA.mp3",
     "genre": "Serbian",
     "bandinfo": {
@@ -7950,7 +7950,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/THCF%20-%20PANDA%20(OFFICIAL%20VIDEO).mp3"
   },
   {
-    "id": 266,
+    "id": "266",
     "artistansongmname": "THCF - Roze Zlato.mp3",
     "genre": "Serbian",
     "bandinfo": {
@@ -7980,7 +7980,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/THCF%20-%20Roze%20Zlato.mp3"
   },
   {
-    "id": 267,
+    "id": "267",
     "artistansongmname": "THCF - Sve Je u Glavi (Prod. HMB) [Lyrics Video].mp3",
     "genre": "Serbian",
     "bandinfo": {
@@ -8010,7 +8010,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/THCF%20-%20Sve%20Je%20u%20Glavi%20(Prod.%20HMB)%20%5bLyrics%20Video%5d.mp3"
   },
   {
-    "id": 268,
+    "id": "268",
     "artistansongmname": "THCF - Sve Je u Glavi - REMIX (Prod. CROW x HMB).mp3",
     "genre": "Serbian",
     "bandinfo": {
@@ -8040,7 +8040,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/THCF%20-%20Sve%20Je%20u%20Glavi%20-%20REMIX%20(Prod.%20CROW%20x%20HMB).mp3"
   },
   {
-    "id": 269,
+    "id": "269",
     "artistansongmname": "THCF X BRESKVICA - ALO GDE SI TI.mp3",
     "genre": "Serbian",
     "bandinfo": {
@@ -8070,7 +8070,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/THCF%20X%20BRESKVICA%20-%20ALO%20GDE%20SI%20TI%20(OFFICIAL%20VIDEO).mp3"
   },
   {
-    "id": 270,
+    "id": "270",
     "artistansongmname": "THCF X ZOZA - 100.mp3",
     "genre": "Serbian",
     "bandinfo": {
@@ -8100,7 +8100,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/THCF%20X%20ZOZA%20-%20100%20(OFFICIAL%20VIDEO).mp3"
   },
   {
-    "id": 271,
+    "id": "271",
     "artistansongmname": "TIJANA DAPCEVIC - ZENE.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -8130,7 +8130,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/TIJANA%20DAPCEVIC%20-%20ZENE%20(OFFICIAL%20VIDEO).mp3"
   },
   {
-    "id": 272,
+    "id": "272",
     "artistansongmname": "Tamara Todevska - 1003.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -8160,7 +8160,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Tamara%20Todevska%20-%201003.mp3"
   },
   {
-    "id": 273,
+    "id": "273",
     "artistansongmname": "Tasko, INAS - Balkan banda.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -8190,7 +8190,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Tasko,%20INAS%20-%20Balkan%20banda.mp3"
   },
   {
-    "id": 274,
+    "id": "274",
     "artistansongmname": "Tasko - Ducati.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -8220,7 +8220,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Tasko%20-%20Ducati.mp3"
   },
   {
-    "id": 275,
+    "id": "275",
     "artistansongmname": "Tasko - Ice-1.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -8250,7 +8250,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Tasko%20-%20Ice-1.mp3"
   },
   {
-    "id": 276,
+    "id": "276",
     "artistansongmname": "Tasko - Ice.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -8280,7 +8280,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Tasko%20-%20Ice.mp3"
   },
   {
-    "id": 277,
+    "id": "277",
     "artistansongmname": "Tasko - Loco.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -8310,7 +8310,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Tasko%20-%20Loco.mp3"
   },
   {
-    "id": 278,
+    "id": "278",
     "artistansongmname": "Tasko - Nevaljala (feat. Lina).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -8340,7 +8340,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Tasko%20-%20Nevaljala%20(feat.%20Lina).mp3"
   },
   {
-    "id": 279,
+    "id": "279",
     "artistansongmname": "Tasko - Rutina.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -8370,7 +8370,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Tasko%20-%20Rutina.mp3"
   },
   {
-    "id": 280,
+    "id": "280",
     "artistansongmname": "Taylor-Swift-Blank-Space.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -8400,7 +8400,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Taylor-Swift-Blank-Space.mp3"
   },
   {
-    "id": 281,
+    "id": "281",
     "artistansongmname": "Technotronic - Pump Up The Jam.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -8430,7 +8430,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Technotronic%20-%20Pump%20Up%20The%20Jam.mp3"
   },
   {
-    "id": 282,
+    "id": "282",
     "artistansongmname": "Teddy Swims - Broke feat. Thomas Rhett.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -8460,7 +8460,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Teddy%20Swims%20-%20Broke%20feat.%20Thomas%20Rhett.mp3"
   },
   {
-    "id": 283,
+    "id": "283",
     "artistansongmname": "Tek je 12 sati.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -8490,7 +8490,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Tek%20je%2012%20sati.mp3"
   },
   {
-    "id": 284,
+    "id": "284",
     "artistansongmname": "The Chainsmokers & Coldplay - Something Just Like This.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -8520,7 +8520,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/The%20Chainsmokers%20&%20Coldplay%20-%20Something%20Just%20Like%20This.mp3"
   },
   {
-    "id": 285,
+    "id": "285",
     "artistansongmname": "Timmy Trumpet & Savage - Freaks.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -8550,7 +8550,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Timmy%20Trumpet%20&%20Savage%20-%20Freaks%20(Official%20Video).mp3"
   },
   {
-    "id": 286,
+    "id": "286",
     "artistansongmname": "Timmy Trumpet - Freaks.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -8580,7 +8580,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Timmy%20Trumpet%20-%20Freaks.mp3"
   },
   {
-    "id": 287,
+    "id": "287",
     "artistansongmname": "Toni Zen - Skandal.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -8610,7 +8610,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Toni%20Zen%20-%20Skandal.mp3"
   },
   {
-    "id": 288,
+    "id": "288",
     "artistansongmname": "Toploader - Dancing in the Moonlight - ToploaderVEVO.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -8640,7 +8640,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Toploader%20-%20Dancing%20in%20the%20Moonlight%20(Official%20Video)%20-%20ToploaderVEVO.mp3"
   },
   {
-    "id": 289,
+    "id": "289",
     "artistansongmname": "Toploader - Dancing in the Moonlight.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -8670,7 +8670,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Toploader%20-%20Dancing%20in%20the%20Moonlight%20(Official%20Video).mp3"
   },
   {
-    "id": 290,
+    "id": "290",
     "artistansongmname": "Train - Shake Up Christmas.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -8700,7 +8700,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Train%20-%20Shake%20Up%20Christmas%20(Official%20Video).mp3"
   },
   {
-    "id": 291,
+    "id": "291",
     "artistansongmname": "Traker ft Tasko - Crna Mecka.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -8730,7 +8730,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Traker%20ft%20Tasko%20-%20Crna%20Mecka%20(Official%20Video).mp3"
   },
   {
-    "id": 292,
+    "id": "292",
     "artistansongmname": "Travis Scott - SICKO MODE.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -8760,7 +8760,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Travis%20Scott%20-%20SICKO%20MODE.mp3"
   },
   {
-    "id": 293,
+    "id": "293",
     "artistansongmname": "Travis Scott - STARGAZING (Audio).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -8790,7 +8790,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Travis%20Scott%20-%20STARGAZING%20(Audio).mp3"
   },
   {
-    "id": 294,
+    "id": "294",
     "artistansongmname": "Tyga - Ayy Macarena (Remix) ft. Snoop Dogg (Official Audio) [Prod by. JAE] - RMX400 JAE.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -8820,7 +8820,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Tyga%20-%20Ayy%20Macarena%20(Remix)%20ft.%20Snoop%20Dogg%20(Official%20Audio)%20%5bProd%20by.%20JAE%5d%20-%20RMX400%20JAE.mp3"
   },
   {
-    "id": 295,
+    "id": "295",
     "artistansongmname": "Tyga - Ayy Macarena (Remix) ft. Snoop Dogg (Official Audio) [Prod by. JAE].mp3",
     "genre": "Any",
     "bandinfo": {
@@ -8850,7 +8850,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Tyga%20-%20Ayy%20Macarena%20(Remix)%20ft.%20Snoop%20Dogg%20(Official%20Audio)%20%5bProd%20by.%20JAE%5d.mp3"
   },
   {
-    "id": 296,
+    "id": "296",
     "artistansongmname": "Unconfirmed 233975.crdownload",
     "genre": "Any",
     "bandinfo": {
@@ -8880,7 +8880,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Unconfirmed%20233975.crdownload"
   },
   {
-    "id": 297,
+    "id": "297",
     "artistansongmname": "Unholy - Sam Smith and Kim petras (Lyrics video).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -8910,7 +8910,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Unholy%20-%20Sam%20Smith%20and%20Kim%20petras%20(Lyrics%20video).mp3"
   },
   {
-    "id": 298,
+    "id": "298",
     "artistansongmname": "VOYAGE X ELENA - LONDON.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -8940,7 +8940,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/VOYAGE%20X%20ELENA%20-%20LONDON%20(OFFICIAL%20VIDEO).mp3"
   },
   {
-    "id": 299,
+    "id": "299",
     "artistansongmname": "VUK MOB X COBY - HEINEKEN.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -8970,7 +8970,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/VUK%20MOB%20X%20COBY%20-%20HEINEKEN%20(OFFICIAL%20VIDEO).mp3"
   },
   {
-    "id": 300,
+    "id": "300",
     "artistansongmname": "Vladimir Cetkar – A New Day.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -9000,7 +9000,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Vladimir%20Cetkar%20%e2%80%93%20A%20New%20Day%20(Official%20Video).mp3"
   },
   {
-    "id": 301,
+    "id": "301",
     "artistansongmname": "Vladimir Cetkar - Don't Make Me Wait.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -9030,7 +9030,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Vladimir%20Cetkar%20-%20Don't%20Make%20Me%20Wait%20(Official%20Video).mp3"
   },
   {
-    "id": 302,
+    "id": "302",
     "artistansongmname": "Vladimir Cetkar - Travel The World (Regie Rules Remix) (Luka Edit).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -9060,7 +9060,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Vladimir%20Cetkar%20-%20Travel%20The%20World%20(Regie%20Rules%20Remix)%20(Luka%20Edit).mp3"
   },
   {
-    "id": 303,
+    "id": "303",
     "artistansongmname": "Vladimir Cetkar - Travel The World (Regie Rules Remix).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -9090,7 +9090,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Vladimir%20Cetkar%20-%20Travel%20The%20World%20(Regie%20Rules%20Remix).mp3"
   },
   {
-    "id": 304,
+    "id": "304",
     "artistansongmname": "Voyage, Mero - Block Life.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -9120,7 +9120,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Voyage,%20Mero%20-%20Block%20Life.mp3"
   },
   {
-    "id": 305,
+    "id": "305",
     "artistansongmname": "Voyage, SNIK - Bounce.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -9150,7 +9150,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Voyage,%20SNIK%20-%20Bounce.mp3"
   },
   {
-    "id": 306,
+    "id": "306",
     "artistansongmname": "WE PRAY - Coldplay, Little Simz, Burna Boy, Elyanna, TINI (Official Audio).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -9180,7 +9180,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/WE%20PRAY%20-%20Coldplay,%20Little%20Simz,%20Burna%20Boy,%20Elyanna,%20TINI%20(Official%20Audio).mp3"
   },
   {
-    "id": 307,
+    "id": "307",
     "artistansongmname": "Whales, Fraxo, Lox Chatterbox - Dead To Me (feat. Lox Chatterbox) (Slow   Reverb) (1).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -9210,7 +9210,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Whales,%20Fraxo,%20Lox%20Chatterbox%20-%20Dead%20To%20Me%20(feat.%20Lox%20Chatterbox)%20(Slow%20+%20Reverb)%20(1).mp3"
   },
   {
-    "id": 308,
+    "id": "308",
     "artistansongmname": "Whales, Fraxo, Lox Chatterbox - Dead To Me (feat. Lox Chatterbox) (Slow   Reverb).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -9240,7 +9240,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Whales,%20Fraxo,%20Lox%20Chatterbox%20-%20Dead%20To%20Me%20(feat.%20Lox%20Chatterbox)%20(Slow%20+%20Reverb).mp3"
   },
   {
-    "id": 309,
+    "id": "309",
     "artistansongmname": "Wiz Khalifa - Black And Yellow [G-Mix] ft. Snoop Dogg, Juicy J & T-Pain.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -9270,7 +9270,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Wiz%20Khalifa%20-%20Black%20And%20Yellow%20%5bG-Mix%5d%20ft.%20Snoop%20Dogg,%20Juicy%20J%20&%20T-Pain.mp3"
   },
   {
-    "id": 310,
+    "id": "310",
     "artistansongmname": "Wiz Khalifa - Black And Yellow [Official Music Video].mp3",
     "genre": "Any",
     "bandinfo": {
@@ -9300,7 +9300,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Wiz%20Khalifa%20-%20Black%20And%20Yellow%20%5bOfficial%20Music%20Video%5d.mp3"
   },
   {
-    "id": 311,
+    "id": "311",
     "artistansongmname": "Wiz Khalifa - Medicated feat. Chevy Woods & Juicy J [Official Audio].mp3",
     "genre": "Any",
     "bandinfo": {
@@ -9330,7 +9330,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Wiz%20Khalifa%20-%20Medicated%20feat.%20Chevy%20Woods%20&%20Juicy%20J%20%5bOfficial%20Audio%5d.mp3"
   },
   {
-    "id": 312,
+    "id": "312",
     "artistansongmname": "Wiz Khalifa - We Dem Boyz.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -9360,7 +9360,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Wiz%20Khalifa%20-%20We%20Dem%20Boyz.mp3"
   },
   {
-    "id": 313,
+    "id": "313",
     "artistansongmname": "XXXTENTACION - MOONLIGHT (OFFICIAL MUSIC VIDEO).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -9390,7 +9390,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/XXXTENTACION%20-%20MOONLIGHT%20(OFFICIAL%20MUSIC%20VIDEO).mp3"
   },
   {
-    "id": 314,
+    "id": "314",
     "artistansongmname": "Xavier Wulf - Tokyo Drift.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -9420,7 +9420,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Xavier%20Wulf%20-%20Tokyo%20Drift.mp3"
   },
   {
-    "id": 315,
+    "id": "315",
     "artistansongmname": "Y2K, bbno - Lalala.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -9450,7 +9450,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Y2K,%20bbno%20-%20Lalala%20(Official%20Video).mp3"
   },
   {
-    "id": 316,
+    "id": "316",
     "artistansongmname": "YoungBoy Never Broke Again - Outside Today.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -9480,7 +9480,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/YoungBoy%20Never%20Broke%20Again%20-%20Outside%20Today.mp3"
   },
   {
-    "id": 317,
+    "id": "317",
     "artistansongmname": "Young Thug - Mannequin Challenge ft. Juice WRLD (Official Audio).mp3",
     "genre": "Any",
     "bandinfo": {
@@ -9510,7 +9510,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Young%20Thug%20-%20Mannequin%20Challenge%20ft.%20Juice%20WRLD%20(Official%20Audio).mp3"
   },
   {
-    "id": 318,
+    "id": "318",
     "artistansongmname": "Za njom.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -9540,7 +9540,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Za%20njom.mp3"
   },
   {
-    "id": 319,
+    "id": "319",
     "artistansongmname": "Zapali Grad.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -9570,7 +9570,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Zapali%20Grad.mp3"
   },
   {
-    "id": 320,
+    "id": "320",
     "artistansongmname": "Zerb & The Chainsmokers - Addicted (feat. INK) [Official Audio].mp3",
     "genre": "Any",
     "bandinfo": {
@@ -9600,7 +9600,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Zerb%20&%20The%20Chainsmokers%20-%20Addicted%20(feat.%20INK)%20%5bOfficial%20Audio%5d.mp3"
   },
   {
-    "id": 321,
+    "id": "321",
     "artistansongmname": "Zerb - Mwaki (Feat. Sofiya_Nzau) [Official Music Video].mp3",
     "genre": "Any",
     "bandinfo": {
@@ -9630,7 +9630,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Zerb%20-%20Mwaki%20(Feat.%20Sofiya_Nzau)%20%5bOfficial%20Music%20Video%5d.mp3"
   },
   {
-    "id": 322,
+    "id": "322",
     "artistansongmname": "Zvuci Podrinja - Visok napon struja jaka.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -9660,7 +9660,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/Zvuci%20Podrinja%20-%20Visok%20napon%20struja%20jaka.mp3"
   },
   {
-    "id": 323,
+    "id": "323",
     "artistansongmname": "cassö, RAYE, D-Block Europe - Prada.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -9690,7 +9690,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/cass%c3%b6,%20RAYE,%20D-Block%20Europe%20-%20Prada.mp3"
   },
   {
-    "id": 324,
+    "id": "324",
     "artistansongmname": "studeni noze - kuceto moe.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -9720,7 +9720,7 @@
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/studeni%20noze%20-%20kuceto%20moe.mp3"
   },
   {
-    "id": 325,
+    "id": "325",
     "artistansongmname": "will.i.am - Scream & Shout ft. Britney Spears.mp3",
     "genre": "Any",
     "bandinfo": {
@@ -9748,5 +9748,347 @@
     "artistName": "will.i.am",
     "songName": "Scream & Shout ft. Britney Spears",
     "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/will.i.am%20-%20Scream%20&%20Shout%20ft.%20Britney%20Spears.mp3"
+  },
+  {
+    "id": "8923",
+    "userId": "",
+    "artistansongmname": "New Song - Testing123",
+    "songgenre": "Any",
+    "bandinfo": {
+      "singer1": {
+        "fulName": "New Song",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "New Song",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "New Song",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      }
+    },
+    "artistName": "New Song",
+    "songName": "Testing123",
+    "songurl": "http://lukaserver.ddns.net",
+    "addedAt": "2025-02-17T18:52:35.487Z"
+  },
+  {
+    "id": "3ff0",
+    "userId": "",
+    "artistansongmname": "HTTP server - Luka",
+    "genre": "Testing123",
+    "bandinfo": {
+      "existentDJinBand": false,
+      "singer1": {
+        "fulName": "HTTP server",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "HTTP server",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "HTTP server",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      }
+    },
+    "artistName": "HTTP server",
+    "songName": "Luka",
+    "songurl": "Testing123",
+    "addedAt": "2025-02-17T19:11:00.094Z"
+  },
+  {
+    "id": "fc05",
+    "userId": "",
+    "artistansongmname": "HTTP server - Luka",
+    "genre": "Testing123",
+    "bandinfo": {
+      "existentDJinBand": false,
+      "singer1": {
+        "fulName": "HTTP server",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "HTTP server",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "HTTP server",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      }
+    },
+    "artistName": "HTTP server",
+    "songName": "Luka",
+    "songurl": "Testing123",
+    "addedAt": "2025-02-17T19:11:38.803Z"
+  },
+  {
+    "id": "95af",
+    "userId": "",
+    "artistansongmname": "HTTP server - Luka",
+    "genre": "Testing123",
+    "bandinfo": {
+      "existentDJinBand": false,
+      "singer1": {
+        "fulName": "HTTP server",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "HTTP server",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "HTTP server",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      }
+    },
+    "artistName": "HTTP server",
+    "songName": "Luka",
+    "songurl": "Testing123",
+    "addedAt": "2025-02-17T19:11:56.108Z"
+  },
+  {
+    "id": "ed52",
+    "userId": "",
+    "artistansongmname": "HTTP server - Luka",
+    "genre": "Testing123",
+    "bandinfo": {
+      "existentDJinBand": false,
+      "singer1": {
+        "fulName": "HTTP server",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "HTTP server",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "HTTP server",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      }
+    },
+    "artistName": "HTTP server",
+    "songName": "Luka",
+    "songurl": "Testing123",
+    "addedAt": "2025-02-17T19:11:56.680Z"
+  },
+  {
+    "id": "f49f",
+    "userId": "",
+    "artistansongmname": "HTTP server - Luka",
+    "genre": "Testing123",
+    "bandinfo": {
+      "existentDJinBand": false,
+      "singer1": {
+        "fulName": "HTTP server",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "HTTP server",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "HTTP server",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      }
+    },
+    "artistName": "HTTP server",
+    "songName": "Luka",
+    "songurl": "Testing123",
+    "addedAt": "2025-02-17T19:11:57.012Z"
+  },
+  {
+    "id": "e7cf",
+    "userId": "",
+    "artistansongmname": "HTTP server - Luka",
+    "genre": "Testing123",
+    "bandinfo": {
+      "existentDJinBand": false,
+      "singer1": {
+        "fulName": "HTTP server",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "HTTP server",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "HTTP server",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      }
+    },
+    "artistName": "HTTP server",
+    "songName": "Luka",
+    "songurl": "Testing123",
+    "addedAt": "2025-02-17T19:11:57.280Z"
+  },
+  {
+    "id": "6d28",
+    "userId": "",
+    "artistansongmname": "HTTP server - Luka",
+    "genre": "Testing123",
+    "bandinfo": {
+      "existentDJinBand": false,
+      "singer1": {
+        "fulName": "HTTP server",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "HTTP server",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "HTTP server",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      }
+    },
+    "artistName": "HTTP server",
+    "songName": "Luka",
+    "songurl": "Testing123",
+    "addedAt": "2025-02-17T19:11:57.532Z"
+  },
+  {
+    "id": "bc2d",
+    "userId": "",
+    "artistansongmname": "HTTP server - Luka",
+    "genre": "Testing123",
+    "bandinfo": {
+      "existentDJinBand": false,
+      "singer1": {
+        "fulName": "HTTP server",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "HTTP server",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "HTTP server",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      }
+    },
+    "artistName": "HTTP server",
+    "songName": "Luka",
+    "songurl": "Testing123",
+    "addedAt": "2025-02-17T19:12:45.052Z"
+  },
+  {
+    "id": "3f6f",
+    "userId": "",
+    "artistansongmname": "2Bona & FYRE - BABY",
+    "genre": "Macedonian",
+    "bandinfo": {
+      "existentDJinBand": false,
+      "singer1": {
+        "fulName": "2Bona & FYRE",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "2Bona & FYRE",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "2Bona & FYRE",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": "Антонио Стојановски,Марио Јелиќ"
+    },
+    "artistName": "2Bona & FYRE",
+    "songName": "BABY",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/2Bona%20&%20FYRE%20-%20BABY%20(Official%20Video).mp3",
+    "addedAt": "2025-02-19T17:07:05.590Z"
+  },
+  {
+    "id": "2512",
+    "userId": "",
+    "artistansongmname": "2BONA x THCF - KOMIRAN",
+    "genre": "Macedonian,Serbian",
+    "bandinfo": {
+      "existentDJinBand": false,
+      "singer1": {
+        "fulName": "2BONA x THCF",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "singer2": {
+        "fulName": "2BONA x THCF",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "person3": {
+        "fulName": "2BONA x THCF",
+        "born": "",
+        "description": "",
+        "wasOnIDJShow": false
+      },
+      "NamesOfSingers": "Антонио Стојановски,Марио Јелиќ, Borko Vujičić,Stefan Gligorijević"
+    },
+    "artistName": "2BONA x THCF",
+    "songName": "KOMIRAN",
+    "songurl": "http://lukaserver.ddns.net/youtubeclone/audios/2%20BONA%20x%20THCF%20-%20KOMIRAN.mp3",
+    "addedAt": "2025-02-19T17:08:43.744Z"
   }
 ]
