@@ -50,7 +50,7 @@ function renderTableData(songs) {
 		artistCell.innerHTML = `<div title="View Artist ${song.artistName} on Google"><a href="https://www.google.com/search?q=${song.artistName}" style="text-decoration: none; color:inherit;";">${song.artistName}</a>`;
 
         const coverArtCell = document.createElement('td');
-		coverArtCell.innerHTML = `<img src="${song.thumbnailurl}" alt="Thumbnail" height="100" width="100">`
+		coverArtCell.innerHTML = `<img src="${song.thumbnailurl}" alt="Album Cover" height="100" width="100">`
 
 		const playCell = document.createElement('td');
 		playCell.innerHTML = `<div id="div-song-play-btn-${song.id}" title="Play song '${song.songName}'"><a id="play-btn-${song.id}" style="text-decoration: none;" href="javascript:playSong('${song.songurl}','${song.id}');">Play</a></div>`;
