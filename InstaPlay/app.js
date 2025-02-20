@@ -49,6 +49,9 @@ function renderTableData(songs) {
 		const artistCell = document.createElement('td');
 		artistCell.innerHTML = `<div title="View Artist ${song.artistName} on Google"><a href="https://www.google.com/search?q=${song.artistName}" style="text-decoration: none; color:inherit;";">${song.artistName}</a>`;
 
+        const coverArtCell = document.createElement('td');
+		coverArtCell.innerHTML = `<img src="${song.thumbnailurl}" alt="" height="100" width="100">`
+
 		const playCell = document.createElement('td');
 		playCell.innerHTML = `<div id="div-song-play-btn-${song.id}" title="Play song '${song.songName}'"><a id="play-btn-${song.id}" style="text-decoration: none;" href="javascript:playSong('${song.songurl}','${song.id}');">Play</a></div>`;
 
@@ -78,7 +81,7 @@ function renderTableData(songs) {
 		// 	actionsCell.innerHTML = `<button id="add-btn-${song.id}" class="btn btn-primary">Add to playlist</button>`
 		// }
 
-		row.append(idCell, titleCell, artistCell, genreCell, bandCell, wasonIDJShowCell, djcell, playCell, actionsCell);
+		row.append(idCell, titleCell, artistCell, coverArtCell, genreCell, bandCell, wasonIDJShowCell, djcell, playCell, actionsCell);
 		tableBody.append(row);
 
 		const isSongInPlaylist = playlist.find((playlistSong) => playlistSong.id === song.id);
