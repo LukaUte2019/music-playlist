@@ -1,4 +1,4 @@
-let loadOnlineAPI = true;
+let loadOnlineAPI = false;
 
 
 const errorElement = document.getElementById('error');
