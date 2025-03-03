@@ -4,7 +4,7 @@ let loadOnlineAPI = true;
 const errorElement = document.getElementById('error');
 
 $.ajax({
-	url: "http://lukaserver.ddns.net:81/songs",
+	url: "http://lukaserver.ddns.net:81/makhits",
 
 	success: function(data) {
 	errorElement.style.display = 'none';
@@ -18,7 +18,7 @@ $.ajax({
 export async function getSongs() {
 
 	if (loadOnlineAPI) {
-		const response = await fetch('http://lukaserver.ddns.net:81/songs');
+		const response = await fetch('http://lukaserver.ddns.net:81/makhits');
 		const songs = await response.json();
 		return new Promise((resolve) => {
 			const delay = Math.floor(Math.random() * 3000) + 1000;
