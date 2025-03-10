@@ -9,6 +9,15 @@ const playlistBtn = document.getElementById('page-playlist-btn');
 const musicBtn = document.getElementById('page-music-btn');
 const pagination = document.getElementById('pagination');
 
+function copy(event) {
+    var target = event.target;
+    var copyText = target.nextElementSibling;
+
+    navigator.clipboard.writeText(copyText.value);
+
+    alert("Copied: " + copyText.value);
+}
+
 errorElement.style.display = 'none';
 let songsList = [];
 let playlist = [];
@@ -52,6 +61,13 @@ function renderTableData(songs) {
         const coverArtCell = document.createElement('td');
 		coverArtCell.innerHTML = `<img src="${song.thumbnailurl}" alt="Album Cover" height="100" width="100">`
 
+		const shareCell = document.createElement('td');
+		let shareUrl = `'http://lukaserver.ddns.net/lukifyshare/openSong.php?image=${song.thumbnailurl}&artistname=${song.artistName}&songname=${song.songName}&songurl=${song.songurl}'`;
+		shareCell.innerHTML = `<a style="text-decoration: none; color:inherit;" id="div-song-share-btn-${song.id}" href="javascript:navigator.clipboard.writeText(${shareUrl})";">Copy</a>`;
+
+		const openShare = document.createElement('td');
+		openShare.innerHTML = `<a style="text-decoration: none; color:inherit;" id="div-song-share-btn-${song.id}" href="http://lukaserver.ddns.net/lukifyshare/openSong.php?image=${song.thumbnailurl}&artistname=${song.artistName}&songname=${song.songName}&songurl=${song.songurl}";">Open Link</a>`;
+        
 		const playCell = document.createElement('td');
 		playCell.innerHTML = `<div id="div-song-play-btn-${song.id}" title="Play song '${song.songName}'"><a id="play-btn-${song.id}" style="text-decoration: none;" href="javascript:playSong('${song.songurl}','${song.id}');">Play</a></div>`;
 
@@ -81,7 +97,7 @@ function renderTableData(songs) {
 		// 	actionsCell.innerHTML = `<button id="add-btn-${song.id}" class="btn btn-primary">Add to playlist</button>`
 		// }
 
-		row.append(idCell, titleCell, artistCell, coverArtCell, genreCell, bandCell, wasonIDJShowCell, djcell, playCell, actionsCell);
+		row.append(idCell, titleCell, artistCell, coverArtCell, genreCell, bandCell, wasonIDJShowCell, djcell, shareCell, openShare, playCell, actionsCell);
 		tableBody.append(row);
 
 		const isSongInPlaylist = playlist.find((playlistSong) => playlistSong.id === song.id);
