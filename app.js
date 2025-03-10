@@ -49,6 +49,10 @@ function renderTableData(songs) {
 		const artistCell = document.createElement('td');
 		artistCell.innerHTML = `<div title="View Artist ${song.artistName} on Google"><a href="https://www.google.com/search?q=${song.artistName}" style="text-decoration: none; color:inherit;";">${song.artistName}</a>`;
 
+		const shareCell = document.createElement('td');
+		let shareUrl = `http://lukaserver.ddns.net/lukifyshare/openSong.php?image=${song.thumbnailurl}&artistname=${song.artistName}&songname=${song.songName}&songurl=${song.songurl}`;
+		shareCell.innerHTML = `<a style="text-decoration: none; color:inherit;" id="div-song-share-btn-${song.id}" href="${shareUrl}";">Open link</a>`;
+
 		const playCell = document.createElement('td');
 		playCell.innerHTML = `<div id="div-song-play-btn-${song.id}" title="Play song '${song.songName}'"><a id="play-btn-${song.id}" style="text-decoration: none;" href="javascript:playSong('${song.songurl}','${song.id}');">Play</a></div>`;
 
@@ -78,7 +82,7 @@ function renderTableData(songs) {
 		// 	actionsCell.innerHTML = `<button id="add-btn-${song.id}" class="btn btn-primary">Add to playlist</button>`
 		// }
 
-		row.append(idCell, titleCell, artistCell, genreCell, bandCell, wasonIDJShowCell, djcell, playCell, actionsCell);
+		row.append(idCell, titleCell, artistCell, genreCell, bandCell, wasonIDJShowCell, djcell, shareCell, playCell, actionsCell);
 		tableBody.append(row);
 
 		const isSongInPlaylist = playlist.find((playlistSong) => playlistSong.id === song.id);

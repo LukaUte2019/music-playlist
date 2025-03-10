@@ -28,7 +28,7 @@ export async function getSongs() {
 		})
 	    
 	} else {
-		const response = await fetch('ltmusicapp/InstaPlay/songs.json');
+		const response = await fetch('./songs.json');
 		const songs = await response.json();
 		return new Promise((resolve) => {
 			const delay = Math.floor(Math.random() * 3000) + 1000;
